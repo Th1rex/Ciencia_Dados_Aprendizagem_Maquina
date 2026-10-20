@@ -18,22 +18,27 @@ Distinguir programação tradicional e Machine Learning, identificar atributos e
 
 ## 1. Explicação com suas palavras
 
-1. Como um modelo aprende com dados? **PREENCHER**
-2. Qual diferença entre algoritmo e modelo? **PREENCHER**
-3. Compare uma regra de bloqueio de palavra com um modelo de spam. **PREENCHER**
-4. Dê um exemplo de atributo e alvo e defina o momento da previsão. **PREENCHER**
+1. Como um modelo aprende com dados?
+Um modelo aprende analisando e identificando vários exemplos e padrões, e com isso ele usa parâmetros para conseguir fazer uma tomada de decisões, com os dados.
+2. Qual diferença entre algoritmo e modelo?
+O algoritmo é a junção de regras e métodos usados para aprender com os dados, já o modelo, resultado desses da utilização desses dados que pode ser usado para fazer uma previsão ou classificação 
+3. Compare uma regra de bloqueio de palavra com um modelo de spam.
+Uma regra de bloqueio procura uma condição especifica, como por exemplo uma palavra especifica, cor, elemento, etc, já o modelo de spam junta um conjunto de características que consegue identificar um padrão classificando a mensagem com o spam. 
+4. Dê um exemplo de atributo e alvo e defina o momento da previsão.
+Os atributos são características ou dados do usuário, como idade, localização, horários, histórico de compras, o alvo é aquilo que se quer saber, por exemplo quem com essas características vão ter a maior probabilidade de comprar ou não, e o momento da previsão é o quando acontece para sabermos o resultado, então quando damos todas essas informações ao “agente” ele consegue prever novas tendencias ou possíveis “compras”. 
+
 
 ## 2. Quadro comparativo
 
 | Critério | Supervisionado | Não supervisionado |
 | --- | --- | --- |
-| Presença de alvo no treino | PREENCHER | PREENCHER |
-| Pergunta que pode responder | PREENCHER | PREENCHER |
-| Tipo de saída | PREENCHER | PREENCHER |
-| Tarefas e exemplo | PREENCHER | PREENCHER |
-| Dados necessários | PREENCHER | PREENCHER |
-| Forma de avaliação | PREENCHER | PREENCHER |
-| Limitação | PREENCHER | PREENCHER |
+| Presença de alvo no treino | Possui um alvo conhecido, como comprou ou não comprou | Não possui um alvo definido previamente. |
+| Pergunta que pode responder | Esse usuário provavelmente vai comprar ou não? | Existem grupos de usuários com comportamentos semelhantes? |
+| Tipo de saída | Uma previsão, como compra/não compra ou uma probabilidade de compra | Grupos, padrões ou relações encontrados nos dados |
+| Tarefas e exemplo | Classificação e regressão, exemplo prever se um usuário vai comprar um produto com base em idade, local e historico | Agrupamento, exemolo separar usuários em grupos de acordo com seus hábitos de compra |
+| Dados necessários | Dados com exemplos anteriores e o resultado conhecido, como usuários que compraram ou não | Dados dos usuários com suas caracteristicas, mas sem informar previamente qual grupo ou resultado eles pertencem |
+| Forma de avaliação | Compara a previsão do modelo com o resultado real | Avalia se os grupos encontrados fazem sentido e se os usuários de cada grupo são semelhantes |
+| Limitação | Precisa de dados ja classificados, o que pode exigir bastante trabalho para coletar e organizar | Pode ser dificil interpretar corretamente os grupos e padrões encontrados|
 
 ## 3. Situações-problema
 
@@ -52,11 +57,11 @@ Os casos são cenários didáticos. Escolha **pelo menos cinco** e justifique su
 
 | Caso escolhido | Alvo ou ausência de alvo | Categoria, quantidade ou grupos? | Abordagem e justificativa | Dados necessários e limitação |
 | --- | --- | --- | --- | --- |
-| PREENCHER | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
-| PREENCHER | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
-| PREENCHER | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
-| PREENCHER | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
-| PREENCHER | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
+| Comércio | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
+| Saúde | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
+| Segurança | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
+| Finanças | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
+| Educação | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
 
 ## 4. Raciocínio crítico
 
