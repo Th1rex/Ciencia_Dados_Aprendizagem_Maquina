@@ -57,7 +57,7 @@ Os casos são cenários didáticos. Escolha **pelo menos cinco** e justifique su
 
 | Caso escolhido | Alvo ou ausência de alvo | Categoria, quantidade ou grupos? | Abordagem e justificativa | Dados necessários e limitação |
 | --- | --- | --- | --- | --- |
-| Comércio | Não existem informações sobre o perfil de clientes | Grupos? | Não supervisionado, o objetivo é descobrir perfis pela semelhança no comportamento de compra | Historico de compras, tipo de produtos, valor meédio, deve ser em um periodo festivo do ano |
+| Comércio | Não existem informações sobre o perfil de clientes | Grupos | Não supervisionado, o objetivo é descobrir perfis pela semelhança no comportamento de compra | Historico de compras, tipo de produtos, valor meédio, deve ser em um periodo festivo do ano |
 | Saúde | Tempo de espera nos ultimos atendimentos | Quantidade de tempo | Supervisionado, saber a quantidade de tempo que está levando para cada atendimento se iniciar  | Resgistro da chegada, triagem e consulta, tipo de atendimento (verde, amarelo, laranja e vermelho) quantidade de profissionais ativos, e o tempo total do incio ao fim |
 | Segurança | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
 | Finanças | PREENCHER | PREENCHER | PREENCHER | PREENCHER |
