@@ -1,31 +1,12 @@
-![][image1]
 
-**TEMPLATE** 
+Atividade Prática — Detetives dos Dados
 
-**Definição do Projeto** 
+Ciência de Dados e Aprendizagem de Máquina — Aula 01
 
-**de Ciência de Dados** 
-
-**Unidade III \- Gestão de Projetos** 
-
-**Equipe** 
-
-**Turma** 
-
-**Professor(a)** 
-
-**Data** 
-
-**PBL \+ trabalho em equipes** 
-
-Defina um problema real, o público-alvo, os objetivos e as perguntas de negócio antes de iniciar a análise.  
-**Unidade:** III \- Gestão de Projetos 
-
-**Metodologia:** PBL \+ trabalho em equipes 
-
-**Entregável:** Documento de definição do projeto 
-
-**Finalidade:** delimitar um problema real e orientar o desenvolvimento do projeto de Ciência de Dados.  Preencha todos os campos com informações objetivas, verificáveis e coerentes entre si. 
+Tema: Introdução à Ciência de Dados e Big Data
+Metodologia: Trabalho em equipe
+Tempo: 20 minutos
+Entregável: Mapa do Problema de Ciência de Dados
 
 **1\. Identificação do projeto** 
 
