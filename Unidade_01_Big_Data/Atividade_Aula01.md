@@ -350,11 +350,11 @@ Antes de entregar, confira:
 
 Responda individualmente ou em equipe:
 
-«Ter muitos dados significa necessariamente tomar boas decisões? Por quê?»
+Ter muitos dados significa necessariamente tomar boas decisões? Por quê?
 
 Resposta:
 
-«Não. Ter muitos dados não significa necessariamente tomar boas decisões. É preciso que os dados sejam confiáveis e que sejam organizados, analisados e interpretados corretamente. No TechMotors, mil avaliações não ajudam o cliente se forem falsas ou injustas, e preços "a partir de" não mostram o valor real do serviço. Por isso, a qualidade dos dados importa mais do que a quantidade.»
+Não, ter muitos dados não significa necessariamente tomar boas decisões. É preciso que os dados sejam confiáveis e que sejam organizados, analisados e interpretados corretamente. No TechMotors, mil avaliações não ajudam o cliente se forem falsas ou injustas, e preços "a partir de" não mostram o valor real do serviço. Por isso, a qualidade dos dados importa mais do que a quantidade.
 
 ---
 
