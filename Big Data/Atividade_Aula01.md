@@ -1,4 +1,4 @@
- # Template - Definição do Projeto de Ciência de Dados
+ # Definição do Projeto de Ciência de Dados
 
 **Unidade:** III - Gestão de Projetos  
 **Metodologia:** PBL + trabalho em equipes  
