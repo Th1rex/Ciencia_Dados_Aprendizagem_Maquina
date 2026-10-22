@@ -7,10 +7,10 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 ## Identificação
 
-- Estudante ou equipe: **Thiago**
-- Turma: **PREENCHER**
-- Data de realização: **22/10/2026**
-- Integrantes e contribuições (se em equipe): **Não se aplica (trabalho individual)**
+- Estudante ou equipe: Thiago Regis Vieira Rocha
+- Turma: Sistemas de Informação
+- Data de realização: 20/10/2026
+- Integrantes e contribuições (se em equipe): Thiago Regis Vieira Rocha
 
 ## Objetivos
 
