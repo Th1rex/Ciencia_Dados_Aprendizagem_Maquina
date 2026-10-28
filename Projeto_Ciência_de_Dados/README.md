@@ -8,6 +8,25 @@ metodologia: https://www.ibm.com/docs/pt-br/SS3RA7_18.5.0/nl/pt/BR/pdf/ModelerCR
   Pergunta: Os clientes escolhem a oficina mais pela nota, pela distância ou pelo preço?
   Pergunta: Quais características separam as oficinas mais bem avaliadas das demais?
 
+  Crisp - BM  Metodologia 
+Bibliotecas:
+Pandas
+
+Orange - Data Science (Incorpora o que a maioria das bibliotecas faz)
+
+Visualização/Demonstração dos Dados (Algoritmos, PowerBI) (Conter os dados brutos, o documento que vamos gerar, e o dashboard funcional)  
+SQL no projeto (KPI [Qual a quantidade de pessoas usam alguma coisa]). 
+Estruturação dos Dados - Como ele funciona. 
+Documentação 
+Referencia a quem fez, de onde pegou os dados, documentos etc
+A amostra deve conter no minimo 1000 dados. 
+bibliotecas que podem ser utilizadas
+pandas
+pysdark
+Vale a pena investir na franquia da pizza hut? 
+Estatisca (Analise de Regressão, e Aprendizado Supervisionado e Não Supervisionado) 
+
+
 ## Referencia:
 
 Entendimento dos Dados: Coleta e exploração inicial para identificar a qualidade e as características das bases.
