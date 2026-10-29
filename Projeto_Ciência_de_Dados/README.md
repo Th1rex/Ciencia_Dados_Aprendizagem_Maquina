@@ -10,8 +10,8 @@ metodologia: https://www.ibm.com/docs/pt-br/SS3RA7_18.5.0/nl/pt/BR/pdf/ModelerCR
 6 - Implantação (Deployment): Colocação do modelo ou dos insights em produção para uso prático. [1, 2, 3, 4, 5, 6]
 
 
-  ## Pergunta: Os clientes escolhem a oficina mais pela nota, pela distância ou pelo preço? Pergunta para ser respondida
-  ## subPergunta: Quais características separam as oficinas mais bem avaliadas das demais?
+ ## Pergunta: Os clientes escolhem a oficina mais pela nota, pela distância ou pelo preço? Pergunta para ser respondida
+## subPergunta: Quais características separam as oficinas mais bem avaliadas das demais?
 
   
 ## Bibliotecas:
@@ -29,4 +29,11 @@ A amostra deve conter no minimo 1000 dados.
 Estatisca (Analise de Regressão, e Aprendizado Supervisionado e Não Supervisionado) 
 Insights: Qual a descoberta? A resposta da pergunta (Por qual motivo os clientes escolhem uma oficina)
 
-## Referencia: Onde saiu os dados brutos
+## Referencias:
+https://portaldaautopeca.com.br/noticias/local/confianca-pesa-mais-que-preco-na-escolha-da-oficina-mecanica-confirma-pesquisa-iqa-ipsos/
+https://app.fiepr.org.br/revistacientifica/index.php/inovamais/article/download/508/492
+https://www.researchgate.net/publication/355932639_Avaliacao_da_Qualidade_do_Servico_em_uma_Oficina_Mecanica_Automotiva_da_Cidade_de_Muritiba-BA
+[https://www.iqa.org.br/imprensa/o-papel-da-qualidade-para-melhoria-da-competitividade-no-setor-automotivo-nacional-por-claudio-moyses/](https://www.iqa.org.br/imprensa/o-papel-da-qualidade-para-melhoria-da-competitividade-no-setor-automotivo-nacional-por-claudio-moyses/)
+https://www.iqa.org.br/imprensa/a-qualidade-como-pilar-para-a-sustentabilidade-no-setor-automotivo-por-claudio-moyses/
+https://www.iqa.org.br/imprensa/a-busca-pela-excelencia-a-qualidade-automotiva-no-brasil-e-o-cenario-global-por-claudio-moyses/
+
