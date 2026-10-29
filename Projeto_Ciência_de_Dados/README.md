@@ -25,7 +25,7 @@ pandas
 pysdark
 Vale a pena investir na franquia da pizza hut? 
 Estatisca (Analise de Regressão, e Aprendizado Supervisionado e Não Supervisionado) 
-
+Insights: Qual a descoberta?
 
 ## Referencia: Onde saiu os dados brutos
 
