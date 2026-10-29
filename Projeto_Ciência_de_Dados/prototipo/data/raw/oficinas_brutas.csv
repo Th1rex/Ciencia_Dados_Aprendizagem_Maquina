@@ -1,0 +1,1213 @@
+id_oficina,nome_oficina,regiao,estado,latitude,longitude,tipo,nota,quantidade_avaliacoes,preco_medio,quantidade_servicos,anos_funcionamento,garantia_estendida
+OF0802,Oficina Simulada 0802,Taguatinga,DF,-15.824268,-48.049872,Independente,4.5,27,519.67,7,17.7,0
+OF0678,Oficina Simulada 0678,Águas Claras,DF,-15.839802,-48.029143,Concessionária,4.3,24,641.12,18,6.3,1
+OF0044,Oficina Simulada 0044,Taguatinga,DF,-15.848831,-48.062383,Concessionária,4.7,31,959.8,14,10.3,1
+OF0991,Oficina Simulada 0991,Guará,DF,-15.818963,-47.986213,Independente,4.5,5,398.02,8,11.9,0
+OF0071,Oficina Simulada 0071,Plano Piloto,DF,-15.788114,-47.886867,Especializada,4.2,17,686.55,3,10.7,0
+OF0705,Oficina Simulada 0705,Plano Piloto,DF,-15.800674,-47.845119,Concessionária,3.8,54,642.11,20,3.6,0
+OF0909,Oficina Simulada 0909,Plano Piloto,DF,-15.829599,-47.885695,Centro automotivo,4.5,17,402.25,9,21.8,0
+OF0211,Oficina Simulada 0211,Recanto das Emas,DF,-15.904437,-48.065318,Concessionária,4.5,205,714.71,11,19.5,0
+OF0600,Oficina Simulada 0600,Guará,DF,-15.842029,-47.993253,Independente,4.8,15,365.83,9,20.5,1
+OF0307,Oficina Simulada 0307,Taguatinga,DF,-15.831029,-48.043561,Independente,4.5,76,297.88,7,9.0,1
+OF0479,Oficina Simulada 0479,Guará,DF,-15.866454,-47.969553,Independente,4.0,36,335.19,12,6.9,0
+OF0949,Oficina Simulada 0949,Vicente Pires,DF,-15.786598,-48.033135,Independente,4.4,25,376.86,8,5.5,0
+OF0876,Oficina Simulada 0876,Vicente Pires,DF,-15.797697,-48.050729,Centro automotivo,3.1,1,364.94,22,6.9,0
+OF0598,Oficina Simulada 0598,Guará,DF,-15.836997,-47.980494,Independente,3.8,63,453.52,11,12.1,0
+OF1070,Oficina Simulada 1070,Taguatinga,DF,-15.804509,-48.054071,Concessionária,4.6,106,848.21,14,27.1,0
+OF1163,Oficina Simulada 1163,Sobradinho,DF,-15.692951,-47.785075,Independente,5.0,18,779.76,14,5.5,1
+OF0232,Oficina Simulada 0232,Planaltina,DF,-15.586478,-47.666809,Independente,4.5,123,499.25,5,18.3,1
+OF0839,Oficina Simulada 0839,planaltina,DF,-15.612188,-47.657512,Centro automotivo,4.3,10,757.03,18,1.8,0
+OF0372,Oficina Simulada 0372,Plano Piloto,DF,-15.81127,-47.88975,Concessionária,5.0,49,714.42,13,10.7,0
+OF0714,Oficina Simulada 0714,Vicente Pires,DF,-15.77044,-48.061056,Concessionária,4.4,32,839.49,11,4.8,0
+OF0426,Oficina Simulada 0426,  São Sebastião ,DF,-15.9112,-47.783091,Independente,3.8,48,546.99,8,11.4,0
+OF1165,Oficina Simulada 1165,Samambaia,DF,-15.872949,-48.114726,Independente,4.2,83,543.91,10,8.6,0
+OF0782,Oficina Simulada 0782,Vicente Pires,DF,-15.835451,-48.023298,Independente,4.0,15,454.77,7,11.3,1
+OF1153,Oficina Simulada 1153,Ceilândia,DF,-15.824689,-48.099964,Independente,4.2,64,388.5,8,24.2,0
+OF0295,Oficina Simulada 0295,Sobradinho,DF,-15.620864,-47.795239,Independente,3.8,13,355.83,7,17.8,0
+OF0452,Oficina Simulada 0452,vicente pires,DF,-15.793422,-48.039635,Especializada,4.1,91,602.09,4,7.6,0
+OF0590,Oficina Simulada 0590,Ceilândia,DF,-15.829681,-48.15329,Centro automotivo,4.3,162,576.36,15,13.5,1
+OF0411,Oficina Simulada 0411,Guará,DF,-15.849165,-47.987696,Independente,4.1,57,315.42,13,7.6,0
+OF0586,Oficina Simulada 0586,Guará,DF,-15.806929,-47.958953,Centro automotivo,4.7,276,395.02,13,10.7,0
+OF0950,Oficina Simulada 0950,Taguatinga,DF,-15.829426,-48.053512,Independente,4.5,32,499.53,12,11.5,1
+OF0694,Oficina Simulada 0694,Taguatinga,DF,-15.814213,-48.064541,Independente,4.4,5,524.14,8,34.2,1
+OF0579,Oficina Simulada 0579,Sobradinho,DF,-15.643882,-47.79156,Concessionária,5.0,21,876.07,15,3.6,1
+OF1159,Oficina Simulada 1159,Planaltina,DF,-15.599475,-47.657621,Independente,4.5,15,670.69,6,19.0,1
+OF0889,Oficina Simulada 0889,Samambaia,DF,-15.855139,-48.112293,Concessionária,4.3,24,729.77,20,9.5,1
+OF0891,Oficina Simulada 0891,Taguatinga,DF,-15.826404,-48.062667,Independente,5.0,120,732.05,6,6.1,1
+OF0197,Oficina Simulada 0197,Guará,DF,-15.829801,-47.973539,Especializada,4.8,36,498.31,11,24.1,1
+OF0744,Oficina Simulada 0744,Ceilândia,DF,-15.816848,-48.105628,Centro automotivo,4.0,45,323.02,22,0.8,0
+OF0366,Oficina Simulada 0366,Planaltina,DF,-15.608889,-47.67476,Independente,4.0,47,378.34,6,3.2,0
+OF0124,Oficina Simulada 0124,Planaltina,DF,-15.620418,-47.636737,Especializada,3.3,22,500.49,8,1.0,0
+OF1038,Oficina Simulada 1038,planaltina,DF,-15.623183,-47.637151,Independente,4.8,3,454.2,7,2.5,0
+OF0045,Oficina Simulada 0045,Sobradinho,DF,-15.611931,-47.8347,Independente,3.9,48,464.48,11,2.7,0
+OF0757,Oficina Simulada 0757,Taguatinga,DF,-15.852687,-48.049996,Independente,4.8,18,490.95,11,11.8,1
+OF0680,Oficina Simulada 0680,Taguatinga,DF,-15.859953,-48.06486,Centro automotivo,4.4,25,514.46,16,7.5,1
+OF0936,Oficina Simulada 0936,Samambaia,DF,-15.848217,-48.084272,Especializada,4.0,16,598.99,7,6.9,1
+OF1181,Oficina Simulada 1181,Santa Maria,DF,-16.000389,-48.017795,Centro automotivo,5.0,44,353.09,9,7.9,0
+OF0440,Oficina Simulada 0440,Guará,DF,-15.848592,-47.997674,Concessionária,4.9,238,986.19,10,13.2,1
+OF1016,Oficina Simulada 1016,Samambaia,DF,-15.882721,-48.092006,Independente,4.6,7,634.91,11,14.4,0
+OF0108,Oficina Simulada 0108,Plano Piloto,DF,-15.767912,-47.890298,Independente,3.6,7,676.98,11,0.9,0
+OF0082,Oficina Simulada 0082,Planaltina,DF,-15.618776,-47.605135,Centro automotivo,3.9,36,566.86,13,18.7,0
+OF0286,Oficina Simulada 0286,Planaltina,DF,-15.630678,-47.608932,Independente,4.0,58,466.5,12,5.4,0
+OF1199,Oficina Simulada 1199,Taguatinga,DF,-15.839341,-48.078609,Independente,4.6,92,517.5,6,11.7,1
+OF0171,Oficina Simulada 0171,Taguatinga,DF,-15.825585,-48.059149,Concessionária,3.7,12,644.44,9,6.9,0
+OF0539,Oficina Simulada 0539,Samambaia,DF,-15.873454,-48.068618,Independente,4.6,149,560.13,8,12.3,1
+OF0268,Oficina Simulada 0268,  Samambaia ,DF,-15.892722,-48.104752,Independente,4.5,10,382.49,6,12.7,1
+OF0998,Oficina Simulada 0998,Ceilândia,DF,-15.836491,-48.148666,Especializada,4.0,46,619.67,3,11.8,0
+OF0993,Oficina Simulada 0993,São Sebastião,DF,-15.897014,-47.786186,Independente,4.1,34,409.41,12,10.4,0
+OF0278,Oficina Simulada 0278,Águas Claras,DF,-15.833509,-48.028582,Concessionária,4.4,14,559.92,14,4.1,1
+OF0077,Oficina Simulada 0077,Taguatinga,DF,-15.810014,-48.054738,Centro automotivo,5.0,367,410.51,13,23.3,1
+OF0079,Oficina Simulada 0079,Gama,DF,-15.988695,-48.082489,Especializada,4.0,47,625.24,6,10.8,0
+OF0129,Oficina Simulada 0129,Ceilândia,DF,-15.826602,-48.094213,Concessionária,4.0,5,783.34,18,2.7,1
+OF0430,Oficina Simulada 0430,São Sebastião,DF,-15.916132,-47.784293,Concessionária,3.6,5,912.68,10,5.1,0
+OF0050,Oficina Simulada 0050,Samambaia,DF,-15.888844,-48.112944,Independente,3.9,20,581.21,9,7.9,0
+OF0345,Oficina Simulada 0345,São Sebastião,DF,-15.867045,-47.769559,Independente,4.8,6,756.05,9,15.5,0
+OF0763,Oficina Simulada 0763,Ceilândia,DF,-15.829996,-48.108768,Independente,,0,348.67,9,5.7,0
+OF1126,Oficina Simulada 1126,Gama,DF,-16.047446,-48.069271,Independente,4.0,9,505.74,8,2.8,1
+OF0814,Oficina Simulada 0814,gama,DF,-16.015089,-48.061812,Independente,3.7,18,674.72,12,8.2,0
+OF0245,Oficina Simulada 0245,Guará,DF,-15.823158,-47.965111,Independente,4.0,103,369.31,12,18.2,0
+OF0568,Oficina Simulada 0568,Ceilândia,DF,-15.820055,-48.092346,Independente,4.2,68,474.44,8,12.8,0
+OF1114,Oficina Simulada 1114,Riacho Fundo,DF,-15.849049,-48.021011,Independente,4.5,104,511.35,5,16.6,1
+OF0906,Oficina Simulada 0906,Guará,DF,-15.826528,-47.994733,Concessionária,3.3,58,663.23,19,1.8,1
+OF0383,Oficina Simulada 0383,São Sebastião,DF,-15.935053,-47.756171,Independente,4.3,33,361.33,12,6.7,1
+OF0024,Oficina Simulada 0024,Vicente Pires,DF,-15.796423,-48.017966,Concessionária,3.8,59,899.65,19,5.3,1
+OF0529,Oficina Simulada 0529,Santa Maria,DF,-16.039875,-48.014692,Concessionária,3.8,27,753.86,18,2.0,0
+OF0966,Oficina Simulada 0966,  Águas Claras ,DF,-15.820768,-48.031703,Independente,5.0,13,656.66,12,9.4,1
+OF0059,Oficina Simulada 0059,Samambaia,DF,-15.868602,-48.059102,Independente,5.0,131,645.55,6,12.5,1
+OF1034,Oficina Simulada 1034,Vicente Pires,DF,-15.802747,-48.034684,Independente,5.0,20,392.03,4,25.2,1
+OF0918,Oficina Simulada 0918,Samambaia,DF,-15.869033,-48.073165,Concessionária,3.7,22,960.1,11,2.0,1
+OF0324,Oficina Simulada 0324,Gama,DF,-16.043714,-48.069316,Independente,3.8,14,485.64,12,16.2,0
+OF0356,Oficina Simulada 0356,Gama,DF,-16.053822,-48.084549,Independente,4.7,65,752.93,6,5.9,1
+OF1015,Oficina Simulada 1015,Taguatinga,DF,-15.822146,-48.07337,Independente,4.4,11,499.57,4,6.3,1
+OF0661,Oficina Simulada 0661,Plano Piloto,DF,-15.809834,-47.885567,Especializada,5.0,42,729.04,8,19.8,0
+OF0293,Oficina Simulada 0293,Riacho Fundo,DF,-15.841607,-48.012173,Independente,4.0,125,396.07,10,19.6,1
+OF0333,Oficina Simulada 0333,Recanto das Emas,DF,-15.89819,-48.055085,Independente,3.8,16,577.03,9,14.4,0
+OF1010,Oficina Simulada 1010,Planaltina,DF,-15.641899,-47.66251,Independente,4.7,92,466.02,6,13.9,0
+OF0537,Oficina Simulada 0537,Gama,DF,-16.039303,-48.075088,Especializada,3.5,17,483.74,11,21.0,0
+OF0114,Oficina Simulada 0114,Gama,DF,-15.989839,-48.061189,Independente,3.8,38,596.25,9,10.4,0
+OF0148,Oficina Simulada 0148,Águas Claras,DF,-15.825518,-47.996278,Concessionária,4.6,89,1395.71,14,6.5,1
+OF0102,Oficina Simulada 0102,Recanto das Emas,DF,-15.906079,-48.077934,Independente,3.4,13,357.72,9,2.9,0
+OF0052,Oficina Simulada 0052,Ceilândia,DF,-15.844304,-48.083578,Independente,4.8,336,321.09,8,6.0,0
+OF0309,Oficina Simulada 0309,Plano Piloto,DF,-15.794241,-47.890859,Especializada,3.4,67,635.95,10,12.3,0
+OF0668,Oficina Simulada 0668,SIA,DF,-15.798967,-47.942707,Concessionária,4.8,35,867.22,17,8.6,1
+OF0416,Oficina Simulada 0416,Plano Piloto,DF,-15.787777,-47.900696,Concessionária,4.4,98,739.73,19,10.9,0
+OF0391,Oficina Simulada 0391,Guará,DF,-15.847766,-47.960578,Independente,4.2,77,688.82,7,6.3,1
+OF0322,Oficina Simulada 0322,Águas Claras,DF,-15.854571,-48.024459,Independente,4.2,196,311.07,8,11.6,1
+OF0653,Oficina Simulada 0653,Recanto das Emas,DF,-15.892042,-48.075357,Independente,4.1,9,713.69,10,6.1,0
+OF0241,Oficina Simulada 0241,Sobradinho,DF,-15.663452,-47.770779,Especializada,4.1,20,336.56,11,24.0,0
+OF0234,Oficina Simulada 0234,Guará,DF,-15.826285,-47.974836,Especializada,3.5,10,586.69,10,2.5,0
+OF0055,Oficina Simulada 0055,Recanto das Emas,DF,-15.925516,-48.052908,Concessionária,4.4,97,867.55,20,18.3,1
+OF1176,Oficina Simulada 1176,Santa Maria,DF,-15.999809,-48.027655,Concessionária,4.3,41,1009.78,14,19.2,0
+OF0199,Oficina Simulada 0199,samambaia,DF,-15.907198,-48.063093,Centro automotivo,4.9,202,400.66,16,10.3,0
+OF0110,Oficina Simulada 0110,Vicente Pires,DF,-15.796285,-48.019485,Independente,4.4,5,681.43,10,3.6,0
+OF0057,Oficina Simulada 0057,Planaltina,DF,-15.6208,-47.685501,Independente,3.7,19,526.12,7,14.7,0
+OF0087,Oficina Simulada 0087,Santa Maria,DF,-15.997589,-48.022632,Independente,4.9,6,540.42,9,10.7,1
+OF0707,Oficina Simulada 0707,São Sebastião,DF,-15.887305,-47.759537,Centro automotivo,3.9,25,503.18,13,14.8,0
+OF1023,Oficina Simulada 1023,SIA,DF,-15.802192,-47.953422,Independente,4.8,9,,9,1.7,0
+OF0544,Oficina Simulada 0544,SIA,DF,-15.795323,-47.952639,Concessionária,4.7,15,1017.03,14,16.5,1
+OF1175,Oficina Simulada 1175,Águas Claras,DF,-15.821109,-48.011464,Concessionária,5.0,43,938.21,16,4.0,1
+OF0742,Oficina Simulada 0742,Ceilândia,DF,-15.840396,-48.107196,Concessionária,4.4,3,610.91,16,23.9,0
+OF0915,Oficina Simulada 0915,SIA,DF,-15.838808,-47.966794,Independente,4.7,51,343.08,13,44.6,0
+OF0874,Oficina Simulada 0874,Taguatinga,DF,-15.815062,-48.042657,Independente,4.3,54,284.81,9,23.5,0
+OF1147,Oficina Simulada 1147,Santa Maria,DF,-16.000125,-48.003807,Independente,4.0,13,483.68,7,7.9,1
+OF0658,Oficina Simulada 0658,Taguatinga,DF,-15.819154,-48.028978,Independente,4.2,81,473.88,3,21.4,0
+OF1020,Oficina Simulada 1020,Planaltina,DF,-15.638043,-47.66404,Independente,4.1,56,549.59,12,12.6,0
+OF0555,Oficina Simulada 0555,Ceilândia,DF,-15.808587,-48.126356,Independente,4.4,150,446.91,8,32.2,0
+OF0210,Oficina Simulada 0210,Águas Claras,DF,-15.868895,-48.023708,Independente,3.7,64,423.89,7,23.9,0
+OF0635,Oficina Simulada 0635,Ceilândia,DF,-15.829642,-48.09325,Concessionária,4.5,22,854.8,9,7.8,1
+OF0631,Oficina Simulada 0631,Riacho Fundo,DF,-15.916339,-48.025737,Independente,3.8,10,366.71,13,4.6,0
+OF0410,Oficina Simulada 0410,SIA,DF,-15.800233,-47.955948,Especializada,4.4,59,566.44,9,19.9,0
+OF1032,Oficina Simulada 1032,Recanto das Emas,DF,-15.937414,-48.05318,Centro automotivo,4.4,60,585.71,17,7.2,0
+OF0644,Oficina Simulada 0644,Plano Piloto,DF,-15.79401,-47.863414,Independente,4.0,29,392.98,17,18.8,0
+OF0466,Oficina Simulada 0466,Recanto das Emas,DF,-15.884599,-48.019109,Independente,4.6,97,462.33,8,25.2,0
+OF0406,Oficina Simulada 0406,Vicente Pires,DF,-15.831568,-48.016142,Independente,4.0,16,475.12,11,4.8,1
+OF0310,Oficina Simulada 0310,Samambaia,DF,-15.916687,-48.078266,Especializada,3.6,19,837.08,18,5.8,0
+OF0454,Oficina Simulada 0454,Samambaia,DF,-15.907986,-48.072962,Concessionária,5.0,222,1020.56,19,37.5,0
+OF0209,Oficina Simulada 0209,Samambaia,DF,-15.868713,-48.060479,Centro automotivo,4.6,84,548.42,10,40.1,1
+OF0737,Oficina Simulada 0737,Samambaia,DF,-15.885982,-48.105288,Centro automotivo,4.5,71,726.21,15,10.0,1
+OF0244,Oficina Simulada 0244,Gama,DF,-16.007269,-48.068537,Concessionária,3.1,159,546.71,13,6.7,0
+OF0156,Oficina Simulada 0156,Recanto das Emas,DF,-15.882573,-48.094807,Independente,4.2,30,381.35,9,26.1,0
+OF1115,Oficina Simulada 1115,SIA,DF,-15.809838,-47.932517,Especializada,4.9,137,,12,18.6,0
+OF1043,Oficina Simulada 1043,Guará,DF,-15.831211,-47.967226,Independente,4.2,120,598.42,9,13.0,0
+OF0835,Oficina Simulada 0835,Santa Maria,DF,-16.024555,-47.994554,Centro automotivo,3.8,12,556.73,14,22.1,0
+OF0276,Oficina Simulada 0276,Taguatinga,DF,-15.812825,-48.066533,Especializada,3.6,25,654.17,11,4.1,0
+OF0614,Oficina Simulada 0614,SIA,DF,-15.796208,-47.955251,Centro automotivo,3.5,19,459.8,13,6.9,0
+OF0784,Oficina Simulada 0784,Guará,DF,-15.839364,-47.98205,Especializada,3.8,40,557.82,9,7.9,0
+OF0382,Oficina Simulada 0382,Riacho Fundo,DF,-15.88726,-47.996118,Especializada,4.3,19,456.92,8,3.9,1
+OF0693,Oficina Simulada 0693,Plano Piloto,DF,-15.797036,-47.89045,Independente,3.9,20,520.96,9,43.3,0
+OF0989,Oficina Simulada 0989,Taguatinga,DF,-15.848241,-48.041138,Independente,4.3,10,671.17,7,20.1,1
+OF0790,Oficina Simulada 0790,guará,DF,-15.834771,-47.982412,Independente,3.9,54,571.12,8,26.0,0
+OF0200,Oficina Simulada 0200,Taguatinga,DF,-15.817484,-48.025717,Concessionária,4.8,58,998.78,16,2.4,0
+OF0491,Oficina Simulada 0491,Recanto das Emas,DF,-15.908256,-48.078794,Concessionária,4.7,136,680.06,18,30.4,1
+OF0550,Oficina Simulada 0550,Planaltina,DF,-15.622037,-47.692231,Centro automotivo,5.0,189,443.08,17,29.3,1
+OF0463,Oficina Simulada 0463,Riacho Fundo,DF,-15.925197,-47.983841,Independente,4.7,5,476.84,10,6.4,1
+OF0731,Oficina Simulada 0731,Taguatinga,DF,-15.837795,-48.023128,Centro automotivo,4.1,6,531.57,15,6.7,0
+OF1156,Oficina Simulada 1156,Ceilândia,DF,-15.824367,-48.096177,Independente,4.9,206,424.63,12,45.0,1
+OF0980,Oficina Simulada 0980,Samambaia,DF,-15.868904,-48.072922,Independente,4.1,20,492.61,9,19.0,0
+OF0935,Oficina Simulada 0935,Santa Maria,DF,-16.047547,-48.020945,Centro automotivo,4.3,9,660.84,17,10.0,0
+OF0462,Oficina Simulada 0462,Samambaia,DF,-15.855623,-48.089093,Independente,4.4,7,337.4,11,8.6,1
+OF0546,Oficina Simulada 0546,Planaltina,DF,-15.622951,-47.64221,Centro automotivo,3.2,51,545.59,23,5.4,0
+OF0297,Oficina Simulada 0297,SIA,DF,-15.782667,-47.97115,Independente,4.0,7,720.14,8,7.8,1
+OF0712,Oficina Simulada 0712,Recanto das Emas,DF,-15.936911,-48.079429,Centro automotivo,3.6,10,570.07,18,13.0,0
+OF0433,Oficina Simulada 0433,Recanto das Emas,DF,-15.898225,-48.053914,Independente,4.9,69,344.81,9,26.8,0
+OF0260,Oficina Simulada 0260,Guará,DF,-15.797779,-47.976194,Centro automotivo,4.4,25,747.26,10,12.5,0
+OF0434,Oficina Simulada 0434,Sobradinho,DF,-15.648705,-47.796635,Independente,4.1,38,383.32,12,17.8,1
+OF0332,Oficina Simulada 0332,Samambaia,DF,-15.895872,-48.069822,Concessionária,4.6,42,758.95,19,18.7,1
+OF0495,Oficina Simulada 0495,São Sebastião,DF,-15.889468,-47.781113,Independente,4.7,137,294.16,5,6.1,1
+OF0169,Oficina Simulada 0169,Taguatinga,DF,-15.817222,-48.051596,Independente,4.4,4,391.81,11,13.8,0
+OF0136,Oficina Simulada 0136,Ceilândia,DF,-15.836876,-48.085826,Independente,3.9,9,494.42,12,9.6,0
+OF0535,Oficina Simulada 0535,Ceilândia,DF,-15.850779,-48.12353,Concessionária,4.2,17,796.47,21,6.5,0
+OF0429,Oficina Simulada 0429,Ceilândia,DF,-15.822629,-48.122144,Concessionária,4.0,27,617.45,19,2.0,0
+OF0329,Oficina Simulada 0329,Guará,DF,-15.834206,-47.98114,Independente,4.3,152,406.54,6,8.4,1
+OF0042,Oficina Simulada 0042,Sobradinho,DF,-15.665136,-47.821655,Independente,2.9,12,492.81,8,13.9,0
+OF0159,Oficina Simulada 0159,Santa Maria,DF,-16.0154,-48.016848,Concessionária,4.3,22,886.22,11,8.2,0
+OF0141,Oficina Simulada 0141,Águas Claras,DF,-15.84452,-48.005081,Independente,3.6,30,335.14,14,14.3,1
+OF0869,Oficina Simulada 0869,Ceilândia,DF,-15.807629,-48.127355,Independente,4.3,31,778.17,11,15.1,1
+OF0315,Oficina Simulada 0315,Taguatinga,DF,-15.840032,-48.087921,Concessionária,3.6,9,501.66,10,5.6,0
+OF0175,Oficina Simulada 0175,Samambaia,DF,-15.827207,-48.07594,Concessionária,5.0,169,891.47,22,22.4,1
+OF1103,Oficina Simulada 1103,São Sebastião,DF,-15.892048,-47.750476,Independente,4.3,28,385.96,7,2.8,1
+OF0219,Oficina Simulada 0219,riacho fundo,DF,-15.888714,-48.018565,Concessionária,4.4,68,620.46,10,11.5,0
+OF0221,Oficina Simulada 0221,taguatinga,DF,-15.864538,-48.047716,Concessionária,4.8,55,,12,20.2,1
+OF0266,Oficina Simulada 0266,Samambaia,DF,-15.862581,-48.087764,Independente,4.7,183,551.08,6,45.0,0
+OF0867,Oficina Simulada 0867,Sobradinho,DF,-15.629452,-47.80008,Independente,4.3,10,334.57,13,1.4,0
+OF0443,Oficina Simulada 0443,Santa Maria,DF,-16.005855,-47.98193,Independente,4.0,29,477.49,12,1.1,0
+OF0558,Oficina Simulada 0558,Águas Claras,DF,-15.865158,-48.022963,Centro automotivo,4.0,2,515.79,15,5.5,0
+OF0185,Oficina Simulada 0185,Santa Maria,DF,-15.998513,-48.04423,Independente,4.8,34,449.76,7,9.9,0
+OF0552,Oficina Simulada 0552,Samambaia,DF,-15.873721,-48.051997,Independente,4.4,107,392.26,7,11.8,0
+OF0946,Oficina Simulada 0946,Plano Piloto,DF,-15.790195,-47.89049,Independente,3.9,40,383.71,9,14.2,0
+OF0902,Oficina Simulada 0902,Plano Piloto,DF,-15.797112,-47.875387,Independente,4.9,81,576.08,13,14.9,1
+OF0164,Oficina Simulada 0164,Ceilândia,DF,-15.8481,-48.114686,Independente,3.9,36,369.81,11,5.5,0
+OF0573,Oficina Simulada 0573,Águas Claras,DF,-15.86463,-48.058805,Independente,4.6,109,488.58,5,11.2,1
+OF0951,Oficina Simulada 0951,Gama,DF,-16.010191,-48.045426,Independente,3.8,5,359.58,6,18.7,0
+OF0157,Oficina Simulada 0157,Plano Piloto,DF,-15.807689,-47.886374,Independente,4.3,24,750.19,10,4.9,0
+OF0886,Oficina Simulada 0886,Taguatinga,DF,-15.853213,-48.052655,Independente,4.1,30,531.04,9,26.9,0
+OF0507,Oficina Simulada 0507,Taguatinga,DF,-15.834608,-48.089184,Concessionária,3.9,19,719.58,11,17.7,0
+OF1143,Oficina Simulada 1143,Sobradinho,DF,-15.618163,-47.795262,Independente,4.3,24,285.55,10,4.4,0
+OF0926,Oficina Simulada 0926,Plano Piloto,DF,-15.785579,-47.901013,Independente,4.2,133,,17,13.0,0
+OF1036,Oficina Simulada 1036,Guará,DF,-15.837641,-47.988898,Centro automotivo,4.3,11,478.65,13,12.8,0
+OF0059,Oficina Simulada 0059,Samambaia,DF,-15.868602,-48.059102,Independente,5.0,131,645.55,6,12.5,1
+OF0291,Oficina Simulada 0291,Sobradinho,DF,-15.626591,-47.792373,Independente,3.8,30,602.84,7,12.1,0
+OF0683,Oficina Simulada 0683,Ceilândia,DF,-15.818911,-48.099265,Independente,4.2,8,323.3,7,26.5,0
+OF0999,Oficina Simulada 0999,SIA,DF,-15.776579,-47.949121,Especializada,4.8,15,995.22,10,10.1,1
+OF0765,Oficina Simulada 0765,Vicente Pires,DF,-15.787408,-48.043071,Centro automotivo,4.4,21,448.09,21,4.5,1
+OF0193,Oficina Simulada 0193,Samambaia,DF,-15.882772,-48.124786,Concessionária,4.3,24,762.63,18,2.9,1
+OF0528,Oficina Simulada 0528,SIA,DF,-15.828306,-47.945411,Concessionária,,0,850.68,7,9.2,0
+OF0439,Oficina Simulada 0439,Santa Maria,DF,-15.992238,-47.997263,Concessionária,,0,940.6,13,13.5,1
+OF0287,Oficina Simulada 0287,Ceilândia,DF,-15.82536,-48.127033,Independente,3.7,58,484.72,11,5.0,0
+OF0428,Oficina Simulada 0428,Sobradinho,DF,-15.678379,-47.793954,Independente,4.4,15,317.09,16,8.1,0
+OF0977,Oficina Simulada 0977,Planaltina,DF,-15.621709,-47.658267,Independente,4.7,19,419.96,8,7.8,0
+OF0574,Oficina Simulada 0574,Santa Maria,DF,-16.018412,-47.987411,Independente,4.7,4,372.04,10,2.2,0
+OF0533,Oficina Simulada 0533,Taguatinga,DF,-15.841384,-48.038381,Concessionária,4.6,226,1102.72,14,8.6,1
+OF0753,Oficina Simulada 0753,Plano Piloto,DF,-15.805089,-47.894502,Centro automotivo,4.3,26,642.0,12,2.2,0
+OF0097,Oficina Simulada 0097,Taguatinga,DF,-15.815012,-48.078669,Independente,4.0,14,409.03,9,16.2,1
+OF1129,Oficina Simulada 1129,Guará,DF,-15.801351,-47.985076,Independente,4.8,98,593.31,10,3.7,1
+OF0837,Oficina Simulada 0837,Santa Maria,DF,-16.023135,-48.023326,Centro automotivo,4.9,74,585.96,16,15.6,0
+OF0179,Oficina Simulada 0179,Vicente Pires,DF,-15.795098,-48.03577,Independente,3.8,37,354.91,11,5.9,0
+OF0032,Oficina Simulada 0032,SIA,DF,-15.764711,-47.973877,Independente,5.0,249,623.16,9,18.2,1
+OF0728,Oficina Simulada 0728,Ceilândia,DF,-15.833597,-48.119971,Independente,4.8,12,392.37,8,33.2,1
+OF0873,Oficina Simulada 0873,SIA,DF,-15.808326,-47.933248,Independente,4.6,75,423.84,8,21.2,0
+OF0343,Oficina Simulada 0343,São Sebastião,DF,-15.940929,-47.767794,Especializada,5.0,121,664.41,9,19.3,1
+OF1063,Oficina Simulada 1063,Plano Piloto,DF,-15.791283,-47.875645,Centro automotivo,4.0,123,738.33,16,14.6,0
+OF0248,Oficina Simulada 0248,Planaltina,DF,-15.579865,-47.637173,Concessionária,4.7,34,797.0,17,9.7,1
+OF0328,Oficina Simulada 0328,Gama,DF,-16.019408,-48.083577,Independente,3.8,35,332.67,8,5.6,1
+OF0708,Oficina Simulada 0708,São Sebastião,DF,-15.913113,-47.77126,Concessionária,4.3,49,734.22,14,7.4,1
+OF0381,Oficina Simulada 0381,Gama,DF,-15.994451,-48.046649,Independente,4.2,34,420.23,5,2.8,0
+OF0089,Oficina Simulada 0089,Samambaia,DF,-15.890344,-48.07726,Independente,4.5,28,324.89,9,8.8,1
+OF0619,Oficina Simulada 0619,Samambaia,DF,-15.919855,-48.090521,Independente,4.4,42,329.65,12,13.9,0
+OF0554,Oficina Simulada 0554,Vicente Pires,DF,-15.812512,-47.997043,Centro automotivo,45.0,151,787.74,17,22.8,0
+OF0979,Oficina Simulada 0979,Gama,DF,-15.970328,-48.034624,Centro automotivo,4.4,92,283.36,14,40.9,0
+OF0870,Oficina Simulada 0870,Samambaia,DF,-15.883144,-48.071344,Independente,4.2,23,432.42,15,4.8,0
+OF1051,Oficina Simulada 1051,Guará,DF,-15.838595,-47.999905,Independente,39.0,21,533.2,9,4.1,0
+OF0320,Oficina Simulada 0320,Riacho Fundo,DF,-15.877061,-48.029422,Independente,4.6,67,660.72,7,2.3,0
+OF0482,Oficina Simulada 0482,Plano Piloto,DF,-15.793038,-47.901315,Especializada,4.8,18,698.51,5,6.0,1
+OF0630,Oficina Simulada 0630,São Sebastião,DF,-15.908414,-47.731976,Centro automotivo,4.1,44,605.91,14,10.4,1
+OF0585,Oficina Simulada 0585,Vicente Pires,DF,-15.811851,-48.016931,Centro automotivo,4.2,66,278.56,11,11.5,0
+OF0353,Oficina Simulada 0353,Gama,DF,-16.031868,-48.062931,Concessionária,4.6,19,472.52,13,5.4,1
+OF0603,Oficina Simulada 0603,  Vicente Pires ,DF,-15.824901,-48.004622,Independente,4.6,3,554.1,9,14.4,1
+OF0615,Oficina Simulada 0615,Taguatinga,DF,-15.853186,-48.066982,Independente,4.2,56,,10,6.6,0
+OF0359,Oficina Simulada 0359,Águas Claras,DF,-15.844214,-48.058223,Independente,3.6,12,386.8,8,16.8,0
+OF0530,Oficina Simulada 0530,Taguatinga,DF,-15.842574,-48.067937,Especializada,4.4,12,665.22,11,5.6,0
+OF0011,Oficina Simulada 0011,Taguatinga,DF,-15.834527,-48.062385,Centro automotivo,4.2,35,675.35,11,1.5,0
+OF0597,Oficina Simulada 0597,Recanto das Emas,DF,-15.925172,-48.086844,Concessionária,5.0,113,684.65,14,8.9,1
+OF0414,Oficina Simulada 0414,Vicente Pires,DF,-15.784482,-48.038348,Concessionária,4.4,3,674.97,16,38.0,1
+OF0436,Oficina Simulada 0436,Samambaia,DF,-15.895217,-48.098584,Independente,3.9,7,545.24,10,9.4,1
+OF0060,Oficina Simulada 0060,Ceilândia,DF,-15.805414,-48.115843,Concessionária,4.4,23,511.76,13,17.8,0
+OF0311,Oficina Simulada 0311,Águas Claras,DF,-15.843434,-48.031313,Independente,4.3,62,354.89,9,10.0,1
+OF0064,Oficina Simulada 0064,Santa Maria,DF,-16.02538,-48.023383,Centro automotivo,4.1,41,737.19,11,11.1,0
+OF0299,Oficina Simulada 0299,São Sebastião,DF,-15.918368,-47.781253,Independente,4.5,17,469.41,14,2.8,1
+OF0351,Oficina Simulada 0351,Guará,DF,-15.853282,-47.982545,Independente,3.7,16,431.11,6,5.4,0
+OF0717,Oficina Simulada 0717,Gama,DF,-16.005953,-48.073395,Centro automotivo,3.6,25,330.3,13,6.4,0
+OF0905,Oficina Simulada 0905,SIA,DF,-15.790448,-47.958635,Independente,4.2,83,637.82,5,9.7,1
+OF0674,Oficina Simulada 0674,Recanto das Emas,DF,-15.908657,-48.065726,Concessionária,4.3,192,756.87,8,13.9,1
+OF0709,Oficina Simulada 0709,Planaltina,DF,-15.631091,-47.68028,Especializada,4.3,9,679.16,7,24.1,0
+OF0368,Oficina Simulada 0368,Guará,DF,-15.817431,-48.003435,Concessionária,5.0,76,1054.99,18,13.3,0
+OF0465,Oficina Simulada 0465,Gama,DF,-16.012249,-48.094958,Centro automotivo,4.9,169,562.13,15,26.0,1
+OF0807,Oficina Simulada 0807,Recanto das Emas,DF,-15.908245,-48.044844,Independente,3.9,50,351.9,11,6.6,0
+OF0592,Oficina Simulada 0592,Planaltina,DF,-15.608682,-47.670326,Concessionária,3.4,12,801.23,14,4.1,0
+OF0362,Oficina Simulada 0362,Samambaia,DF,-15.85658,-48.093673,Concessionária,4.6,12,1137.95,17,6.1,1
+OF0267,Oficina Simulada 0267,Plano Piloto,DF,-15.798877,-47.880877,Independente,4.1,43,434.57,10,15.7,0
+OF0880,Oficina Simulada 0880,Gama,DF,-16.032742,-48.060352,Concessionária,4.5,37,789.42,17,5.1,1
+OF1135,Oficina Simulada 1135,SIA,DF,-15.809133,-47.957166,Especializada,3.8,34,804.84,9,11.0,0
+OF1162,Oficina Simulada 1162,Guará,DF,-15.813699,-47.951772,Concessionária,5.0,194,567.56,19,22.6,0
+OF1190,Oficina Simulada 1190,Guará,DF,-15.819444,-48.010674,Independente,4.2,21,508.05,9,9.3,0
+OF0992,Oficina Simulada 0992,Santa Maria,DF,-16.004183,-48.061669,Independente,4.5,82,436.79,15,2.8,0
+OF0576,Oficina Simulada 0576,Águas Claras,DF,-15.837996,-48.040513,Independente,5.0,43,570.73,7,30.2,1
+OF0755,Oficina Simulada 0755,Recanto das Emas,DF,-15.909711,-48.078834,Independente,4.5,12,413.86,4,7.0,1
+OF1128,Oficina Simulada 1128,Recanto das Emas,DF,-15.883453,-48.081196,Independente,4.4,10,387.89,6,17.9,0
+OF0988,Oficina Simulada 0988,Ceilândia,DF,-15.806333,-48.100434,Independente,4.0,30,292.35,10,12.1,1
+OF0271,Oficina Simulada 0271,Ceilândia,DF,-15.815235,-48.087476,Concessionária,4.2,70,759.93,12,6.4,1
+OF1068,Oficina Simulada 1068,Recanto das Emas,DF,-15.923396,-48.038738,Independente,4.5,34,643.62,10,32.0,1
+OF0084,Oficina Simulada 0084,Samambaia,DF,-15.908539,-48.095245,Especializada,4.2,8,638.94,10,7.6,0
+OF0130,Oficina Simulada 0130,Gama,DF,-16.057326,-48.078716,Independente,4.0,102,359.41,9,14.2,0
+OF0637,Oficina Simulada 0637,Recanto das Emas,DF,-15.904715,-48.041518,Centro automotivo,4.0,74,510.36,12,6.8,1
+OF0908,Oficina Simulada 0908,Ceilândia,DF,-15.844824,-48.113872,Centro automotivo,4.6,6,589.05,19,7.6,0
+OF0917,Oficina Simulada 0917,Ceilândia,DF,-15.812169,-48.076615,Independente,3.6,19,323.5,9,6.0,0
+OF0448,Oficina Simulada 0448,Guará,DF,-15.827543,-47.98656,Independente,4.8,158,726.15,7,15.9,0
+OF0261,Oficina Simulada 0261,Samambaia,DF,-15.872736,-48.096936,Concessionária,3.5,13,512.13,12,6.1,1
+OF0756,Oficina Simulada 0756,Plano Piloto,DF,-15.820391,-47.904977,Independente,4.8,1,622.52,13,10.8,0
+OF1079,Oficina Simulada 1079,Guará,DF,-15.848086,-47.978848,Centro automotivo,4.0,44,546.92,14,17.4,0
+OF0895,Oficina Simulada 0895,Santa Maria,DF,-16.025849,-48.028778,Especializada,4.0,31,695.45,10,12.8,0
+OF0498,Oficina Simulada 0498,Guará,DF,-15.842802,-47.968608,Independente,3.9,44,438.94,7,24.8,0
+OF0139,Oficina Simulada 0139,São Sebastião,DF,-15.891943,-47.756844,Especializada,5.0,6,546.02,5,8.1,1
+OF0942,Oficina Simulada 0942,Sobradinho,DF,-15.662217,-47.782713,Centro automotivo,4.3,17,536.2,19,0.6,1
+OF0142,Oficina Simulada 0142,Águas Claras,DF,-15.884653,-48.01045,Concessionária,4.4,9,902.44,18,10.7,1
+OF0559,Oficina Simulada 0559,Gama,DF,-16.030929,-48.087913,Independente,4.8,8,491.43,10,11.7,1
+OF0823,Oficina Simulada 0823,Taguatinga,DF,-15.829429,-48.07366,Especializada,4.5,20,645.63,10,3.2,0
+OF0421,Oficina Simulada 0421,Guará,DF,-15.825149,-47.973074,Especializada,4.9,20,606.61,10,4.4,1
+OF0140,Oficina Simulada 0140,Ceilândia,DF,-15.805931,-48.09928,Independente,4.4,15,438.69,10,20.1,1
+OF0939,Oficina Simulada 0939,Vicente Pires,DF,-15.815849,-48.01309,Independente,3.7,34,418.05,9,3.0,0
+OF1113,Oficina Simulada 1113,Guará,DF,-15.846006,-48.018475,Independente,4.3,102,425.69,5,16.0,0
+OF0225,Oficina Simulada 0225,Taguatinga,DF,-15.826945,-48.050431,Independente,4.6,17,283.38,9,42.9,1
+OF0334,Oficina Simulada 0334,Sobradinho,DF,-15.673702,-47.789379,Independente,4.1,56,601.64,8,8.6,0
+OF0275,Oficina Simulada 0275,Recanto das Emas,DF,-15.926452,-48.052043,Independente,4.6,3,654.08,12,9.8,1
+OF0290,Oficina Simulada 0290,Ceilândia,DF,-15.826614,-48.122883,Concessionária,4.7,82,723.68,20,4.2,0
+OF0425,Oficina Simulada 0425,Guará,DF,-15.84073,-47.990381,Independente,4.5,54,578.96,9,18.7,1
+OF0645,Oficina Simulada 0645,Guará,DF,-15.822286,-47.984867,Independente,4.1,11,369.2,14,5.7,1
+OF0377,Oficina Simulada 0377,Riacho Fundo,DF,-15.887696,-48.032353,Centro automotivo,4.7,27,581.62,10,7.6,0
+OF0584,Oficina Simulada 0584,Taguatinga,DF,-15.827351,-48.048396,Independente,4.1,89,412.75,5,19.3,0
+OF1073,Oficina Simulada 1073,Planaltina,DF,-15.620704,-47.663725,Independente,4.4,6,539.24,5,5.4,0
+OF1067,Oficina Simulada 1067,Taguatinga,DF,-15.824269,-48.084891,Concessionária,5.0,146,1060.29,10,9.4,1
+OF0768,Oficina Simulada 0768,Ceilândia,DF,-15.826765,-48.120054,Centro automotivo,4.5,57,488.03,13,7.9,0
+OF0718,Oficina Simulada 0718,Ceilândia,DF,-15.793902,-48.127958,Independente,4.3,55,485.19,7,5.0,1
+OF0591,Oficina Simulada 0591,Riacho Fundo,DF,-15.863215,-48.055307,Concessionária,4.7,8,613.62,17,16.9,1
+OF0468,Oficina Simulada 0468,Riacho Fundo,DF,-15.897954,-47.999348,Independente,3.8,4,455.58,10,14.4,0
+OF0524,Oficina Simulada 0524,Guará,DF,-15.818537,-47.97745,Concessionária,4.6,2,1090.42,17,8.4,1
+OF0606,Oficina Simulada 0606,São Sebastião,DF,-15.852428,-47.775585,Concessionária,4.0,28,863.79,17,16.2,1
+OF0997,Oficina Simulada 0997,Guará,DF,-15.832388,-47.981007,Independente,3.3,34,480.27,9,1.4,0
+OF0651,Oficina Simulada 0651,Taguatinga,DF,-15.829937,-48.03823,Concessionária,4.8,87,724.68,11,17.2,1
+OF1189,Oficina Simulada 1189,Samambaia,DF,-15.87667,-48.068391,Independente,4.3,24,456.74,11,28.6,0
+OF0487,Oficina Simulada 0487,águas claras,DF,-15.849119,-48.029792,Independente,3.8,18,554.46,9,14.5,0
+OF0040,Oficina Simulada 0040,Guará,DF,-15.824843,-47.992556,Especializada,4.9,45,361.05,12,5.9,0
+OF0031,Oficina Simulada 0031,Santa Maria,DF,-15.980192,-48.028974,Independente,4.2,35,524.57,5,4.3,0
+OF0243,Oficina Simulada 0243,Plano Piloto,DF,-15.789394,-47.900371,Independente,4.7,85,505.24,7,11.3,0
+OF0672,Oficina Simulada 0672,Gama,DF,-16.017417,-48.056237,Independente,4.5,66,577.11,13,22.9,0
+OF0137,Oficina Simulada 0137,SIA,DF,-15.799037,-47.943045,Independente,3.7,77,565.74,14,22.2,0
+OF1148,Oficina Simulada 1148,São Sebastião,DF,-15.897974,-47.800089,Independente,3.8,9,576.46,7,13.7,0
+OF0732,Oficina Simulada 0732,Ceilândia,DF,-15.829969,-48.128408,Independente,4.1,38,575.45,7,11.7,1
+OF0004,Oficina Simulada 0004,  Recanto das Emas ,DF,-15.871569,-48.07098,Independente,3.3,8,640.87,5,2.6,0
+OF0791,Oficina Simulada 0791,Plano Piloto,DF,-15.790125,-47.893448,Independente,4.6,63,418.46,9,6.4,0
+OF0618,Oficina Simulada 0618,Taguatinga,DF,-15.831282,-48.028186,Independente,5.0,45,452.64,15,13.1,0
+OF0662,Oficina Simulada 0662,vicente pires,DF,-15.790872,-48.029762,Concessionária,3.7,8,832.86,14,11.9,0
+OF0810,Oficina Simulada 0810,SIA,DF,-15.769461,-47.952292,Concessionária,3.7,50,796.64,11,13.0,1
+OF1053,Oficina Simulada 1053,Plano Piloto,DF,-15.793797,-47.880428,Especializada,,0,604.72,12,4.9,0
+OF0758,Oficina Simulada 0758,Riacho Fundo,DF,-15.864516,-48.013661,Concessionária,4.2,50,936.18,11,4.7,0
+OF0480,Oficina Simulada 0480,Planaltina,DF,-15.608329,-47.638827,Independente,3.5,20,502.54,9,3.2,0
+OF0947,Oficina Simulada 0947,Recanto das Emas,DF,-15.896972,-48.073111,Independente,3.4,114,498.02,5,18.0,0
+OF0695,Oficina Simulada 0695,Vicente Pires,DF,-15.795919,-48.042093,Concessionária,5.0,9,829.93,10,28.3,1
+OF0813,Oficina Simulada 0813,SIA,DF,-15.834077,-47.937464,Independente,4.5,119,579.1,4,9.4,0
+OF0006,Oficina Simulada 0006,SIA,DF,-15.806544,-47.9388,Independente,4.2,19,294.67,4,1.4,0
+OF0101,Oficina Simulada 0101,Vicente Pires,DF,-15.803892,-48.04265,Independente,3.6,17,375.18,7,13.8,0
+OF0850,Oficina Simulada 0850,SIA,DF,-15.800184,-47.971453,Independente,5.0,14,883.01,11,1.6,0
+OF0520,Oficina Simulada 0520,Sobradinho,DF,-15.630888,-47.771465,Independente,4.2,3,422.15,13,6.1,0
+OF1059,Oficina Simulada 1059,Gama,DF,-16.017452,-48.045842,Independente,4.0,40,446.43,7,22.8,0
+OF0858,Oficina Simulada 0858,Vicente Pires,DF,-15.81722,-48.028463,Independente,4.5,36,586.93,7,23.4,0
+OF0746,Oficina Simulada 0746,Águas Claras,DF,-15.832162,-48.041634,Concessionária,4.0,61,939.66,15,19.7,0
+OF0395,Oficina Simulada 0395,Ceilândia,DF,-15.804936,-48.094497,Independente,3.9,141,285.6,6,17.5,0
+OF0622,Oficina Simulada 0622,Águas Claras,DF,-15.818168,-48.035047,Centro automotivo,4.4,27,400.89,14,17.3,0
+OF0228,Oficina Simulada 0228,Gama,DF,-15.992407,-48.026144,Independente,2.7,4,353.69,7,1.9,0
+OF0846,Oficina Simulada 0846,Vicente Pires,DF,-15.791738,-48.03987,Independente,4.2,150,351.68,10,18.0,0
+OF1033,Oficina Simulada 1033,Águas Claras,DF,-15.843246,-48.04327,Especializada,3.9,69,453.15,11,14.2,0
+OF0655,Oficina Simulada 0655,Sobradinho,DF,-15.644288,-47.785184,Especializada,5.0,24,546.8,8,9.8,1
+OF0399,Oficina Simulada 0399,Planaltina,DF,-15.634698,-47.661603,Independente,4.3,34,750.64,11,6.3,0
+OF0067,Oficina Simulada 0067,Gama,DF,-16.028892,-48.0924,Centro automotivo,4.4,28,483.07,16,16.7,1
+OF0068,Oficina Simulada 0068,Taguatinga,DF,-15.85321,-48.037504,Centro automotivo,4.5,54,406.23,12,3.9,1
+OF0378,Oficina Simulada 0378,Planaltina,DF,-15.604881,-47.640344,Especializada,4.0,27,621.15,13,7.5,0
+OF0212,Oficina Simulada 0212,Gama,DF,-16.012438,-48.058137,Independente,4.0,18,402.04,9,20.1,0
+OF0013,Oficina Simulada 0013,Guará,DF,-15.836716,-47.97092,Independente,4.2,3,790.16,6,4.4,0
+OF1071,Oficina Simulada 1071,Vicente Pires,DF,-15.819623,-48.053027,Independente,4.0,54,265.57,12,1.6,0
+OF0831,Oficina Simulada 0831,Guará,DF,-15.821418,-47.982084,Centro automotivo,4.9,22,629.96,12,9.2,0
+OF0300,Oficina Simulada 0300,Guará,DF,-15.814725,-48.005719,Independente,3.3,6,325.85,11,2.6,0
+OF0523,Oficina Simulada 0523,Samambaia,DF,-15.88569,-48.077793,Especializada,5.0,32,744.72,6,7.4,1
+OF0863,Oficina Simulada 0863,São Sebastião,DF,-15.892827,-47.791462,Concessionária,4.8,55,970.45,12,3.6,1
+OF1086,Oficina Simulada 1086,Santa Maria,DF,-15.994018,-48.01368,Independente,4.0,28,348.34,11,15.0,0
+OF0827,Oficina Simulada 0827,Guará,DF,-15.815967,-48.005597,Independente,4.2,1,430.71,9,10.3,0
+OF1180,Oficina Simulada 1180,samambaia,DF,-15.879395,-48.079718,Independente,4.9,69,709.82,11,1.7,0
+OF1149,Oficina Simulada 1149,Águas Claras,DF,-15.815362,-48.038261,Independente,4.7,148,589.48,10,14.0,1
+OF0363,Oficina Simulada 0363,Ceilândia,DF,-15.797927,-48.124287,Independente,3.9,15,480.56,10,5.8,0
+OF1084,Oficina Simulada 1084,Sobradinho,DF,-15.666403,-47.774385,Especializada,4.7,96,642.44,8,9.7,0
+OF0472,Oficina Simulada 0472,Águas Claras,DF,-15.820479,-48.028936,Independente,4.1,5,471.86,10,6.8,1
+OF0886,Oficina Simulada 0886,Taguatinga,DF,-15.853213,-48.052655,Independente,4.1,30,531.04,9,26.9,0
+OF0582,Oficina Simulada 0582,Gama,DF,-16.032944,-48.060911,Independente,3.5,7,359.69,7,11.1,1
+OF0662,Oficina Simulada 0662,vicente pires,DF,-15.790872,-48.029762,Concessionária,3.7,8,832.86,14,11.9,0
+OF0274,Oficina Simulada 0274,Guará,DF,-15.876201,-47.983851,Centro automotivo,4.4,131,470.35,14,17.1,1
+OF0527,Oficina Simulada 0527,SIA,DF,-15.809627,-47.967716,Centro automotivo,4.4,379,499.58,9,8.4,1
+OF0238,Oficina Simulada 0238,São Sebastião,DF,-15.908832,-47.749596,Independente,3.8,17,524.6,6,15.9,0
+OF0762,Oficina Simulada 0762,Samambaia,DF,-15.897463,-48.076981,Independente,3.3,21,541.43,6,8.1,0
+OF0003,Oficina Simulada 0003,Sobradinho,DF,-15.608766,-47.771851,Independente,4.8,22,399.09,9,2.9,1
+OF0007,Oficina Simulada 0007,Santa Maria,DF,-16.035686,-48.032812,Independente,3.9,8,448.8,10,14.3,0
+OF0312,Oficina Simulada 0312,Planaltina,DF,-15.62293,-47.645421,Independente,3.2,3,514.1,5,12.4,0
+OF1040,Oficina Simulada 1040,Samambaia,DF,-15.865114,-48.068067,Independente,4.2,27,472.15,8,29.5,0
+OF0364,Oficina Simulada 0364,Ceilândia,DF,-15.822567,-48.111052,Independente,4.2,12,,6,9.2,1
+OF1101,Oficina Simulada 1101,Ceilândia,DF,-15.810903,-48.099154,Centro automotivo,3.7,221,393.09,16,32.4,0
+OF0216,Oficina Simulada 0216,Santa Maria,DF,-15.988475,-47.988298,Independente,5.0,17,512.61,6,5.4,1
+OF0899,Oficina Simulada 0899,Samambaia,DF,-15.871088,-48.081051,Especializada,4.7,34,465.98,15,12.7,1
+OF0028,Oficina Simulada 0028,  Ceilândia ,DF,-15.801365,-48.095293,Centro automotivo,4.6,101,715.24,19,10.0,0
+OF1169,Oficina Simulada 1169,São Sebastião,DF,-15.898306,-47.751474,Independente,4.3,31,547.84,10,7.0,1
+OF0875,Oficina Simulada 0875,Recanto das Emas,DF,-15.921887,-48.047635,Centro automotivo,4.2,76,560.72,10,15.8,0
+OF0671,Oficina Simulada 0671,Samambaia,DF,-15.865584,-48.067351,Centro automotivo,4.0,28,515.56,9,26.0,0
+OF0932,Oficina Simulada 0932,Taguatinga,DF,-15.818876,-48.044833,Independente,4.3,22,475.42,7,20.6,1
+OF0483,Oficina Simulada 0483,Gama,DF,-16.021145,-48.075219,Centro automotivo,3.8,16,465.69,13,4.4,1
+OF0928,Oficina Simulada 0928,Sobradinho,DF,-15.641671,-47.787008,Independente,4.2,4,"R$ 458,96",7,4.2,1
+OF0948,Oficina Simulada 0948,  Sobradinho ,DF,-15.644066,-47.780343,Especializada,4.6,18,667.42,11,1.9,0
+OF0549,Oficina Simulada 0549,Santa Maria,DF,-16.003462,-48.01302,Independente,4.1,12,637.6,6,2.8,1
+OF0355,Oficina Simulada 0355,Planaltina,DF,-15.625673,-47.633291,Centro automotivo,4.6,129,354.89,10,19.8,1
+OF1061,Oficina Simulada 1061,SIA,DF,-15.819794,-47.90234,Independente,4.7,143,640.75,8,3.9,0
+OF0424,Oficina Simulada 0424,Ceilândia,DF,-15.80253,-48.109016,Concessionária,4.9,62,865.26,11,3.1,1
+OF0257,Oficina Simulada 0257,São Sebastião,DF,-15.90691,-47.787322,Independente,4.4,50,562.76,6,18.6,0
+OF0292,Oficina Simulada 0292,Ceilândia,DF,-15.821556,-48.118547,Independente,4.7,59,,12,24.4,1
+OF0026,Oficina Simulada 0026,Samambaia,DF,-15.878538,-48.08781,Independente,3.8,25,718.88,10,7.7,0
+OF0337,Oficina Simulada 0337,Ceilândia,DF,-15.829693,-48.09257,Independente,3.2,69,305.47,11,21.5,0
+OF0412,Oficina Simulada 0412,Guará,DF,-15.845723,-47.932575,Centro automotivo,2.8,15,456.36,11,4.9,0
+OF0048,Oficina Simulada 0048,Taguatinga,DF,-15.841803,-48.027638,Independente,3.6,60,493.31,9,10.6,0
+OF0319,Oficina Simulada 0319,Taguatinga,DF,-15.830937,-48.038079,Independente,4.0,52,391.2,7,15.2,1
+OF0107,Oficina Simulada 0107,Planaltina,DF,-15.592335,-47.660298,Independente,3.1,7,,8,4.8,0
+OF0817,Oficina Simulada 0817,Vicente Pires,DF,-15.799929,-48.047767,Independente,4.9,14,455.95,8,2.0,1
+OF0056,Oficina Simulada 0056,São Sebastião,DF,-15.879151,-47.816888,Concessionária,4.1,7,835.39,15,15.3,0
+OF0536,Oficina Simulada 0536,Samambaia,DF,-15.872335,-48.072446,Independente,4.0,46,518.52,7,11.0,0
+OF0214,Oficina Simulada 0214,São Sebastião,DF,-15.899809,-47.792348,Independente,3.9,28,436.66,9,9.2,1
+OF0121,Oficina Simulada 0121,Gama,DF,-16.017912,-48.066805,Concessionária,4.2,144,457.29,17,29.9,1
+OF1081,Oficina Simulada 1081,Plano Piloto,DF,-15.785139,-47.862592,Concessionária,5.0,82,1306.2,13,3.1,1
+OF0431,Oficina Simulada 0431,Riacho Fundo,DF,-15.876197,-47.997193,Independente,3.9,23,474.04,8,9.0,0
+OF0534,Oficina Simulada 0534,Guará,DF,-15.780257,-47.978585,Independente,4.7,33,737.85,5,2.6,0
+OF0073,Oficina Simulada 0073,Sobradinho,DF,-15.652521,-47.809696,Concessionária,4.3,76,751.86,17,37.4,1
+OF0970,Oficina Simulada 0970,Samambaia,DF,-15.870166,-48.094155,Concessionária,3.6,11,656.16,16,28.2,0
+OF1019,Oficina Simulada 1019,Ceilândia,DF,-15.853025,-48.074189,Centro automotivo,3.9,50,400.76,14,12.2,0
+OF0632,Oficina Simulada 0632,Sobradinho,DF,-15.658863,-47.805796,Concessionária,4.0,1,671.1,17,18.3,1
+OF0964,Oficina Simulada 0964,Samambaia,DF,-15.885428,-48.085846,Independente,4.8,38,467.14,11,3.3,0
+OF0913,Oficina Simulada 0913,Vicente Pires,DF,-15.803621,-48.0127,Especializada,5.0,3,702.2,8,9.5,0
+OF0803,Oficina Simulada 0803,Vicente Pires,DF,-15.798709,-48.045769,Centro automotivo,3.9,3,650.25,16,11.2,0
+OF0567,Oficina Simulada 0567,Santa Maria,DF,-16.016636,-48.02643,Concessionária,4.0,20,673.1,18,7.1,1
+OF0729,Oficina Simulada 0729,Planaltina,DF,-15.640465,-47.635127,Concessionária,5.0,11,943.78,11,5.1,1
+OF0747,Oficina Simulada 0747,Taguatinga,DF,-15.847048,-48.051768,Independente,3.9,26,454.68,8,6.2,0
+OF0515,Oficina Simulada 0515,Taguatinga,DF,-15.846068,-48.070963,Centro automotivo,4.8,78,519.38,21,13.7,1
+OF0326,Oficina Simulada 0326,Guará,DF,-15.819783,-48.014376,Independente,4.1,24,488.69,10,13.2,1
+OF0945,Oficina Simulada 0945,Planaltina,DF,-15.634367,-47.670161,Concessionária,4.1,139,750.28,11,13.3,1
+OF0317,Oficina Simulada 0317,Taguatinga,DF,-15.8249,-48.033808,Independente,4.8,48,486.76,6,30.4,1
+OF0812,Oficina Simulada 0812,Ceilândia,DF,-15.805643,-48.139703,Centro automotivo,4.5,101,805.42,11,14.7,1
+OF0847,Oficina Simulada 0847,Taguatinga,DF,-15.855762,-48.055258,Independente,4.3,23,339.76,11,5.2,0
+OF0542,Oficina Simulada 0542,Gama,DF,-15.984748,-48.064259,Independente,4.7,183,562.51,15,31.4,1
+OF0702,Oficina Simulada 0702,Taguatinga,DF,-15.83017,-48.055926,Centro automotivo,4.3,176,800.4,9,16.4,0
+OF1035,Oficina Simulada 1035,Planaltina,DF,-15.623873,-47.685448,Centro automotivo,3.6,4,606.56,15,10.5,0
+OF0766,Oficina Simulada 0766,ceilândia,DF,-15.806316,-48.101345,Independente,4.2,10,444.61,8,20.5,0
+OF0561,Oficina Simulada 0561,Ceilândia,DF,-15.799208,-48.120172,Independente,4.4,50,375.19,11,8.8,1
+OF0061,Oficina Simulada 0061,Guará,DF,-15.839216,-47.978183,Independente,3.4,22,394.97,10,4.9,0
+OF0740,Oficina Simulada 0740,Planaltina,DF,-15.62234,-47.633052,Independente,4.6,121,338.09,15,8.8,0
+OF0093,Oficina Simulada 0093,  Planaltina ,DF,-15.606059,-47.634073,Independente,4.8,63,465.01,7,8.4,1
+OF0877,Oficina Simulada 0877,Taguatinga,DF,-15.816392,-48.035954,Centro automotivo,4.0,88,529.47,19,7.6,0
+OF0713,Oficina Simulada 0713,São Sebastião,DF,-15.889863,-47.775161,Independente,4.4,43,526.24,14,17.3,0
+OF0352,Oficina Simulada 0352,Samambaia,DF,-15.872215,-48.085784,Independente,4.0,63,478.7,13,5.5,0
+OF0954,Oficina Simulada 0954,Samambaia,DF,-15.874064,-48.09906,Especializada,3.9,26,527.06,9,8.4,0
+OF0281,Oficina Simulada 0281,Ceilândia,DF,-15.822092,-48.081953,Independente,4.6,33,475.9,7,15.6,0
+OF1089,Oficina Simulada 1089,Águas Claras,DF,-15.827847,-47.992064,Concessionária,4.3,9,728.07,20,23.1,1
+OF0423,Oficina Simulada 0423,Ceilândia,DF,-15.861698,-48.107806,Independente,4.3,7,326.73,11,1.6,0
+OF0360,Oficina Simulada 0360,Guará,DF,-15.826391,-47.976766,Independente,5.0,74,478.69,9,45.0,0
+OF0494,Oficina Simulada 0494,Taguatinga,DF,-15.864677,-48.053729,Independente,4.1,8,286.58,8,2.9,0
+OF0562,Oficina Simulada 0562,Plano Piloto,DF,-15.792243,-47.866326,Independente,4.0,8,482.14,8,12.1,0
+OF0851,Oficina Simulada 0851,Samambaia,DF,-15.847376,-48.068694,Centro automotivo,4.3,116,475.04,15,2.3,0
+OF0589,Oficina Simulada 0589,Samambaia,DF,-15.887815,-48.092302,Independente,3.2,5,306.37,10,8.5,0
+OF0669,Oficina Simulada 0669,Taguatinga,DF,-15.853112,-48.078131,Especializada,3.3,10,451.26,8,7.9,0
+OF1091,Oficina Simulada 1091,Plano Piloto,DF,-15.775392,-47.856188,Independente,3.9,22,397.77,8,8.6,0
+OF0183,Oficina Simulada 0183,Águas Claras,DF,-15.834117,-48.032614,Independente,4.2,36,571.18,13,20.8,0
+OF1085,Oficina Simulada 1085,sia,DF,-15.800985,-47.962689,Independente,4.6,44,492.32,8,4.8,1
+OF0459,Oficina Simulada 0459,São Sebastião,DF,-15.889287,-47.762832,Concessionária,4.3,18,1131.01,14,-41.8,0
+OF0111,Oficina Simulada 0111,Planaltina,DF,-15.631225,-47.668337,Especializada,4.3,160,426.39,9,31.7,0
+OF0371,Oficina Simulada 0371,Santa Maria,DF,-15.978842,-48.013462,Independente,4.0,8,382.7,8,2.3,0
+OF0240,Oficina Simulada 0240,Ceilândia,DF,-15.82835,-48.104315,Centro automotivo,4.3,73,334.96,20,2.1,0
+OF1106,Oficina Simulada 1106,São Sebastião,DF,-15.911199,-47.758145,Independente,3.3,9,490.77,10,10.6,0
+OF1139,Oficina Simulada 1139,Ceilândia,DF,-15.869228,-48.096555,Independente,4.3,10,722.45,9,3.6,0
+OF0931,Oficina Simulada 0931,Taguatinga,DF,-15.831297,-48.066494,Independente,4.3,25,393.99,8,26.6,0
+OF0205,Oficina Simulada 0205,Ceilândia,DF,-15.797079,-48.140573,Independente,3.7,9,333.9,8,3.9,0
+OF0824,Oficina Simulada 0824,Guará,DF,-15.83681,-47.993018,Independente,3.3,7,336.95,7,3.4,0
+OF0262,Oficina Simulada 0262,Sobradinho,DF,-15.669406,-47.794792,Centro automotivo,4.1,103,387.38,12,23.4,0
+OF0595,Oficina Simulada 0595,Ceilândia,DF,-15.838053,-48.104681,Independente,4.1,28,440.44,16,7.1,0
+OF0666,Oficina Simulada 0666,Recanto das Emas,DF,-15.908076,-48.059087,Centro automotivo,4.4,16,739.68,16,9.0,0
+OF0340,Oficina Simulada 0340,Riacho Fundo,DF,-15.877055,-47.995649,Independente,4.7,64,364.07,12,10.7,0
+OF0856,Oficina Simulada 0856,Planaltina,DF,-15.611421,-47.633967,Independente,4.3,55,427.22,7,19.2,1
+OF0845,Oficina Simulada 0845,Ceilândia,DF,-15.798102,-48.089624,Especializada,4.6,13,367.09,6,14.2,1
+OF0486,Oficina Simulada 0486,Planaltina,DF,-15.632494,-47.634432,Independente,4.0,15,450.92,7,14.1,0
+OF0184,Oficina Simulada 0184,Taguatinga,DF,-15.846181,-48.019628,Concessionária,3.9,18,711.52,13,24.7,0
+OF0138,Oficina Simulada 0138,Águas Claras,DF,-15.877519,-48.02252,Especializada,4.1,37,"R$ 522,72",11,19.3,0
+OF1172,Oficina Simulada 1172,Santa Maria,DF,-16.013476,-48.037043,Concessionária,4.3,19,839.18,14,2.6,0
+OF0724,Oficina Simulada 0724,SIA,DF,-15.796407,-47.969297,Independente,3.8,6,366.39,6,11.4,0
+OF1069,Oficina Simulada 1069,Ceilândia,DF,-15.842664,-48.114136,Independente,37.0,61,633.78,8,7.9,0
+OF0081,Oficina Simulada 0081,Guará,DF,-15.804192,-47.965252,Concessionária,4.3,42,1273.1,13,14.8,1
+OF0514,Oficina Simulada 0514,Plano Piloto,DF,-15.787439,-47.892169,Independente,4.6,68,629.09,7,45.0,1
+OF1098,Oficina Simulada 1098,São Sebastião,DF,-15.917126,-47.800428,Independente,5.0,83,260.43,7,21.1,1
+OF0779,Oficina Simulada 0779,São Sebastião,DF,-15.925102,-47.779096,Independente,4.1,23,565.81,8,5.1,0
+OF0030,Oficina Simulada 0030,Recanto das Emas,DF,-15.890498,-48.058442,Concessionária,4.1,16,985.59,28,11.6,0
+OF1094,Oficina Simulada 1094,Plano Piloto,DF,-15.78956,-47.899477,Independente,4.2,11,551.35,12,8.4,0
+OF0166,Oficina Simulada 0166,Taguatinga,DF,-15.819643,-48.065756,Independente,4.1,32,675.84,12,10.3,0
+OF0249,Oficina Simulada 0249,Taguatinga,DF,-15.861223,-48.066854,Independente,4.7,126,590.5,5,15.2,0
+OF0308,Oficina Simulada 0308,Guará,DF,-15.802749,-47.954152,Concessionária,4.0,48,741.73,18,5.3,1
+OF0781,Oficina Simulada 0781,Plano Piloto,DF,-15.800834,-47.88966,Independente,4.8,2,406.33,9,3.4,0
+OF0739,Oficina Simulada 0739,Taguatinga,DF,-15.822147,-48.041939,Independente,4.4,28,341.38,7,2.6,0
+OF0347,Oficina Simulada 0347,Riacho Fundo,DF,-15.881778,-48.017911,Independente,4.5,2,395.26,10,11.3,0
+OF0335,Oficina Simulada 0335,Samambaia,DF,-15.863184,-48.079922,Concessionária,4.0,24,849.43,14,15.7,0
+OF0286,Oficina Simulada 0286,Planaltina,DF,-15.630678,-47.608932,Independente,4.0,58,466.5,12,5.4,0
+OF0972,Oficina Simulada 0972,Ceilândia,DF,-15.825827,-48.113065,Independente,4.8,20,885.51,9,7.7,1
+OF0098,Oficina Simulada 0098,Ceilândia,DF,-15.817747,-48.131637,Concessionária,4.2,212,642.59,12,23.8,0
+OF0627,Oficina Simulada 0627,São Sebastião,DF,-15.93285,-47.763467,Independente,3.2,14,350.8,3,6.4,0
+OF1048,Oficina Simulada 1048,São Sebastião,DF,-15.885367,-47.811404,Concessionária,4.5,18,990.48,17,11.7,1
+OF0934,Oficina Simulada 0934,Santa Maria,DF,-16.029481,-48.014097,Centro automotivo,4.3,67,375.33,8,10.4,0
+OF0711,Oficina Simulada 0711,SIA,DF,-15.819161,-47.930183,Independente,4.0,14,,6,14.0,0
+OF0840,Oficina Simulada 0840,Águas Claras,DF,-15.835467,-48.007119,Independente,4.2,31,443.86,8,8.1,1
+OF0629,Oficina Simulada 0629,Gama,DF,-16.014071,-48.066063,Independente,4.1,92,346.91,15,15.8,0
+OF0820,Oficina Simulada 0820,Plano Piloto,DF,-15.798537,-47.872331,Concessionária,3.9,23,756.94,12,31.0,0
+OF0775,Oficina Simulada 0775,Ceilândia,DF,-15.831691,-48.098326,Concessionária,4.4,3,846.94,14,20.3,0
+OF0971,Oficina Simulada 0971,Plano Piloto,DF,-15.808379,-47.881488,Independente,4.1,32,585.63,9,17.3,0
+OF0066,Oficina Simulada 0066,Gama,DF,-16.008809,-48.032203,Centro automotivo,3.8,22,554.07,6,25.3,0
+OF1008,Oficina Simulada 1008,Taguatinga,DF,-15.852396,-48.083653,Centro automotivo,4.7,20,367.39,19,6.6,0
+OF0761,Oficina Simulada 0761,Recanto das Emas,DF,-15.904992,-48.059632,Centro automotivo,4.1,60,590.91,14,10.8,1
+OF0583,Oficina Simulada 0583,Ceilândia,DF,-15.829886,-48.079199,Especializada,4.4,23,465.21,6,16.2,1
+OF1095,Oficina Simulada 1095,Gama,DF,-15.999477,-48.0691,Centro automotivo,3.2,51,252.58,18,15.9,0
+OF1110,Oficina Simulada 1110,Samambaia,DF,-15.859649,-48.077092,Especializada,3.6,40,389.63,7,11.0,0
+OF0303,Oficina Simulada 0303,Gama,DF,-16.042155,-48.072192,Independente,5.0,1,438.89,6,19.6,1
+OF0255,Oficina Simulada 0255,Plano Piloto,DF,-15.776519,-47.896382,Concessionária,3.6,42,645.38,17,24.1,0
+OF0981,Oficina Simulada 0981,SIA,DF,-15.812951,-47.979429,Independente,4.7,25,462.89,8,2.1,0
+OF0953,Oficina Simulada 0953,Plano Piloto,DF,-15.792871,-47.885411,Concessionária,4.0,35,678.9,13,7.4,0
+OF0313,Oficina Simulada 0313,Plano Piloto,DF,-15.756272,-47.854316,Independente,4.4,144,644.73,8,24.7,0
+OF0543,Oficina Simulada 0543,Sobradinho,DF,-15.661162,-47.771433,Independente,4.2,6,542.77,6,10.6,0
+OF0222,Oficina Simulada 0222,Águas Claras,DF,-15.838305,-48.009102,Independente,3.9,67,292.79,10,8.4,0
+OF0478,Oficina Simulada 0478,Guará,DF,-15.813945,-47.960271,Independente,3.6,10,298.06,12,4.1,1
+OF0389,Oficina Simulada 0389,Ceilândia,DF,-15.829971,-48.137143,Independente,4.0,6,535.85,9,1.2,0
+OF0236,Oficina Simulada 0236,São Sebastião,DF,-15.928377,-47.756311,Independente,4.3,20,344.31,6,8.3,1
+OF0860,Oficina Simulada 0860,Águas Claras,DF,-15.841256,-48.060194,Independente,3.7,9,518.98,5,32.3,0
+OF0984,Oficina Simulada 0984,Planaltina,DF,-15.603142,-47.648803,Independente,5.0,116,383.02,13,44.7,1
+OF1055,Oficina Simulada 1055,Plano Piloto,DF,-15.805687,-47.880041,Independente,4.2,60,405.12,10,24.7,0
+OF0306,Oficina Simulada 0306,Planaltina,DF,-15.651817,-47.663803,Concessionária,3.6,3,625.92,23,8.4,0
+OF1122,Oficina Simulada 1122,Ceilândia,DF,-15.812966,-48.088535,Concessionária,4.8,12,1048.85,12,4.4,1
+OF0808,Oficina Simulada 0808,Samambaia,DF,-15.881521,-48.074605,Independente,3.2,2,281.61,10,1.7,0
+OF0789,Oficina Simulada 0789,São Sebastião,DF,-15.934975,-47.767467,Centro automotivo,4.6,109,337.43,11,15.4,0
+OF0938,Oficina Simulada 0938,Samambaia,DF,-15.906861,-48.049888,Centro automotivo,3.8,19,507.11,23,14.5,0
+OF1150,Oficina Simulada 1150,Vicente Pires,DF,-15.801993,-48.010637,Independente,4.7,41,397.4,16,2.6,1
+OF0250,Oficina Simulada 0250,Planaltina,DF,-15.597303,-47.65906,Independente,3.9,91,365.92,11,16.8,0
+OF1167,Oficina Simulada 1167,Sobradinho,DF,-15.669238,-47.763899,Independente,4.6,4,470.62,12,16.9,1
+OF0610,Oficina Simulada 0610,Planaltina,DF,-15.58929,-47.662513,Independente,4.5,12,521.81,11,15.2,1
+OF0072,Oficina Simulada 0072,  Planaltina ,DF,-15.634265,-47.669244,Independente,4.4,89,312.74,13,38.9,1
+OF0095,Oficina Simulada 0095,Taguatinga,DF,-15.801686,-48.089163,Centro automotivo,,0,517.47,23,21.6,0
+OF0788,Oficina Simulada 0788,Taguatinga,DF,-15.828583,-48.072362,Concessionária,5.0,84,581.2,15,34.4,1
+OF0034,Oficina Simulada 0034,Taguatinga,DF,-15.849678,-48.059299,Independente,4.8,73,922.53,9,15.1,1
+OF1078,Oficina Simulada 1078,Águas Claras,DF,-15.854508,-48.026163,Independente,3.8,3,379.28,7,16.7,0
+OF0786,Oficina Simulada 0786,Taguatinga,DF,-15.796983,-48.051695,Independente,3.9,88,490.74,7,12.4,0
+OF0594,Oficina Simulada 0594,Guara,DF,-15.782182,-47.977952,Centro automotivo,3.8,26,433.91,14,9.9,0
+OF0449,Oficina Simulada 0449,Ceilândia,DF,-15.820266,-48.115569,Concessionária,4.5,1,558.7,20,20.1,0
+OF0446,Oficina Simulada 0446,Recanto das Emas,DF,-15.910908,-48.088769,Independente,4.0,53,459.77,11,18.4,0
+OF0842,Oficina Simulada 0842,São Sebastião,DF,-15.882792,-47.781171,Concessionária,4.2,91,672.83,14,6.7,0
+OF1198,Oficina Simulada 1198,Guará,DF,-15.840964,-47.977959,Independente,4.5,68,508.23,11,35.9,0
+OF1062,Oficina Simulada 1062,Guará,DF,-15.818783,-47.973245,Independente,4.1,38,617.77,8,9.5,0
+OF0078,Oficina Simulada 0078,Guará,DF,-15.841023,-47.969719,Centro automotivo,4.0,174,585.67,18,28.9,0
+OF0085,Oficina Simulada 0085,Ceilândia,DF,-15.822588,-48.094159,Concessionária,4.1,9,689.68,18,6.7,0
+OF0553,Oficina Simulada 0553,Samambaia,DF,-15.886506,-48.058633,Independente,3.6,33,598.46,11,14.4,0
+OF0083,Oficina Simulada 0083,  São Sebastião ,DF,-15.910419,-47.78177,Especializada,4.2,26,,9,19.8,0
+OF0458,Oficina Simulada 0458,Planaltina,DF,-15.619162,-47.646619,Independente,4.4,4,434.12,6,4.1,0
+OF0754,Oficina Simulada 0754,Águas Claras,DF,-15.821544,-48.029758,Centro automotivo,4.8,29,739.63,13,15.9,1
+OF0437,Oficina Simulada 0437,Samambaia,DF,-15.876989,-48.091673,Concessionária,3.5,24,843.05,12,9.5,1
+OF1109,Oficina Simulada 1109,SIA,DF,-15.788637,-47.933281,Independente,4.3,42,491.8,16,11.8,0
+OF0911,Oficina Simulada 0911,Santa Maria,DF,-16.013983,-48.047503,Independente,3.8,47,550.82,9,3.5,0
+OF0405,Oficina Simulada 0405,SIA,DF,-15.786865,-47.938137,Concessionária,3.8,3,826.56,11,15.8,0
+OF1056,Oficina Simulada 1056,Recanto das Emas,DF,-15.93074,-48.041889,Independente,4.9,129,421.53,11,21.6,0
+OF0623,Oficina Simulada 0623,SIA,DF,-15.780035,-47.94921,Especializada,5.0,2,776.61,13,7.2,1
+OF1174,Oficina Simulada 1174,Santa Maria,DF,-15.999979,-48.019029,Independente,4.2,17,393.02,8,6.7,0
+OF0105,Oficina Simulada 0105,  São Sebastião ,DF,-15.891296,-47.763085,Independente,3.5,52,437.92,6,26.8,0
+OF0760,Oficina Simulada 0760,Planaltina,DF,-15.599678,-47.64217,Independente,3.8,64,327.83,9,6.5,1
+OF0621,Oficina Simulada 0621,São Sebastião,DF,-15.89062,-47.798785,Centro automotivo,4.0,119,319.88,16,14.2,0
+OF0063,Oficina Simulada 0063,Gama,DF,-16.005883,-48.027076,Centro automotivo,4.3,16,472.94,13,7.2,0
+OF0282,Oficina Simulada 0282,Samambaia,DF,-15.870779,-48.089816,Especializada,4.1,4,459.0,7,19.1,0
+OF0679,Oficina Simulada 0679,Samambaia,DF,-15.860179,-48.103016,Independente,3.9,15,299.67,8,7.7,0
+OF0239,Oficina Simulada 0239,Ceilândia,DF,-15.823173,-48.109581,Especializada,4.1,36,466.53,8,3.9,1
+OF0224,Oficina Simulada 0224,SIA,DF,-15.819558,-47.927617,Independente,3.3,1,472.16,9,2.6,0
+OF0146,Oficina Simulada 0146,Plano Piloto,DF,-15.800255,-47.888028,Independente,4.0,20,411.83,13,9.5,0
+OF1154,Oficina Simulada 1154,Samambaia,DF,-15.86871,-48.088082,Independente,4.2,81,504.61,8,7.5,0
+OF0374,Oficina Simulada 0374,Taguatinga,DF,-15.863372,-48.060233,Independente,4.4,18,354.91,7,26.1,1
+OF0119,Oficina Simulada 0119,Planaltina,DF,-15.656254,-47.648086,Independente,4.0,15,304.35,10,21.7,0
+OF0821,Oficina Simulada 0821,Ceilândia,DF,-15.833648,-48.095578,Especializada,4.7,41,501.93,6,24.2,1
+OF0251,Oficina Simulada 0251,Guará,DF,-15.798378,-48.013423,Independente,4.5,3,354.53,4,19.0,0
+OF1168,Oficina Simulada 1168,Gama,DF,-16.046945,-48.068362,Independente,5.0,16,481.98,8,12.1,1
+OF0010,Oficina Simulada 0010,Planaltina,DF,-15.637961,-47.623328,Independente,4.2,90,655.41,11,20.4,1
+OF0450,Oficina Simulada 0450,Guará,DF,-15.821585,-47.989608,Concessionária,3.8,15,614.57,18,29.3,1
+OF0894,Oficina Simulada 0894,Ceilândia,DF,-15.852084,-48.078403,Independente,,0,330.68,10,11.7,1
+OF0390,Oficina Simulada 0390,Sobradinho,DF,-15.659578,-47.78995,Centro automotivo,4.4,57,,15,29.7,0
+OF1076,Oficina Simulada 1076,Taguatinga,DF,-15.83849,-48.02135,Concessionária,4.2,105,899.67,12,6.7,1
+OF0922,Oficina Simulada 0922,Sobradinho,DF,-15.639013,-47.773836,Concessionária,,0,715.92,13,3.9,0
+OF0461,Oficina Simulada 0461,Gama,DF,-16.015536,-48.064835,Especializada,4.1,118,527.9,10,27.8,1
+OF1116,Oficina Simulada 1116,Ceilândia,DF,-15.855215,-48.107669,Independente,4.5,57,361.29,6,23.7,1
+OF0145,Oficina Simulada 0145,Águas Claras,DF,-15.890004,-48.010705,Independente,3.6,1,518.47,5,8.7,0
+OF0502,Oficina Simulada 0502,Vicente Pires,DF,-15.815532,-48.052633,Independente,3.8,7,496.25,5,4.9,0
+OF1119,Oficina Simulada 1119,Plano Piloto,DF,-15.774111,-47.864954,Concessionária,4.8,29,1268.56,19,15.0,0
+OF0540,Oficina Simulada 0540,Sobradinho,DF,-15.694857,-47.801668,Independente,4.1,10,503.94,7,5.4,0
+OF0178,Oficina Simulada 0178,SIA,DF,-15.7923,-47.945661,Concessionária,3.9,12,994.99,17,9.6,1
+OF1170,Oficina Simulada 1170,Ceilândia,DF,-15.820105,-48.101665,Independente,4.4,103,413.13,8,22.8,1
+OF0716,Oficina Simulada 0716,Samambaia,DF,-15.90527,-48.068135,Especializada,3.8,24,847.69,11,1.2,1
+OF0599,Oficina Simulada 0599,SIA,DF,-15.811341,-47.94752,Centro automotivo,4.6,66,683.21,15,19.5,0
+OF1004,Oficina Simulada 1004,Samambaia,DF,-15.906766,-48.092097,Centro automotivo,4.1,109,585.59,17,-28.3,0
+OF0008,Oficina Simulada 0008,São Sebastião,DF,-15.937346,-47.779292,Independente,4.6,50,566.6,6,26.1,0
+OF0571,Oficina Simulada 0571,Taguatinga,DF,-15.842297,-48.069594,Especializada,3.8,84,641.53,8,8.3,0
+OF0862,Oficina Simulada 0862,Santa Maria,DF,-16.041493,-48.023656,Independente,4.2,30,305.28,7,6.2,0
+OF0358,Oficina Simulada 0358,São Sebastião,DF,-15.952494,-47.751781,Independente,4.0,15,517.13,12,6.4,0
+OF0330,Oficina Simulada 0330,Taguatinga,DF,-15.852291,-48.062583,Independente,4.3,67,663.53,8,4.1,1
+OF0722,Oficina Simulada 0722,Planaltina,DF,-15.615199,-47.638692,Independente,3.8,29,441.85,5,8.2,1
+OF0849,Oficina Simulada 0849,Samambaia,DF,-15.864142,-48.074325,Independente,3.8,41,532.9,7,21.9,0
+OF0259,Oficina Simulada 0259,Ceilândia,DF,-15.81247,-48.080328,Centro automotivo,4.0,65,496.6,16,9.1,0
+OF0888,Oficina Simulada 0888,Samambaia,DF,-15.898045,-48.087805,Independente,4.1,39,367.08,8,3.7,1
+OF0912,Oficina Simulada 0912,Vicente Pires,DF,-15.82615,-48.050376,Concessionária,3.5,7,871.87,16,10.2,0
+OF0890,Oficina Simulada 0890,Recanto das Emas,DF,-15.852566,-48.04661,Centro automotivo,4.4,215,465.34,10,4.5,1
+OF0616,Oficina Simulada 0616,Santa Maria,DF,-15.988678,-47.971606,Centro automotivo,3.9,104,447.17,20,22.6,0
+OF0848,Oficina Simulada 0848,Recanto das Emas,DF,-15.872011,-48.065107,Independente,3.8,23,280.13,8,21.2,0
+OF0526,Oficina Simulada 0526,Taguatinga,DF,-15.817285,-48.061984,Independente,3.7,37,497.52,7,13.6,0
+OF1178,Oficina Simulada 1178,Taguatinga,DF,-15.836421,-48.049664,Independente,3.9,38,559.01,11,12.5,0
+OF0736,Oficina Simulada 0736,Recanto das Emas,DF,-15.923363,-48.053356,Independente,4.5,35,424.69,7,3.3,0
+OF0769,Oficina Simulada 0769,Ceilândia,DF,-15.835037,-48.107067,Concessionária,4.7,75,944.02,13,16.4,1
+OF1152,Oficina Simulada 1152,Vicente Pires,DF,-15.796406,-48.035481,Centro automotivo,4.2,25,505.34,20,9.7,1
+OF0441,Oficina Simulada 0441,Sobradinho,DF,-15.658622,-47.807399,Independente,4.6,73,349.99,5,45.0,0
+OF0532,Oficina Simulada 0532,Recanto das Emas,DF,-15.896616,-48.085787,Centro automotivo,4.5,52,343.0,14,2.3,0
+OF1044,Oficina Simulada 1044,Guará,DF,-15.815122,-47.94992,Independente,4.6,36,411.03,8,4.9,0
+OF0229,Oficina Simulada 0229,Guará,DF,-15.832766,-47.971543,Independente,4.4,32,334.04,11,10.9,0
+OF1075,Oficina Simulada 1075,Sobradinho,DF,-15.669245,-47.797114,Independente,4.0,18,631.44,11,4.6,0
+OF0213,Oficina Simulada 0213,Samambaia,DF,-15.865991,-48.101685,Independente,4.0,42,286.19,11,12.4,0
+OF0080,Oficina Simulada 0080,São Sebastião,DF,-15.912558,-47.761686,Independente,4.1,50,475.04,7,7.5,1
+OF0149,Oficina Simulada 0149,Planaltina,DF,-15.632152,-47.648108,Concessionária,4.9,3,588.79,18,11.4,1
+OF0721,Oficina Simulada 0721,Águas Claras,DF,-15.876142,-48.035475,Independente,4.1,96,424.01,15,11.3,0
+OF0725,Oficina Simulada 0725,Ceilândia,DF,-15.847602,-48.105227,Independente,4.0,50,427.68,8,9.1,0
+OF0715,Oficina Simulada 0715,São Sebastião,DF,-15.877344,-47.797659,Concessionária,4.8,164,654.61,15,6.7,1
+OF0134,Oficina Simulada 0134,Taguatinga,DF,-15.844906,-48.095466,Centro automotivo,4.3,76,706.05,16,28.7,0
+OF0844,Oficina Simulada 0844,Planaltina,DF,-15.639997,-47.646232,Centro automotivo,4.5,146,613.37,11,17.6,1
+OF0409,Oficina Simulada 0409,Ceilândia,DF,-15.813353,-48.112398,Independente,3.8,13,524.48,9,27.8,1
+OF0773,Oficina Simulada 0773,Guará,DF,-15.823599,-47.957216,Independente,3.5,2,483.96,9,6.8,1
+OF0508,Oficina Simulada 0508,Sobradinho,DF,-15.681765,-47.804195,Independente,4.3,35,533.74,8,8.9,1
+OF1011,Oficina Simulada 1011,Guará,DF,-15.816969,-47.980149,Concessionária,4.7,87,587.38,13,5.6,1
+OF0505,Oficina Simulada 0505,Águas Claras,DF,-15.834925,-48.025837,Independente,3.9,158,"R$ 315,69",9,22.7,0
+OF0733,Oficina Simulada 0733,Ceilândia,DF,-15.847418,-48.084087,Independente,3.7,31,"R$ 346,17",10,3.8,0
+OF0348,Oficina Simulada 0348,Plano Piloto,DF,-15.784134,-47.869782,Independente,4.2,55,588.68,15,7.8,1
+OF0387,Oficina Simulada 0387,Recanto das Emas,DF,-15.932207,-48.056953,Independente,4.6,174,507.59,13,4.6,1
+OF0001,Oficina Simulada 0001,São Sebastião,DF,-15.920733,-47.729426,Independente,3.9,13,565.23,9,14.3,0
+OF0361,Oficina Simulada 0361,Riacho Fundo,DF,-15.89064,-48.027537,Independente,4.4,55,,11,0.5,0
+OF1145,Oficina Simulada 1145,Planaltina,DF,-15.596761,-47.642174,Independente,3.5,32,461.26,10,4.7,0
+OF0476,Oficina Simulada 0476,Taguatinga,DF,-15.836668,-48.054643,Independente,4.2,8,404.01,7,7.1,0
+OF1097,Oficina Simulada 1097,Plano Piloto,DF,-15.836791,-47.880667,Independente,4.7,28,506.34,7,1.9,1
+OF0771,Oficina Simulada 0771,Plano Piloto,DF,-15.818302,-47.891977,Independente,4.1,13,376.72,15,2.6,0
+OF0173,Oficina Simulada 0173,Plano Piloto,DF,-15.785566,-47.898076,Centro automotivo,4.3,30,612.02,15,19.7,1
+OF0451,Oficina Simulada 0451,Ceilândia,DF,-15.831705,-48.10787,Concessionária,4.2,49,668.4,13,16.0,0
+OF0126,Oficina Simulada 0126,Águas Claras,DF,-15.825164,-48.027041,Centro automotivo,4.7,69,671.92,11,14.3,1
+OF0853,Oficina Simulada 0853,Sobradinho,DF,-15.653505,-47.815705,Independente,4.9,231,713.75,12,7.9,1
+OF0531,Oficina Simulada 0531,Recanto das Emas,DF,-15.926483,-48.07592,Concessionária,4.7,43,"R$ 1.099,27",11,5.9,1
+OF0091,Oficina Simulada 0091,Samambaia,DF,-15.889057,-48.09439,Centro automotivo,4.0,46,474.49,15,12.9,0
+OF1173,Oficina Simulada 1173,Plano Piloto,DF,-15.744186,-47.865625,Concessionária,4.3,31,658.15,19,2.6,1
+OF0182,Oficina Simulada 0182,Vicente Pires,DF,-15.761423,-48.038768,Concessionária,4.5,75,741.32,10,3.5,1
+OF0701,Oficina Simulada 0701,Plano Piloto,DF,-15.788782,-47.887721,Independente,3.4,1,425.11,15,6.0,0
+OF1024,Oficina Simulada 1024,Gama,DF,-16.027432,-48.074011,Independente,5.0,1,638.78,7,6.0,1
+OF0252,Oficina Simulada 0252,Vicente Pires,DF,-15.818339,-48.042222,Independente,4.0,21,399.58,9,16.0,0
+OF0070,Oficina Simulada 0070,Planaltina,DF,-15.618443,-47.650155,Centro automotivo,3.9,43,636.93,13,16.4,0
+OF0132,Oficina Simulada 0132,Riacho Fundo,DF,-15.867781,-47.977208,Especializada,4.6,98,,12,19.8,1
+OF0301,Oficina Simulada 0301,São Sebastião,DF,-15.885206,-47.782606,Centro automotivo,4.7,58,531.83,16,9.9,1
+OF1046,Oficina Simulada 1046,Taguatinga,DF,-15.840816,-48.056726,Centro automotivo,4.2,47,610.21,9,19.4,1
+OF0327,Oficina Simulada 0327,São Sebastião,DF,-15.914093,-47.798031,Independente,4.3,4,643.15,8,16.7,0
+OF1186,Oficina Simulada 1186,  Sobradinho ,DF,-15.63951,-47.781768,Centro automotivo,4.3,29,499.64,22,30.1,1
+OF0500,Oficina Simulada 0500,Águas Claras,DF,-15.807631,-47.971928,Concessionária,4.1,32,757.48,10,8.6,0
+OF0830,Oficina Simulada 0830,Plano Piloto,DF,-15.776627,-47.903751,Independente,3.5,16,530.63,8,8.1,0
+OF0940,Oficina Simulada 0940,Ceilândia,DF,-15.805606,-48.090432,Especializada,4.4,21,705.41,10,25.1,1
+OF0496,Oficina Simulada 0496,Gama,DF,-16.016685,-48.081016,Independente,4.5,10,374.26,8,2.8,0
+OF0339,Oficina Simulada 0339,Ceilândia,DF,-15.795647,-48.092963,Independente,3.9,55,320.09,9,19.2,0
+OF0986,Oficina Simulada 0986,Riacho Fundo,DF,-15.880707,-48.033507,Independente,3.7,10,540.91,7,5.2,1
+OF0165,Oficina Simulada 0165,Gama,DF,-16.021229,-48.045518,Concessionária,3.9,21,715.25,14,7.1,1
+OF0029,Oficina Simulada 0029,Samambaia,DF,-15.88062,-48.116878,Independente,3.8,49,496.58,9,9.9,0
+OF0517,Oficina Simulada 0517,Taguatinga,DF,-15.860012,-48.0505,Concessionária,5.0,5,846.73,18,25.5,1
+OF0194,Oficina Simulada 0194,Sobradinho,DF,-15.662128,-47.776888,Concessionária,4.0,6,630.64,9,9.3,1
+OF0650,Oficina Simulada 0650,Ceilândia,DF,-15.819628,-48.105864,Concessionária,4.7,23,533.91,13,17.1,0
+OF0797,Oficina Simulada 0797,Ceilandia,DF,-15.816542,-48.108928,Independente,4.6,25,478.7,8,6.5,0
+OF0170,Oficina Simulada 0170,SIA,DF,-15.795138,-47.950381,Independente,4.0,32,434.9,9,13.8,0
+OF0843,Oficina Simulada 0843,Águas Claras,DF,-15.841696,-48.018366,Independente,3.6,54,581.55,8,7.6,0
+OF0174,Oficina Simulada 0174,Riacho Fundo,DF,-15.871158,-48.046195,Concessionária,4.4,54,752.53,8,16.2,0
+OF0519,Oficina Simulada 0519,Ceilândia,DF,-15.829181,-48.094457,Independente,4.4,51,559.72,13,29.8,1
+OF0941,Oficina Simulada 0941,Plano Piloto,DF,-15.799034,-47.826907,Concessionária,4.1,20,712.75,14,8.0,0
+OF0719,Oficina Simulada 0719,Guará,DF,-15.831223,-47.97587,Independente,5.0,19,348.21,12,8.5,0
+OF0492,Oficina Simulada 0492,Guará,DF,-15.851209,-47.951643,Centro automotivo,3.0,17,634.84,19,6.3,0
+OF0074,Oficina Simulada 0074,Plano Piloto,DF,-15.78373,-47.877525,Independente,4.6,68,325.27,2,5.7,0
+OF1004,Oficina Simulada 1004,Samambaia,DF,-15.906766,-48.092097,Centro automotivo,4.1,109,585.59,17,-28.3,0
+OF0588,Oficina Simulada 0588,Taguatinga,DF,-15.844141,-48.042412,Independente,4.9,32,531.63,7,3.1,0
+OF0235,Oficina Simulada 0235,Riacho Fundo,DF,-15.87264,-48.051448,Concessionária,4.1,184,671.57,14,17.1,1
+OF0215,Oficina Simulada 0215,Recanto das Emas,DF,-15.898758,-48.041207,Concessionária,4.4,59,827.32,10,7.7,0
+OF0969,Oficina Simulada 0969,Gama,DF,-16.025805,-48.09894,Independente,3.9,97,374.47,14,16.0,0
+OF0133,Oficina Simulada 0133,Gama,DF,-16.047361,-48.067198,Independente,4.5,18,590.74,9,5.8,1
+OF0794,Oficina Simulada 0794,Ceilândia,DF,-15.841149,-48.112743,Independente,4.7,35,493.06,9,14.5,1
+OF1049,Oficina Simulada 1049,Sobradinho,DF,-15.62975,-47.789671,Independente,4.9,66,488.4,6,28.4,1
+OF0962,Oficina Simulada 0962,planaltina,DF,-15.616523,-47.64689,Especializada,4.1,24,491.91,7,17.2,0
+OF0186,Oficina Simulada 0186,Guará,DF,-15.824965,-47.971004,Independente,4.2,23,663.53,13,20.1,0
+OF0042,Oficina Simulada 0042,Sobradinho,DF,-15.665136,-47.821655,Independente,2.9,12,492.81,8,13.9,0
+OF0109,Oficina Simulada 0109,Ceilândia,DF,-15.826249,-48.102101,Independente,4.6,53,680.91,7,7.0,0
+OF0868,Oficina Simulada 0868,São Sebastião,DF,-15.911882,-47.747822,Independente,4.3,2,370.3,6,2.0,0
+OF0569,Oficina Simulada 0569,Taguatinga,DF,-15.836859,-48.034793,Concessionária,4.8,11,1179.19,19,23.4,1
+OF0667,Oficina Simulada 0667,São Sebastião,DF,-15.889549,-47.776797,Independente,4.7,4,475.59,11,23.3,1
+OF1025,Oficina Simulada 1025,Guará,DF,-15.786803,-48.007887,Independente,3.9,8,369.16,9,1.6,0
+OF1166,Oficina Simulada 1166,Sobradinho,DF,-15.635006,-47.794019,Especializada,4.1,91,314.41,10,6.9,1
+OF0484,Oficina Simulada 0484,Taguatinga,DF,-15.811948,-48.067175,Concessionária,4.0,22,689.1,10,3.9,0
+OF0469,Oficina Simulada 0469,Samambaia,DF,-15.873373,-48.069531,Concessionária,4.0,27,867.96,18,6.4,0
+OF0025,Oficina Simulada 0025,São Sebastião,DF,-15.891967,-47.754784,Independente,5.0,23,452.71,8,6.9,0
+OF0677,Oficina Simulada 0677,Vicente Pires,DF,-15.813572,-48.007325,Independente,3.4,17,267.0,5,8.3,0
+OF0696,Oficina Simulada 0696,Gama,DF,-16.044145,-48.070684,Independente,4.2,7,594.31,11,3.6,0
+OF1200,Oficina Simulada 1200,Santa Maria,DF,-16.006354,-48.016058,Concessionária,4.4,69,516.06,16,8.4,0
+OF1120,Oficina Simulada 1120,Vicente Pires,DF,-15.798015,-48.006419,Concessionária,4.2,10,812.53,19,14.9,0
+OF0367,Oficina Simulada 0367,São Sebastião,DF,-15.893004,-47.796053,Concessionária,4.9,50,1021.35,12,42.7,0
+OF0859,Oficina Simulada 0859,Taguatinga,DF,-15.830661,-48.085907,Independente,4.0,39,499.42,6,5.4,1
+OF1064,Oficina Simulada 1064,Guará,DF,-15.812573,-47.970548,Independente,4.8,71,686.33,9,8.5,0
+OF0384,Oficina Simulada 0384,Águas Claras,DF,-15.854458,-48.035458,Independente,4.6,71,793.3,5,19.8,0
+OF0455,Oficina Simulada 0455,Ceilândia,DF,-15.813668,-48.094448,Concessionária,3.9,5,518.7,16,7.0,0
+OF0265,Oficina Simulada 0265,Riacho Fundo,DF,-15.871216,-48.031702,Centro automotivo,4.6,11,429.44,15,17.2,1
+OF0778,Oficina Simulada 0778,Samambaia,DF,-15.874293,-48.032428,Independente,,0,324.97,12,4.5,0
+OF1003,Oficina Simulada 1003,Samambaia,DF,-15.825372,-48.08646,Centro automotivo,4.9,44,929.96,17,19.2,1
+OF0445,Oficina Simulada 0445,Plano Piloto,DF,-15.797918,-47.87749,Centro automotivo,4.9,63,401.75,7,11.3,0
+OF0396,Oficina Simulada 0396,Planaltina,DF,-15.622625,-47.636304,Especializada,4.8,7,521.12,6,9.6,1
+OF0865,Oficina Simulada 0865,Ceilândia,DF,-15.815803,-48.096919,Centro automotivo,4.5,28,594.12,16,5.6,0
+OF0177,Oficina Simulada 0177,Planaltina,DF,-15.634362,-47.643356,Concessionária,4.8,74,504.68,15,27.0,1
+OF0019,Oficina Simulada 0019,Sobradinho,DF,-15.667404,-47.819592,Independente,3.7,26,381.37,10,9.4,1
+OF0723,Oficina Simulada 0723,Ceilândia,DF,-15.838644,-48.128911,Independente,5.0,55,544.66,9,12.0,1
+OF0833,Oficina Simulada 0833,Taguatinga,DF,-15.827531,-48.079432,Independente,4.3,13,333.65,10,6.0,0
+OF0596,Oficina Simulada 0596,Plano Piloto,DF,-15.792732,-47.847383,Independente,4.8,8,1034.95,10,45.0,1
+OF0062,Oficina Simulada 0062,Planaltina,DF,-15.610569,-47.631592,Centro automotivo,3.1,1,288.36,10,5.2,0
+OF0273,Oficina Simulada 0273,Ceilândia,DF,-15.82742,-48.113926,Independente,3.8,84,401.39,8,6.8,1
+OF1137,Oficina Simulada 1137,Planaltina,DF,-15.628824,-47.656384,Especializada,4.1,34,541.26,13,6.8,0
+OF0279,Oficina Simulada 0279,Vicente Pires,DF,-15.828032,-48.047449,Concessionária,4.1,16,569.85,21,10.1,0
+OF1184,Oficina Simulada 1184,Samambaia,DF,-15.888452,-48.068119,Independente,4.2,31,499.79,12,17.9,0
+OF0369,Oficina Simulada 0369,Taguatinga,DF,-15.815333,-48.024906,Independente,3.8,4,531.07,10,12.9,0
+OF0907,Oficina Simulada 0907,Águas Claras,DF,-15.846159,-48.007534,Independente,4.2,12,560.36,10,10.2,1
+OF0838,Oficina Simulada 0838,SIA,DF,-15.811986,-47.932057,Independente,3.5,22,621.5,13,8.4,0
+OF1031,Oficina Simulada 1031,Gama,DF,-16.015886,-48.054492,Independente,4.9,48,429.33,11,3.4,1
+OF0738,Oficina Simulada 0738,Taguatinga,DF,-15.813717,-48.0654,Especializada,5.0,33,401.71,9,14.5,1
+OF0799,Oficina Simulada 0799,Santa Maria,DF,-16.019876,-48.003014,Independente,4.2,2,358.97,10,8.1,0
+OF0548,Oficina Simulada 0548,Ceilândia,DF,-15.860463,-48.074017,Independente,4.1,14,434.56,8,4.6,0
+OF0900,Oficina Simulada 0900,Gama,DF,-16.012166,-48.035986,Independente,5.0,72,288.74,8,13.2,1
+OF0689,Oficina Simulada 0689,Santa Maria,DF,-16.020388,-48.029264,Independente,3.9,22,410.85,8,17.2,0
+OF0921,Oficina Simulada 0921,Ceilândia,DF,-15.801097,-48.121329,Concessionária,4.6,62,742.01,16,5.0,0
+OF0457,Oficina Simulada 0457,SIA,DF,-15.789607,-47.980733,Especializada,4.4,53,533.33,11,7.8,0
+OF0394,Oficina Simulada 0394,Recanto das Emas,DF,-15.890112,-48.058032,Centro automotivo,4.2,42,397.97,19,31.6,0
+OF0676,Oficina Simulada 0676,Taguatinga,DF,-15.849212,-48.057296,Independente,4.7,43,527.52,10,9.8,1
+OF0933,Oficina Simulada 0933,Taguatinga,DF,-15.817325,-48.04804,Concessionária,4.2,43,849.18,13,28.2,0
+OF0987,Oficina Simulada 0987,Taguatinga,DF,-15.834143,-48.054831,Concessionária,4.5,17,764.61,14,5.6,1
+OF0376,Oficina Simulada 0376,Samambaia,DF,-15.848705,-48.061943,Especializada,4.3,9,505.89,10,2.8,0
+OF0413,Oficina Simulada 0413,  Ceilândia ,DF,-15.81897,-48.097994,Especializada,4.0,70,459.49,12,30.4,0
+OF0075,Oficina Simulada 0075,Ceilândia,DF,-15.808373,-48.09008,Centro automotivo,4.0,127,588.68,17,12.2,1
+OF1133,Oficina Simulada 1133,Ceilândia,DF,-15.773195,-48.089937,Independente,3.8,23,542.88,10,4.8,1
+OF0882,Oficina Simulada 0882,Guará,DF,-15.840898,-47.973935,Concessionária,3.8,2,773.73,23,5.2,1
+OF0501,Oficina Simulada 0501,Santa Maria,DF,-15.993555,-48.032549,Independente,4.9,28,672.28,11,5.5,0
+OF0819,Oficina Simulada 0819,Guará,DF,-15.822441,-47.992817,Independente,4.1,6,410.45,8,4.4,0
+OF0617,Oficina Simulada 0617,Santa Maria,DF,-16.000434,-48.014615,Concessionária,3.6,38,988.82,8,8.0,0
+OF0115,Oficina Simulada 0115,Samambaia,DF,-15.869453,-48.073281,Independente,4.2,4,370.17,9,10.5,0
+OF0418,Oficina Simulada 0418,São Sebastião,DF,-15.905754,-47.786899,Centro automotivo,3.9,36,453.61,18,4.6,0
+OF0602,Oficina Simulada 0602,Santa Maria,DF,-16.017597,-48.041799,Centro automotivo,4.4,62,"R$ 436,25",16,16.0,1
+OF0605,Oficina Simulada 0605,SIA,DF,-15.81652,-47.916435,Independente,4.8,16,499.16,14,13.1,1
+OF0090,Oficina Simulada 0090,Águas Claras,DF,-15.834565,-48.041897,Concessionária,3.7,16,753.86,14,9.5,0
+OF1160,Oficina Simulada 1160,São Sebastião,DF,-15.902789,-47.803541,Concessionária,3.8,2,757.63,16,13.6,1
+OF0499,Oficina Simulada 0499,Taguatinga,DF,-15.834848,-48.070101,Independente,4.4,57,523.2,5,5.7,1
+OF0967,Oficina Simulada 0967,SIA,DF,-15.798236,-47.952658,Independente,4.3,40,535.59,8,6.3,0
+OF0903,Oficina Simulada 0903,Ceilândia,DF,-15.802138,-48.15749,Independente,2.8,2,358.01,9,2.8,0
+OF0901,Oficina Simulada 0901,Planaltina,DF,-15.625562,-47.660828,Concessionária,3.4,41,525.46,23,6.2,0
+OF0012,Oficina Simulada 0012,Riacho Fundo,DF,-15.911804,-48.060906,Independente,4.1,8,477.63,11,8.3,1
+OF0397,Oficina Simulada 0397,Sobradinho,DF,-15.660057,-47.8045,Independente,4.4,207,739.65,13,16.5,1
+OF0772,Oficina Simulada 0772,Gama,DF,-15.990124,-48.085249,Independente,3.1,13,465.54,14,2.7,0
+OF0556,Oficina Simulada 0556,plano piloto,DF,-15.818091,-47.866081,Concessionária,4.6,87,1105.54,19,37.9,1
+OF0043,Oficina Simulada 0043,Recanto das Emas,DF,-15.916822,-48.058767,Independente,4.0,16,364.13,6,8.8,1
+OF0168,Oficina Simulada 0168,São Sebastião,DF,-15.922346,-47.76524,Independente,4.8,172,397.27,11,11.3,1
+OF0417,Oficina Simulada 0417,Samambaia,DF,-15.854587,-48.059919,Independente,5.0,76,653.19,8,4.3,1
+OF0577,Oficina Simulada 0577,Vicente Pires,DF,-15.809995,-48.000432,Independente,4.2,49,567.21,9,9.9,1
+OF0268,Oficina Simulada 0268,  Samambaia ,DF,-15.892722,-48.104752,Independente,4.5,10,382.49,6,12.7,1
+OF0826,Oficina Simulada 0826,Ceilândia,DF,-15.843984,-48.132517,Independente,4.3,55,343.29,13,2.4,1
+OF0427,Oficina Simulada 0427,  Plano Piloto ,DF,-15.818956,-47.855867,Independente,3.9,34,339.57,6,9.5,0
+OF0691,Oficina Simulada 0691,Plano Piloto,DF,-15.785448,-47.890621,Independente,4.6,16,467.12,12,7.9,1
+OF0545,Oficina Simulada 0545,Samambaia,DF,-15.857551,-48.108584,Concessionária,4.0,22,545.39,14,27.9,0
+OF1134,Oficina Simulada 1134,Santa Maria,DF,-16.0285,-47.993572,Especializada,3.9,2,656.29,9,15.0,1
+OF0675,Oficina Simulada 0675,Guará,DF,-15.796391,-47.995027,Concessionária,4.3,40,778.58,8,13.3,1
+OF0690,Oficina Simulada 0690,Gama,DF,-16.006902,-48.066364,Independente,3.7,69,251.43,8,20.9,0
+OF1066,Oficina Simulada 1066,SIA,DF,-15.795009,-47.938735,Especializada,4.3,7,442.85,10,6.2,1
+OF1188,Oficina Simulada 1188,SIA,DF,-15.788811,-47.974324,Centro automotivo,4.4,10,471.26,14,9.5,0
+OF1005,Oficina Simulada 1005,Guará,DF,-15.836291,-47.974544,Independente,3.8,11,370.92,6,13.3,0
+OF0904,Oficina Simulada 0904,Águas Claras,DF,-15.840582,-48.027701,Concessionária,4.8,115,577.51,19,17.1,1
+OF0258,Oficina Simulada 0258,Ceilândia,DF,-15.823269,-48.120296,Concessionária,4.6,35,849.87,7,8.4,0
+OF0336,Oficina Simulada 0336,Guará,DF,-15.844267,-47.995516,Independente,4.5,42,545.71,8,10.1,1
+OF0016,Oficina Simulada 0016,Plano Piloto,DF,-15.786486,-47.884061,Concessionária,4.5,227,713.1,14,30.6,1
+OF0923,Oficina Simulada 0923,Guará,DF,-15.824715,-48.00446,Independente,4.7,27,590.56,6,22.0,1
+OF0325,Oficina Simulada 0325,Sobradinho,DF,-15.647089,-47.768837,Independente,4.1,32,491.08,11,5.8,0
+OF0608,Oficina Simulada 0608,Ceilândia,DF,-15.818204,-48.108959,Independente,4.6,33,464.33,11,3.5,0
+OF1132,Oficina Simulada 1132,Águas Claras,DF,-15.823301,-48.027752,Concessionária,4.9,45,679.28,12,19.0,1
+OF0809,Oficina Simulada 0809,Águas Claras,DF,-15.838116,-48.00942,Independente,4.3,11,426.6,11,13.3,0
+OF0223,Oficina Simulada 0223,Guará,DF,-15.800522,-47.978511,Independente,4.2,38,520.75,10,4.5,0
+OF0180,Oficina Simulada 0180,Santa Maria,DF,-16.024481,-47.998825,Independente,4.2,119,400.49,15,10.7,0
+OF0100,Oficina Simulada 0100,SIA,DF,-15.808049,-47.9744,Centro automotivo,3.3,5,496.64,17,14.0,0
+OF0522,Oficina Simulada 0522,Taguatinga,DF,-15.821476,-48.050538,Independente,4.8,15,623.38,6,4.5,1
+OF0023,Oficina Simulada 0023,SIA,DF,-15.805692,-47.981959,Independente,4.6,3,367.1,6,7.8,0
+OF0357,Oficina Simulada 0357,Santa Maria,DF,-16.037824,-48.009837,Concessionária,3.8,9,518.87,10,12.3,0
+OF0734,Oficina Simulada 0734,Taguatinga,DF,-15.824846,-48.067817,Independente,4.3,20,391.9,16,2.8,0
+OF0983,Oficina Simulada 0983,Santa Maria,DF,-16.031968,-48.008381,Independente,4.2,18,664.24,12,5.4,0
+OF1123,Oficina Simulada 1123,Sobradinho,DF,-15.640445,-47.778808,Concessionária,4.6,164,806.71,14,5.1,1
+OF0612,Oficina Simulada 0612,Guará,DF,-15.817656,-47.974276,Independente,4.1,2,555.66,12,11.7,1
+OF1030,Oficina Simulada 1030,Taguatinga,DF,-15.832338,-48.074848,Independente,2.6,8,295.66,10,3.1,0
+OF0341,Oficina Simulada 0341,Samambaia,DF,-15.879811,-48.083204,Especializada,4.1,31,602.25,8,23.7,0
+OF0432,Oficina Simulada 0432,Santa Maria,DF,-16.006854,-48.000839,Independente,3.7,5,339.26,6,12.9,0
+OF0963,Oficina Simulada 0963,Samambaia,DF,-15.836283,-48.076466,Centro automotivo,4.1,70,372.61,24,2.3,0
+OF0218,Oficina Simulada 0218,Samambaia,DF,-15.927607,-48.069576,Independente,4.4,144,357.59,9,39.1,1
+OF0204,Oficina Simulada 0204,Samambaia,DF,-15.852085,-48.079089,Independente,4.5,25,446.73,9,16.9,0
+OF0927,Oficina Simulada 0927,Samambaia,DF,-15.872488,-48.090909,Centro automotivo,3.4,22,233.86,12,9.9,0
+OF0944,Oficina Simulada 0944,Planaltina,DF,-15.638851,-47.639328,Independente,4.2,41,349.52,6,19.0,0
+OF0094,Oficina Simulada 0094,Taguatinga,DF,-15.833694,-48.066883,Independente,3.9,1,484.46,9,31.9,0
+OF0925,Oficina Simulada 0925,Samambaia,DF,-15.887328,-48.09431,Independente,2.5,1,250.62,8,16.8,0
+OF0069,Oficina Simulada 0069,Ceilândia,DF,-15.840814,-48.12633,Centro automotivo,4.0,47,504.95,23,3.5,0
+OF0959,Oficina Simulada 0959,Águas Claras,DF,-15.854564,-48.024021,Centro automotivo,4.4,229,513.75,20,18.2,0
+OF0285,Oficina Simulada 0285,Gama,DF,-16.024518,-48.059758,Independente,4.3,17,343.78,7,6.6,1
+OF0697,Oficina Simulada 0697,Santa Maria,DF,-16.003199,-47.991788,Centro automotivo,4.0,59,412.16,17,3.6,1
+OF0086,Oficina Simulada 0086,Ceilândia,DF,-15.847569,-48.093256,Concessionária,,0,873.49,11,9.2,1
+OF0435,Oficina Simulada 0435,Ceilândia,DF,-15.7911,-48.097679,Concessionária,3.8,24,575.39,19,11.8,0
+OF0815,Oficina Simulada 0815,Samambaia,DF,-15.847649,-48.075712,Independente,4.2,43,535.99,10,9.8,0
+OF0154,Oficina Simulada 0154,Gama,DF,-16.012231,-48.039152,Independente,4.0,43,729.86,13,20.7,0
+OF0076,Oficina Simulada 0076,Plano Piloto,DF,-15.766066,-47.884835,Independente,3.6,21,384.37,8,3.1,0
+OF1054,Oficina Simulada 1054,Samambaia,DF,-15.877765,-48.070001,Independente,4.0,11,447.08,2,3.5,0
+OF0581,Oficina Simulada 0581,Águas Claras,DF,-15.827918,-48.029378,Concessionária,4.1,22,772.44,11,8.1,1
+OF0447,Oficina Simulada 0447,SIA,DF,-15.794812,-47.964418,Independente,5.0,173,658.89,7,18.4,0
+OF0704,Oficina Simulada 0704,Vicente Pires,DF,-15.790787,-48.022165,Independente,4.6,15,456.11,13,12.2,0
+OF0189,Oficina Simulada 0189,Santa Maria,DF,-16.038254,-48.020805,Concessionária,4.2,5,886.48,19,11.6,1
+OF0272,Oficina Simulada 0272,  Samambaia ,DF,-15.877502,-48.065266,Independente,4.0,24,645.78,10,8.1,0
+OF0237,Oficina Simulada 0237,Planaltina,DF,-15.598714,-47.661788,Especializada,4.0,32,599.58,7,5.4,0
+OF0488,Oficina Simulada 0488,Plano Piloto,DF,-15.771088,-47.856743,Independente,4.7,38,796.28,8,2.3,0
+OF1171,Oficina Simulada 1171,Taguatinga,DF,-15.841848,-48.047517,Concessionária,4.3,75,,15,15.9,1
+OF0560,Oficina Simulada 0560,Águas Claras,DF,-15.805387,-48.0386,Independente,5.0,50,661.3,7,7.3,1
+OF0118,Oficina Simulada 0118,Recanto das Emas,DF,-15.943071,-48.079862,Centro automotivo,4.5,62,815.79,17,10.4,1
+OF0638,Oficina Simulada 0638,Recanto das Emas,DF,-15.896036,-48.051622,Independente,5.0,241,324.4,9,14.4,0
+OF1088,Oficina Simulada 1088,Santa Maria,DF,-16.016521,-48.000325,Centro automotivo,4.1,16,426.48,16,25.8,0
+OF0751,Oficina Simulada 0751,Plano Piloto,DF,-15.772574,-47.877329,Independente,4.6,45,534.6,11,11.1,0
+OF0513,Oficina Simulada 0513,Ceilândia,DF,-15.801706,-48.1318,Independente,4.4,68,634.66,8,29.1,1
+OF0634,Oficina Simulada 0634,Taguatinga,DF,-15.835665,-48.014042,Independente,4.3,17,524.36,9,3.4,0
+OF0804,Oficina Simulada 0804,Guará,DF,-15.824595,-47.991154,Especializada,4.3,270,619.15,12,27.8,1
+OF1027,Oficina Simulada 1027,Riacho Fundo,DF,-15.86993,-48.036327,Concessionária,3.9,25,510.77,12,2.9,0
+OF0885,Oficina Simulada 0885,Samambaia,DF,-15.874159,-48.071298,Concessionária,4.7,97,847.52,16,13.4,0
+OF0127,Oficina Simulada 0127,Taguatinga,DF,-15.829945,-48.041324,Centro automotivo,3.9,1,440.33,14,24.1,0
+OF0791,Oficina Simulada 0791,Plano Piloto,DF,-15.790125,-47.893448,Independente,4.6,63,418.46,9,6.4,0
+OF0117,Oficina Simulada 0117,Santa Maria,DF,-15.993515,-47.980303,Independente,4.6,160,484.05,8,18.5,1
+OF0474,Oficina Simulada 0474,Samambaia,DF,-15.858471,-48.082848,Centro automotivo,3.7,60,374.63,14,3.3,0
+OF0741,Oficina Simulada 0741,Ceilândia,DF,-15.808356,-48.109273,Concessionária,4.7,5,1022.34,12,20.5,1
+OF1144,Oficina Simulada 1144,Sobradinho,DF,-15.652759,-47.783941,Independente,4.3,19,331.54,9,24.0,0
+OF0058,Oficina Simulada 0058,Gama,DF,-15.99577,-48.070053,Independente,4.4,21,508.89,6,5.3,1
+OF0604,Oficina Simulada 0604,Recanto das Emas,DF,-15.888842,-48.076269,Independente,4.9,65,457.15,7,20.0,0
+OF0787,Oficina Simulada 0787,são sebastião,DF,-15.901985,-47.770131,Concessionária,4.4,26,576.54,14,15.0,0
+OF0994,Oficina Simulada 0994,Plano Piloto,DF,-15.80857,-47.891939,Independente,5.0,175,444.88,10,37.9,1
+OF0657,Oficina Simulada 0657,Sobradinho,DF,-15.690938,-47.814057,Independente,3.8,20,,11,3.2,1
+OF0924,Oficina Simulada 0924,Gama,DF,-16.027424,-48.045681,Centro automotivo,4.4,101,337.55,12,2.9,0
+OF0943,Oficina Simulada 0943,  Samambaia ,DF,-15.850784,-48.078276,Independente,4.0,71,385.95,8,5.2,0
+OF0106,Oficina Simulada 0106,Recanto das Emas,DF,-15.893316,-48.06371,Centro automotivo,3.8,25,676.06,11,17.3,1
+OF0636,Oficina Simulada 0636,Ceilândia,DF,-15.827474,-48.114014,Independente,4.8,60,263.36,15,3.2,1
+OF0370,Oficina Simulada 0370,Vicente Pires,DF,-15.823967,-48.038322,Independente,3.6,15,407.14,12,13.0,1
+OF0269,Oficina Simulada 0269,ceilândia,DF,-15.835127,-48.109002,Independente,4.2,92,363.54,9,1.7,0
+OF0656,Oficina Simulada 0656,Taguatinga,DF,-15.837695,-48.092805,Independente,4.8,21,372.53,8,6.4,0
+OF0047,Oficina Simulada 0047,Taguatinga,DF,-15.817038,-48.072219,Centro automotivo,3.7,37,589.93,13,16.0,1
+OF0350,Oficina Simulada 0350,Ceilândia,DF,-15.855454,-48.128524,Independente,4.2,2,542.62,10,13.5,0
+OF0774,Oficina Simulada 0774,Sobradinho,DF,-15.673915,-47.772818,Independente,3.9,13,330.32,8,5.8,1
+OF0196,Oficina Simulada 0196,Samambaia,DF,-15.880571,-48.060178,Concessionária,4.9,7,699.97,12,11.2,1
+OF0103,Oficina Simulada 0103,Plano Piloto,DF,-15.809049,-47.890429,Independente,3.6,26,471.59,12,7.6,1
+OF0005,Oficina Simulada 0005,Ceilândia,DF,-15.826911,-48.123898,Independente,40.0,121,697.93,4,11.3,0
+OF0620,Oficina Simulada 0620,Ceilândia,DF,-15.837201,-48.103333,Centro automotivo,4.2,256,416.88,14,12.0,0
+OF1014,Oficina Simulada 1014,Riacho Fundo,DF,-15.873861,-48.022026,Especializada,4.5,9,415.01,4,8.2,1
+OF0053,Oficina Simulada 0053,São Sebastião,DF,-15.935591,-47.78841,Centro automotivo,3.6,6,427.95,10,32.8,0
+OF0264,Oficina Simulada 0264,Samambaia,DF,-15.859419,-48.060608,Independente,3.9,20,435.07,7,9.6,0
+OF1104,Oficina Simulada 1104,Sobradinho,DF,-15.656857,-47.826128,Independente,3.7,30,349.49,6,4.9,0
+OF0444,Oficina Simulada 0444,Samambaia,DF,-15.872485,-48.12148,Centro automotivo,3.8,117,486.86,16,6.3,0
+OF0995,Oficina Simulada 0995,Riacho Fundo,DF,-15.870805,-48.035353,Independente,4.2,21,473.22,8,29.6,1
+OF0783,Oficina Simulada 0783,Planaltina,DF,-15.633539,-47.636959,Independente,3.6,33,538.79,10,7.1,0
+OF0866,Oficina Simulada 0866,Vicente Pires,DF,-15.811605,-48.05615,Independente,4.4,64,554.13,9,15.4,0
+OF0692,Oficina Simulada 0692,vicente pires,DF,-15.815455,-48.05049,Centro automotivo,3.7,39,380.78,16,18.2,0
+OF0305,Oficina Simulada 0305,Sobradinho,DF,-15.678688,-47.792358,Especializada,4.8,40,546.33,3,11.4,1
+OF0342,Oficina Simulada 0342,SIA,DF,-15.791023,-47.956172,Especializada,4.1,31,545.4,10,5.4,1
+OF0887,Oficina Simulada 0887,Taguatinga,DF,-15.819196,-48.035311,Independente,4.1,60,374.35,8,26.1,0
+OF0314,Oficina Simulada 0314,Taguatinga,DF,-15.859228,-48.046844,Independente,,0,459.74,10,16.8,0
+OF0150,Oficina Simulada 0150,Ceilândia,DF,-15.812229,-48.093512,Centro automotivo,3.5,31,336.57,15,7.8,1
+OF0125,Oficina Simulada 0125,Ceilândia,DF,-15.783437,-48.083201,Concessionária,4.4,47,741.32,15,20.2,1
+OF1074,Oficina Simulada 1074,Riacho Fundo,DF,-15.884623,-48.015197,Concessionária,4.9,13,1072.06,14,20.8,1
+OF0575,Oficina Simulada 0575,Sobradinho,DF,-15.667756,-47.799223,Independente,5.0,42,766.68,6,7.9,1
+OF0698,Oficina Simulada 0698,  Guará ,DF,-15.842523,-47.976414,Especializada,4.2,64,485.84,12,16.3,0
+OF0665,Oficina Simulada 0665,Taguatinga,DF,-15.84877,-48.071137,Independente,4.3,7,434.07,10,6.4,0
+OF0051,Oficina Simulada 0051,Samambaia,DF,-15.923731,-48.067021,Independente,4.1,53,463.64,13,7.4,1
+OF0727,Oficina Simulada 0727,Plano Piloto,DF,-15.775559,-47.860213,Concessionária,3.6,36,519.64,18,8.0,1
+OF0800,Oficina Simulada 0800,recanto das emas,DF,-15.90825,-48.051821,Independente,4.2,56,437.36,5,14.0,0
+OF0834,Oficina Simulada 0834,Recanto das Emas,DF,-15.905648,-48.067716,Concessionária,4.1,7,586.34,11,15.4,0
+OF0354,Oficina Simulada 0354,Gama,DF,-15.995384,-48.062085,Independente,4.0,50,252.98,6,4.1,0
+OF1164,Oficina Simulada 1164,Samambaia,DF,-15.849541,-48.110825,Concessionária,4.8,122,,17,7.2,1
+OF0143,Oficina Simulada 0143,Riacho Fundo,DF,-15.900936,-47.989609,Independente,3.7,35,539.37,13,15.3,0
+OF0471,Oficina Simulada 0471,Taguatinga,DF,-15.827905,-48.047121,Independente,4.4,37,222.59,10,8.6,1
+OF0654,Oficina Simulada 0654,Plano Piloto,DF,-15.777213,-47.863471,Concessionária,4.4,53,721.16,19,10.2,1
+OF0400,Oficina Simulada 0400,Planaltina,DF,-15.640643,-47.635996,Independente,4.4,38,761.73,9,2.7,1
+OF0919,Oficina Simulada 0919,Taguatinga,DF,-15.853766,-48.066029,Centro automotivo,3.4,113,596.8,9,5.6,0
+OF0937,Oficina Simulada 0937,Riacho Fundo,DF,-15.87838,-48.007095,Concessionária,4.5,64,642.23,11,40.7,1
+OF0321,Oficina Simulada 0321,Vicente Pires,DF,-15.789003,-48.05674,Independente,4.4,8,417.47,6,1.3,0
+OF0020,Oficina Simulada 0020,Guará,DF,-15.811609,-47.989306,Independente,3.7,8,381.63,16,10.6,0
+OF0685,Oficina Simulada 0685,Guará,DF,-15.829922,-47.963998,Independente,4.8,70,368.66,8,12.1,0
+OF0036,Oficina Simulada 0036,Samambaia,DF,-15.895049,-48.076403,Independente,4.3,43,561.19,7,4.3,0
+OF0825,Oficina Simulada 0825,Sobradinho,DF,-15.667513,-47.798431,Concessionária,4.2,67,494.48,13,19.4,1
+OF0506,Oficina Simulada 0506,São Sebastião,DF,-15.915576,-47.7647,Independente,4.1,32,434.27,5,28.9,0
+OF0828,Oficina Simulada 0828,Plano Piloto,DF,-15.784184,-47.897293,Concessionária,4.6,292,648.37,19,19.1,1
+OF1082,Oficina Simulada 1082,Vicente Pires,DF,-15.814169,-48.035921,Independente,4.6,30,302.2,10,25.9,0
+OF0408,Oficina Simulada 0408,Sobradinho,DF,-15.656959,-47.781619,Centro automotivo,4.3,40,528.29,11,7.4,1
+OF0818,Oficina Simulada 0818,Gama,DF,-16.029088,-48.091965,Independente,4.6,32,364.99,11,8.0,1
+OF0538,Oficina Simulada 0538,Samambaia,DF,-15.884881,-48.112317,Centro automotivo,3.3,49,439.63,21,3.7,0
+OF0759,Oficina Simulada 0759,Ceilândia,DF,-15.854087,-48.095622,Especializada,3.4,2,881.63,5,1.8,0
+OF1080,Oficina Simulada 1080,Taguatinga,DF,-15.816033,-48.062722,Independente,3.7,47,347.4,8,4.3,0
+OF0975,Oficina Simulada 0975,Taguatinga,DF,-15.827256,-48.075421,Concessionária,3.1,1,674.58,17,7.3,0
+OF0039,Oficina Simulada 0039,Plano Piloto,DF,-15.786436,-47.877439,Independente,3.6,38,457.24,8,13.7,0
+OF0176,Oficina Simulada 0176,Ceilândia,DF,-15.823348,-48.096638,Independente,4.6,65,566.62,9,14.9,0
+OF0246,Oficina Simulada 0246,Vicente Pires,DF,-15.793762,-48.053956,Independente,4.1,143,499.7,8,21.0,0
+OF0811,Oficina Simulada 0811,Ceilândia,DF,-15.843626,-48.094017,Independente,4.5,24,463.27,8,16.2,1
+OF0765,Oficina Simulada 0765,Vicente Pires,DF,-15.787408,-48.043071,Centro automotivo,4.4,21,448.09,21,4.5,1
+OF0985,Oficina Simulada 0985,Samambaia,DF,-15.882559,-48.077293,Independente,3.7,22,440.07,6,1.5,0
+OF0785,Oficina Simulada 0785,SIA,DF,-15.815682,-47.921019,Centro automotivo,3.8,29,343.3,16,2.2,0
+OF1197,Oficina Simulada 1197,Plano Piloto,DF,-15.76574,-47.869581,Independente,4.1,37,,11,0.6,0
+OF0490,Oficina Simulada 0490,Gama,DF,-16.025941,-48.060619,Centro automotivo,4.5,237,465.09,16,8.4,0
+OF0155,Oficina Simulada 0155,Ceilândia,DF,-15.846231,-48.098006,Independente,4.2,17,380.48,7,7.2,0
+OF0639,Oficina Simulada 0639,São Sebastião,DF,-15.90848,-47.73961,Especializada,4.3,33,516.66,8,9.5,0
+OF0663,Oficina Simulada 0663,Samambaia,DF,-15.86051,-48.073757,Independente,3.4,38,376.19,13,12.7,1
+OF0854,Oficina Simulada 0854,Vicente Pires,DF,-15.814885,-48.008251,Independente,4.1,10,444.98,7,6.1,1
+OF0288,Oficina Simulada 0288,Taguatinga,DF,-15.823822,-48.090161,Independente,4.0,54,228.57,11,12.6,1
+OF0626,Oficina Simulada 0626,Planaltina,DF,-15.601721,-47.627093,Centro automotivo,4.6,123,524.83,19,26.4,1
+OF1138,Oficina Simulada 1138,Planaltina,DF,-15.63602,-47.628202,Centro automotivo,4.8,293,514.24,17,16.5,1
+OF0686,Oficina Simulada 0686,Taguatinga,DF,-15.821095,-48.030376,Independente,3.4,42,492.81,8,6.8,0
+OF1028,Oficina Simulada 1028,Taguatinga,DF,-15.849759,-48.087079,Independente,4.1,26,496.35,9,21.3,0
+OF0893,Oficina Simulada 0893,Plano Piloto,DF,-15.802871,-47.894154,Independente,5.0,3,379.22,11,16.6,0
+OF0570,Oficina Simulada 0570,Gama,DF,-16.044956,-48.045985,Independente,4.4,36,529.26,7,19.6,0
+OF1177,Oficina Simulada 1177,Planaltina,DF,-15.59337,-47.648813,Independente,4.2,57,552.54,12,6.0,0
+OF0735,Oficina Simulada 0735,Ceilândia,DF,-15.827599,-48.071762,Independente,3.7,8,361.43,9,4.5,0
+OF0793,Oficina Simulada 0793,Taguatinga,DF,-15.816655,-48.007908,Independente,3.6,6,495.53,8,12.3,0
+OF0018,Oficina Simulada 0018,Ceilândia,DF,-15.804116,-48.093774,Independente,3.6,12,342.82,8,4.2,0
+OF0128,Oficina Simulada 0128,Samambaia,DF,-15.883903,-48.099632,Independente,4.1,9,474.44,13,7.9,0
+OF0323,Oficina Simulada 0323,Taguatinga,DF,-15.817195,-48.087617,Especializada,4.7,118,567.98,19,10.5,0
+OF0256,Oficina Simulada 0256,Santa Maria,DF,-16.014496,-47.983167,Concessionária,4.4,52,990.92,14,7.7,0
+OF0965,Oficina Simulada 0965,SIA,DF,-15.792399,-47.965129,Concessionária,4.6,122,752.56,10,18.0,0
+OF1191,Oficina Simulada 1191,Planaltina,DF,-15.641333,-47.635317,Independente,4.2,50,492.59,14,5.9,1
+OF0191,Oficina Simulada 0191,Riacho Fundo,DF,-15.848567,-48.009997,Centro automotivo,4.2,4,835.48,16,9.1,0
+OF0116,Oficina Simulada 0116,Sobradinho,DF,-15.656925,-47.797041,Independente,4.4,89,558.74,6,32.4,0
+OF1194,Oficina Simulada 1194,SIA,DF,-15.794168,-47.945624,Independente,3.7,27,317.38,8,2.1,1
+OF0910,Oficina Simulada 0910,Taguatinga,DF,-15.837708,-48.062789,Concessionária,4.5,10,818.98,16,4.2,0
+OF0607,Oficina Simulada 0607,Sobradinho,DF,-15.661125,-47.773495,Centro automotivo,4.5,176,424.42,19,13.6,0
+OF0181,Oficina Simulada 0181,Vicente Pires,DF,-15.821583,-48.03082,Especializada,3.7,1,584.63,15,3.1,0
+OF0302,Oficina Simulada 0302,Samambaia,DF,-15.875275,-48.084862,Independente,4.4,10,667.59,10,2.4,0
+OF0497,Oficina Simulada 0497,Planaltina,DF,-15.577035,-47.678436,Independente,4.4,34,478.05,12,11.0,1
+OF0349,Oficina Simulada 0349,Guará,DF,-15.806879,-47.981346,Independente,4.4,1,384.59,7,19.3,0
+OF1047,Oficina Simulada 1047,Samambaia,DF,-15.861773,-48.126513,Independente,4.3,53,639.34,12,15.2,1
+OF1006,Oficina Simulada 1006,Taguatinga,DF,-15.844091,-48.053755,Independente,3.2,2,614.63,6,12.1,0
+OF0745,Oficina Simulada 0745,Águas Claras,DF,-15.848457,-48.050283,Independente,4.6,31,471.12,6,11.3,1
+OF1093,Oficina Simulada 1093,Taguatinga,DF,-15.827024,-48.051746,Independente,4.5,11,328.64,9,16.1,0
+OF0978,Oficina Simulada 0978,Taguatinga,DF,-15.838979,-48.042246,Concessionária,4.5,221,846.12,14,12.2,1
+OF0518,Oficina Simulada 0518,Santa Maria,DF,-16.033457,-47.996912,Independente,4.7,23,497.31,11,40.2,1
+OF0373,Oficina Simulada 0373,Taguatinga,DF,-15.819514,-48.073,Independente,4.7,63,391.5,13,20.8,1
+OF0046,Oficina Simulada 0046,São Sebastião,DF,-15.897645,-47.784643,Concessionária,4.7,19,729.44,15,12.5,1
+OF0477,Oficina Simulada 0477,Planaltina,DF,-15.64648,-47.655022,Especializada,3.5,113,826.63,9,15.4,0
+OF0158,Oficina Simulada 0158,Guará,DF,-15.833094,-47.947919,Independente,4.9,8,626.15,8,40.2,0
+OF1058,Oficina Simulada 1058,  Samambaia ,DF,-15.88983,-48.089076,Independente,3.7,40,,11,4.1,0
+OF0172,Oficina Simulada 0172,Águas Claras,DF,-15.806529,-48.008178,Centro automotivo,4.4,23,694.88,13,17.1,0
+OF0017,Oficina Simulada 0017,Gama,DF,-16.042769,-48.069927,Independente,4.5,266,642.44,8,37.2,0
+OF0512,Oficina Simulada 0512,Sobradinho,DF,-15.682071,-47.832371,Independente,3.8,15,486.2,7,23.5,0
+OF0049,Oficina Simulada 0049,Recanto das Emas,DF,-15.907347,-48.09465,Independente,4.2,84,497.75,10,25.5,0
+OF0192,Oficina Simulada 0192,Plano Piloto,DF,-15.785609,-47.889341,Independente,4.5,50,396.36,9,5.0,1
+OF0547,Oficina Simulada 0547,Taguatinga,DF,-15.843457,-48.06473,Independente,4.4,11,721.47,8,3.3,0
+OF0516,Oficina Simulada 0516,Samambaia,DF,-15.881051,-48.079865,Independente,4.4,24,537.23,8,3.5,1
+OF1001,Oficina Simulada 1001,Ceilândia,DF,-15.80861,-48.099258,Independente,3.4,17,323.43,9,2.7,0
+OF0960,Oficina Simulada 0960,Gama,DF,-16.017782,-48.050981,Independente,3.8,106,643.28,11,12.7,1
+OF0829,Oficina Simulada 0829,Vicente Pires,DF,-15.79883,-48.028447,Concessionária,4.1,5,668.79,16,3.3,0
+OF1007,Oficina Simulada 1007,Riacho Fundo,DF,-15.898315,-48.021593,Independente,4.4,37,648.99,12,9.7,1
+OF0481,Oficina Simulada 0481,Planaltina,DF,-15.646858,-47.663963,Centro automotivo,4.2,40,464.98,9,4.0,0
+OF1140,Oficina Simulada 1140,Recanto das Emas,DF,-15.911825,-48.085429,Centro automotivo,5.0,158,519.56,18,18.2,0
+OF0284,Oficina Simulada 0284,Plano Piloto,DF,-15.766704,-47.891745,Concessionária,5.0,62,601.95,12,15.2,1
+OF1041,Oficina Simulada 1041,Ceilândia,DF,-15.800045,-48.135282,Centro automotivo,4.8,5,752.65,15,13.2,0
+OF0798,Oficina Simulada 0798,Samambaia,DF,-15.887529,-48.07716,Independente,4.1,50,376.99,8,29.0,1
+OF1158,Oficina Simulada 1158,Ceilândia,DF,-15.79686,-48.107274,Concessionária,,0,1175.13,20,5.8,1
+OF0226,Oficina Simulada 0226,Riacho Fundo,DF,-15.899485,-48.005765,Independente,5.0,58,494.71,6,3.1,0
+OF0027,Oficina Simulada 0027,Planaltina,DF,-15.592428,-47.687295,Centro automotivo,4.2,24,539.5,16,0.5,1
+OF0283,Oficina Simulada 0283,Plano Piloto,DF,-15.752136,-47.852974,Concessionária,3.8,5,1106.1,8,43.3,0
+OF1161,Oficina Simulada 1161,Ceilândia,DF,-15.862401,-48.124568,Independente,4.5,160,479.76,9,8.4,0
+OF0438,Oficina Simulada 0438,Águas Claras,DF,-15.819612,-48.009544,Especializada,,0,445.53,9,5.4,0
+OF1179,Oficina Simulada 1179,Plano Piloto,DF,-15.830986,-47.885273,Independente,4.6,26,524.99,10,18.3,0
+OF0365,Oficina Simulada 0365,Guará,DF,-15.861424,-47.946857,Especializada,4.3,27,802.01,8,9.4,1
+OF0230,Oficina Simulada 0230,Ceilândia,DF,-15.81118,-48.095166,Especializada,3.6,1,591.22,14,7.1,0
+OF0038,Oficina Simulada 0038,Águas Claras,DF,-15.848751,-48.009357,Independente,4.7,58,598.64,8,2.2,1
+OF0670,Oficina Simulada 0670,Planaltina,DF,-15.612537,-47.645572,Centro automotivo,4.6,44,467.25,11,17.7,0
+OF0750,Oficina Simulada 0750,Sobradinho,DF,-15.705509,-47.777968,Centro automotivo,3.7,35,429.85,11,19.9,0
+OF1192,Oficina Simulada 1192,Taguatinga,DF,-15.872356,-48.060549,Independente,4.9,56,819.21,13,24.9,1
+OF0375,Oficina Simulada 0375,Samambaia,DF,-15.892745,-48.042752,Independente,4.3,34,494.31,8,8.2,1
+OF0470,Oficina Simulada 0470,Águas Claras,DF,-15.840307,-48.044922,Centro automotivo,4.2,13,642.59,17,10.6,0
+OF0883,Oficina Simulada 0883,Riacho Fundo,DF,-15.871112,-48.032189,Centro automotivo,4.0,27,441.93,13,3.1,0
+OF1193,Oficina Simulada 1193,Vicente Pires,DF,-15.800299,-48.033808,Centro automotivo,5.0,392,597.2,25,18.6,0
+OF0688,Oficina Simulada 0688,SIA,DF,-15.795837,-47.969816,Independente,4.6,2,544.37,11,4.1,1
+OF0033,Oficina Simulada 0033,Taguatinga,DF,-15.855104,-48.063954,Centro automotivo,4.4,39,662.44,10,12.2,0
+OF0640,Oficina Simulada 0640,Sobradinho,DF,-15.660374,-47.819861,Independente,5.0,58,487.42,11,11.3,1
+OF1050,Oficina Simulada 1050,Plano Piloto,DF,-15.76199,-47.888945,Independente,3.3,2,572.81,8,22.8,1
+OF0195,Oficina Simulada 0195,Samambaia,DF,-15.883386,-48.06117,Concessionária,3.7,62,620.94,16,10.4,1
+OF1117,Oficina Simulada 1117,Samambaia,DF,-15.853766,-48.095981,Independente,4.6,48,642.42,17,13.1,1
+OF1125,Oficina Simulada 1125,Planaltina,DF,-15.602522,-47.650389,Independente,3.6,17,359.02,7,13.5,0
+OF0974,Oficina Simulada 0974,Vicente Pires,DF,-15.787767,-48.021216,Especializada,4.3,22,437.24,8,2.6,0
+OF0504,Oficina Simulada 0504,Águas Claras,DF,-15.839964,-47.999472,Concessionária,5.0,54,1213.89,10,45.0,1
+OF0916,Oficina Simulada 0916,SIA,DF,-15.816472,-47.960195,Centro automotivo,3.3,48,481.48,13,11.4,0
+OF1000,Oficina Simulada 1000,Plano Piloto,DF,-15.782598,-47.89921,Independente,,0,433.34,11,1.8,0
+OF1195,Oficina Simulada 1195,  Vicente Pires ,DF,-15.781233,-48.019538,Independente,3.7,23,629.39,10,6.3,0
+OF1099,Oficina Simulada 1099,Sobradinho,DF,-15.650512,-47.815671,Independente,3.9,13,367.36,11,5.8,0
+OF0801,Oficina Simulada 0801,Santa Maria,DF,-16.028219,-48.024607,Concessionária,4.0,13,680.32,13,15.3,0
+OF0580,Oficina Simulada 0580,  Taguatinga ,DF,-15.856612,-48.061281,Independente,4.5,128,357.02,14,22.6,1
+OF0161,Oficina Simulada 0161,Ceilândia,DF,-15.815382,-48.073925,Especializada,4.4,117,770.8,9,12.8,1
+OF0681,Oficina Simulada 0681,ceilândia,DF,-15.843085,-48.104385,Centro automotivo,4.7,47,414.03,21,12.5,0
+OF0957,Oficina Simulada 0957,  São Sebastião ,DF,-15.893007,-47.803913,Concessionária,5.0,71,1008.41,17,11.3,1
+OF1142,Oficina Simulada 1142,São Sebastião,DF,-15.911878,-47.745334,Concessionária,5.0,6,771.84,20,17.9,1
+OF0163,Oficina Simulada 0163,Plano Piloto,DF,-15.788727,-47.88376,Concessionária,3.8,37,791.41,17,3.2,1
+OF0822,Oficina Simulada 0822,Guará,DF,-15.828218,-48.004623,Independente,4.2,36,347.05,6,6.9,1
+OF0706,Oficina Simulada 0706,Gama,DF,-16.01476,-48.080216,Independente,3.8,4,602.08,5,6.7,0
+OF1102,Oficina Simulada 1102,Taguatinga,DF,-15.818791,-48.01885,Independente,4.3,91,415.97,5,10.1,0
+OF0878,Oficina Simulada 0878,Taguatinga,DF,-15.821119,-48.071348,Concessionária,4.3,58,601.94,9,7.6,1
+OF0896,Oficina Simulada 0896,Vicente Pires,DF,-15.822672,-48.036074,Independente,4.7,10,464.59,12,10.0,1
+OF0914,Oficina Simulada 0914,SIA,DF,-15.799032,-47.990979,Independente,5.0,63,625.05,8,10.8,1
+OF1138,Oficina Simulada 1138,Planaltina,DF,-15.63602,-47.628202,Centro automotivo,4.8,293,514.24,17,16.5,1
+OF0153,Oficina Simulada 0153,Samambaia,DF,-15.879653,-48.086802,Independente,3.9,71,512.02,7,3.6,0
+OF1002,Oficina Simulada 1002,Planaltina,DF,-15.59755,-47.675073,Independente,4.2,61,312.23,10,4.4,0
+OF1157,Oficina Simulada 1157,Ceilândia,DF,-15.81195,-48.121093,Centro automotivo,4.2,104,484.05,14,22.8,0
+OF0510,Oficina Simulada 0510,Ceilândia,DF,-15.8114,-48.142111,Independente,4.3,23,416.97,12,5.2,0
+OF0112,Oficina Simulada 0112,Samambaia,DF,-15.87558,-48.086343,Independente,40.0,9,498.17,8,1.6,0
+OF0227,Oficina Simulada 0227,Ceilândia,DF,-15.831594,-48.122999,Especializada,4.3,139,461.77,6,13.8,0
+OF1009,Oficina Simulada 1009,Santa Maria,DF,-16.020394,-48.03959,Centro automotivo,3.6,23,368.44,13,10.9,0
+OF0852,Oficina Simulada 0852,Samambaia,DF,-15.873133,-48.078606,Centro automotivo,4.4,204,631.13,13,10.2,0
+OF0104,Oficina Simulada 0104,SIA,DF,-15.788083,-47.929195,Independente,3.9,29,599.81,5,26.0,0
+OF0422,Oficina Simulada 0422,Ceilândia,DF,-15.848676,-48.1063,Independente,4.2,162,465.82,6,7.3,0
+OF0420,Oficina Simulada 0420,Vicente Pires,DF,-15.815655,-48.010812,Concessionária,3.7,19,713.74,17,18.8,0
+OF0968,Oficina Simulada 0968,Samambaia,DF,-15.833919,-48.087624,Independente,4.3,30,317.04,12,5.0,0
+OF0625,Oficina Simulada 0625,SIA,DF,-15.794572,-47.949004,Centro automotivo,4.2,51,588.55,16,4.2,0
+OF0587,Oficina Simulada 0587,Samambaia,DF,-15.889941,-48.108054,Independente,4.6,19,572.72,6,3.9,1
+OF1112,Oficina Simulada 1112,Planaltina,DF,-15.675148,-47.641007,Especializada,3.9,20,585.88,8,29.5,0
+OF0920,Oficina Simulada 0920,Gama,DF,-16.016148,-48.041519,Independente,4.2,96,355.76,8,3.3,0
+OF0673,Oficina Simulada 0673,SIA,DF,-15.796047,-47.950496,Centro automotivo,3.6,86,423.83,12,3.9,0
+OF0120,Oficina Simulada 0120,Guará,DF,-15.808675,-47.980645,Independente,4.1,17,371.82,7,7.8,1
+OF0054,Oficina Simulada 0054,Guará,DF,-15.863496,-47.991378,Independente,4.3,8,292.05,5,2.9,0
+OF0152,Oficina Simulada 0152,Vicente Pires,DF,-15.769948,-48.040557,Independente,4.2,39,489.16,12,9.1,1
+OF0404,Oficina Simulada 0404,Ceilândia,DF,-15.816583,-48.076452,Concessionária,3.7,53,732.54,17,8.4,0
+OF0435,Oficina Simulada 0435,Ceilândia,DF,-15.7911,-48.097679,Concessionária,3.8,24,575.39,19,11.8,0
+OF0208,Oficina Simulada 0208,Recanto das Emas,DF,-15.889076,-48.052481,Independente,3.3,17,473.37,5,10.3,0
+OF1146,Oficina Simulada 1146,Taguatinga,DF,-15.828294,-48.074659,Especializada,4.7,25,716.45,9,7.6,0
+OF0659,Oficina Simulada 0659,Guará,DF,-15.801009,-47.972765,Concessionária,4.0,13,,19,6.4,0
+OF1108,Oficina Simulada 1108,Taguatinga,DF,-15.852628,-48.061458,Concessionária,3.9,30,656.79,12,8.0,1
+OF0233,Oficina Simulada 0233,SIA,DF,-15.789152,-47.930718,Concessionária,5.0,1,477.23,13,4.6,1
+OF0009,Oficina Simulada 0009,Samambaia,DF,-15.878104,-48.089066,Independente,4.5,46,527.67,8,20.4,1
+OF0160,Oficina Simulada 0160,Santa Maria,DF,-16.043132,-48.045409,Concessionária,4.9,102,678.95,12,25.0,1
+OF0037,Oficina Simulada 0037,Samambaia,DF,-15.899806,-48.095029,Independente,3.8,45,423.51,9,7.4,0
+OF0453,Oficina Simulada 0453,Recanto das Emas,DF,-15.851544,-48.090324,Independente,4.3,41,459.38,11,7.8,0
+OF0652,Oficina Simulada 0652,Vicente Pires,DF,-15.811318,-48.040201,Concessionária,3.9,9,"R$ 607,38",22,6.2,1
+OF0254,Oficina Simulada 0254,Plano Piloto,DF,-15.776081,-47.865753,Centro automotivo,4.9,14,365.43,15,13.6,1
+OF0304,Oficina Simulada 0304,Águas Claras,DF,-15.864485,-48.031885,Especializada,4.0,26,391.77,6,6.9,0
+OF0897,Oficina Simulada 0897,Plano Piloto,DF,-15.820046,-47.880566,Independente,4.4,36,479.87,9,16.6,0
+OF1187,Oficina Simulada 1187,Taguatinga,DF,-15.821272,-48.069368,Independente,4.1,131,428.53,5,9.4,0
+OF0881,Oficina Simulada 0881,Planaltina,DF,-15.644825,-47.643268,Independente,4.6,55,248.94,7,23.3,1
+OF0572,Oficina Simulada 0572,Sobradinho,DF,-15.636537,-47.841312,Concessionária,3.9,19,1042.0,20,5.4,1
+OF1012,Oficina Simulada 1012,Guará,DF,-15.822069,-47.990948,Independente,4.8,40,470.15,13,13.2,1
+OF0624,Oficina Simulada 0624,Planaltina,DF,-15.648656,-47.623452,Independente,4.0,2,298.29,8,3.3,0
+OF0346,Oficina Simulada 0346,São Sebastião,DF,-15.900618,-47.77704,Independente,4.3,14,502.71,9,6.9,0
+OF1042,Oficina Simulada 1042,Guará,DF,-15.828298,-48.002457,Concessionária,4.8,12,1052.4,14,1.2,1
+OF1037,Oficina Simulada 1037,Taguatinga,DF,-15.842712,-48.048818,Especializada,4.0,54,693.69,13,10.8,1
+OF0263,Oficina Simulada 0263,Taguatinga,DF,-15.81816,-48.031645,Independente,3.8,24,576.22,3,7.4,1
+OF0611,Oficina Simulada 0611,  Gama ,DF,-15.998849,-48.062856,Especializada,4.3,92,602.48,11,17.8,0
+OF0298,Oficina Simulada 0298,São Sebastião,DF,-15.916043,-47.787602,Centro automotivo,4.0,43,670.72,7,21.3,0
+OF0990,Oficina Simulada 0990,São Sebastião,DF,-15.92236,-47.789503,Concessionária,4.6,85,715.34,17,16.5,1
+OF0415,Oficina Simulada 0415,Ceilândia,DF,-15.859355,-48.099621,Independente,3.5,11,392.54,13,11.3,0
+OF0151,Oficina Simulada 0151,Sobradinho,DF,-15.642822,-47.789773,Independente,3.9,9,459.64,9,8.1,0
+OF0473,Oficina Simulada 0473,Samambaia,DF,-15.907774,-48.077022,Especializada,3.7,27,406.15,9,9.8,1
+OF0641,Oficina Simulada 0641,Santa Maria,DF,-16.013338,-48.017776,Especializada,4.2,2,538.82,10,12.2,1
+OF0683,Oficina Simulada 0683,Ceilândia,DF,-15.818911,-48.099265,Independente,4.2,8,323.3,7,26.5,0
+OF1141,Oficina Simulada 1141,Taguatinga,DF,-15.826352,-48.053093,Independente,4.4,23,548.39,6,11.5,0
+OF0551,Oficina Simulada 0551,Planaltina,DF,-15.638228,-47.645567,Independente,3.9,11,407.59,9,28.0,0
+OF0929,Oficina Simulada 0929,Gama,DF,-16.016626,-48.073905,Centro automotivo,4.3,9,574.24,12,16.6,1
+OF0489,Oficina Simulada 0489,Gama,DF,-16.009347,-48.040368,Independente,4.6,24,451.09,9,9.4,0
+OF1092,Oficina Simulada 1092,Guará,DF,-15.844284,-47.99523,Concessionária,3.7,23,758.0,12,7.1,0
+OF0147,Oficina Simulada 0147,Taguatinga,DF,-15.85424,-48.066826,Concessionária,4.7,138,601.44,14,11.8,1
+OF0403,Oficina Simulada 0403,São Sebastião,DF,-15.923943,-47.807784,Especializada,4.2,44,1015.06,7,7.8,0
+OF0955,Oficina Simulada 0955,Riacho Fundo,DF,-15.879128,-47.996565,Especializada,3.6,3,603.73,4,4.4,1
+OF1136,Oficina Simulada 1136,Taguatinga,DF,-15.83851,-48.045296,Concessionária,3.8,5,847.82,19,7.2,0
+OF0660,Oficina Simulada 0660,Taguatinga,DF,-15.821398,-48.06972,Independente,3.9,32,567.01,5,13.1,0
+OF0464,Oficina Simulada 0464,Taguatinga,DF,-15.804372,-48.021359,Centro automotivo,4.5,159,665.69,15,17.4,0
+OF0187,Oficina Simulada 0187,Taguatinga,DF,-15.837552,-48.086224,Independente,3.3,8,484.21,15,1.2,0
+OF0609,Oficina Simulada 0609,Santa Maria,DF,-16.038316,-48.013553,Independente,4.5,71,314.09,9,12.4,0
+OF0144,Oficina Simulada 0144,  Gama ,DF,-15.996808,-48.058542,Independente,3.8,33,350.65,10,22.1,1
+OF0752,Oficina Simulada 0752,Taguatinga,DF,-15.887857,-48.042521,Centro automotivo,3.9,78,374.14,12,3.4,1
+OF0982,Oficina Simulada 0982,São Sebastião,DF,-15.915497,-47.779183,Independente,2.6,3,362.82,11,1.3,0
+OF0198,Oficina Simulada 0198,Vicente Pires,DF,-15.786506,-48.029171,Independente,4.2,14,617.52,9,27.1,0
+OF0884,Oficina Simulada 0884,Planaltina,DF,-15.611037,-47.676298,Independente,4.9,108,699.58,12,26.7,1
+OF0280,Oficina Simulada 0280,Sobradinho,DF,-15.627103,-47.809223,Centro automotivo,4.3,113,387.28,14,10.1,0
+OF0294,Oficina Simulada 0294,Ceilândia,DF,-15.817867,-48.12511,Independente,3.7,50,405.04,10,10.0,0
+OF1100,Oficina Simulada 1100,Samambaia,DF,-15.87951,-48.111861,Concessionária,4.0,38,570.21,13,3.3,0
+OF0401,Oficina Simulada 0401,Taguatinga,DF,-15.849924,-48.065756,Independente,3.8,31,899.5,8,4.4,0
+OF0123,Oficina Simulada 0123,Ceilândia,DF,-15.843375,-48.106072,Especializada,4.7,6,"R$ 1.119,43",11,14.0,1
+OF0203,Oficina Simulada 0203,Águas Claras,DF,-15.860286,-48.023376,Independente,4.8,16,627.41,9,10.7,1
+OF0836,Oficina Simulada 0836,Gama,DF,-15.979145,-48.072529,Independente,4.1,15,579.46,10,8.7,0
+OF0247,Oficina Simulada 0247,Guará,DF,-15.830539,-48.010025,Especializada,4.3,17,637.14,13,4.6,0
+OF1151,Oficina Simulada 1151,Samambaia,DF,-15.86707,-48.080578,Centro automotivo,4.7,215,614.65,23,11.4,0
+OF0385,Oficina Simulada 0385,Taguatinga,DF,-15.823079,-48.059002,Concessionária,,0,551.53,16,29.9,1
+OF0855,Oficina Simulada 0855,Plano Piloto,DF,-15.783527,-47.842286,Concessionária,3.9,11,775.19,21,11.5,0
+OF0220,Oficina Simulada 0220,Taguatinga,DF,-15.835964,-48.049883,Independente,4.7,15,489.39,9,12.7,0
+OF0642,Oficina Simulada 0642,São Sebastião,DF,-15.937576,-47.783325,Concessionária,4.5,22,846.31,20,16.2,0
+OF0002,Oficina Simulada 0002,planaltina,DF,-15.635495,-47.625358,Centro automotivo,4.1,79,,17,7.9,0
+OF0113,Oficina Simulada 0113,Taguatinga,DF,-15.843795,-48.092569,Especializada,3.4,38,695.62,9,3.1,0
+OF0699,Oficina Simulada 0699,Guará,DF,-15.797575,-47.935507,Centro automotivo,4.6,183,681.58,21,12.1,1
+OF0952,Oficina Simulada 0952,Plano Piloto,DF,-15.798666,-47.866963,Independente,5.0,36,371.37,9,5.2,1
+OF1090,Oficina Simulada 1090,Planaltina,DF,-15.662863,-47.639018,Independente,4.3,46,606.49,9,20.7,1
+OF0442,Oficina Simulada 0442,Samambaia,DF,-15.851554,-48.085043,Independente,4.2,43,438.24,5,12.1,1
+OF0664,Oficina Simulada 0664,Ceilândia,DF,-15.791441,-48.132449,Centro automotivo,4.0,40,500.52,14,12.4,0
+OF1107,Oficina Simulada 1107,Ceilândia,DF,-15.812005,-48.135815,Especializada,4.6,87,802.92,6,6.4,1
+OF0318,Oficina Simulada 0318,Recanto das Emas,DF,-15.89386,-48.067989,Independente,3.8,18,432.18,5,5.9,0
+OF0649,Oficina Simulada 0649,Recanto das Emas,DF,-15.899072,-48.071581,Independente,4.2,9,620.93,9,4.2,0
+OF0710,Oficina Simulada 0710,Águas Claras,DF,-15.861499,-48.013127,Independente,4.6,14,634.99,13,11.4,1
+OF0973,Oficina Simulada 0973,Samambaia,DF,-15.871519,-48.091443,Independente,4.6,27,556.06,3,18.5,0
+OF0628,Oficina Simulada 0628,Ceilândia,DF,-15.819642,-48.078707,Independente,4.2,33,474.68,8,17.8,1
+OF0633,Oficina Simulada 0633,Ceilândia,DF,-15.825391,-48.129781,Independente,5.0,36,445.11,17,13.8,1
+OF1183,Oficina Simulada 1183,Ceilândia,DF,-15.822675,-48.079101,Concessionária,4.5,114,1299.39,19,13.6,0
+OF1118,Oficina Simulada 1118,São Sebastião,DF,-15.90276,-47.758992,Independente,4.8,130,465.96,9,4.9,1
+OF0796,Oficina Simulada 0796,Taguatinga,DF,-15.843549,-48.068568,Especializada,3.4,13,568.53,6,5.9,0
+OF0646,Oficina Simulada 0646,Sobradinho,DF,-15.635707,-47.778687,Concessionária,4.7,211,766.7,16,26.4,1
+OF1013,Oficina Simulada 1013,Planaltina,DF,-15.611341,-47.640746,Concessionária,4.6,89,907.1,17,10.8,1
+OF0557,Oficina Simulada 0557,  Taguatinga ,DF,-15.814148,-48.068996,Centro automotivo,3.7,31,706.64,13,1.3,0
+OF0682,Oficina Simulada 0682,Samambaia,DF,-15.912679,-48.093723,Especializada,4.8,22,536.77,9,9.7,0
+OF0578,Oficina Simulada 0578,Gama,DF,-15.992407,-48.042227,Centro automotivo,4.3,22,401.54,14,12.6,0
+OF0525,Oficina Simulada 0525,Samambaia,DF,-15.878545,-48.094149,Especializada,4.5,21,1055.34,8,9.0,1
+OF1060,Oficina Simulada 1060,Recanto das Emas,DF,-15.918293,-48.081612,Independente,4.9,4,483.76,9,5.1,1
+OF0541,Oficina Simulada 0541,SIA,DF,-15.795737,-47.96036,Independente,4.7,49,624.58,9,2.6,0
+OF0749,Oficina Simulada 0749,São Sebastião,DF,-15.893067,-47.745912,Independente,4.8,16,320.93,5,24.0,0
+OF1121,Oficina Simulada 1121,Guará,DF,-15.814746,-47.964262,Independente,4.6,92,782.53,11,27.4,1
+OF0485,Oficina Simulada 0485,Ceilândia,DF,-15.822716,-48.093848,Independente,4.3,52,430.71,15,11.3,0
+OF0096,Oficina Simulada 0096,Guará,DF,-15.83168,-48.014499,Independente,3.9,21,304.05,14,7.2,0
+OF1021,Oficina Simulada 1021,Vicente Pires,DF,-15.834329,-48.031323,Centro automotivo,4.2,20,377.52,13,8.8,0
+OF0564,Oficina Simulada 0564,Guará,DF,-15.832527,-47.975017,Independente,5.0,75,459.39,9,28.0,1
+OF0743,Oficina Simulada 0743,Sobradinho,DF,-15.652417,-47.77835,Independente,4.3,31,426.67,4,18.3,1
+OF0864,Oficina Simulada 0864,Gama,DF,-16.065834,-48.066129,Independente,4.4,71,334.18,6,6.2,1
+OF0892,Oficina Simulada 0892,SIA,DF,-15.789504,-47.946844,Independente,4.3,34,481.84,7,7.2,0
+OF1039,Oficina Simulada 1039,Planaltina,DF,-15.618366,-47.664835,Independente,4.1,12,447.05,17,2.6,0
+OF0207,Oficina Simulada 0207,Samambaia,DF,-15.903266,-48.046086,Concessionária,4.4,54,877.01,10,17.2,0
+OF0393,Oficina Simulada 0393,Gama,DF,-16.032115,-48.053502,Independente,4.1,35,424.31,14,20.3,1
+OF0795,Oficina Simulada 0795,Ceilândia,DF,-15.824655,-48.134226,Centro automotivo,4.3,16,527.99,16,8.4,0
+OF0871,Oficina Simulada 0871,Santa Maria,DF,-16.012953,-48.021725,Centro automotivo,4.9,282,403.79,19,8.7,1
+OF0398,Oficina Simulada 0398,Taguatinga,DF,-15.830481,-48.085105,Independente,4.7,61,467.91,4,38.3,1
+OF0767,Oficina Simulada 0767,Samambaia,DF,-15.906945,-48.074968,Independente,4.0,16,397.07,9,10.0,0
+OF1111,Oficina Simulada 1111,Samambaia,DF,-15.873716,-48.110564,Independente,4.0,6,442.33,7,8.3,0
+OF1029,Oficina Simulada 1029,Santa Maria,DF,-16.032985,-48.027322,Independente,4.4,65,412.65,15,22.9,1
+OF0643,Oficina Simulada 0643,Ceilândia,DF,-15.810913,-48.143526,Independente,4.1,15,536.64,12,18.7,0
+OF0613,Oficina Simulada 0613,SIA,DF,-15.824242,-47.967117,Especializada,4.3,82,468.09,11,31.8,0
+OF0961,Oficina Simulada 0961,Gama,DF,-16.019504,-48.048618,Independente,4.9,173,309.56,7,22.4,0
+OF0726,Oficina Simulada 0726,Ceilândia,DF,-15.809729,-48.090551,Independente,4.5,134,659.75,15,20.5,1
+OF0684,Oficina Simulada 0684,Planaltina,DF,-15.64013,-47.642589,Especializada,4.5,8,537.65,9,13.1,1
+OF0099,Oficina Simulada 0099,Ceilândia,DF,-15.805176,-48.110783,Independente,4.7,5,510.13,8,10.8,1
+OF0805,Oficina Simulada 0805,Samambaia,DF,-15.883748,-48.103519,Concessionária,4.5,23,611.53,14,14.7,0
+OF0407,Oficina Simulada 0407,Plano Piloto,DF,-15.793548,-47.865081,Centro automotivo,4.2,14,558.19,15,10.1,1
+OF0503,Oficina Simulada 0503,Riacho Fundo,DF,-15.878969,-48.007818,Independente,4.4,4,444.14,9,10.2,1
+OF1072,Oficina Simulada 1072,Guará,DF,-15.841791,-47.970528,Independente,3.6,103,453.5,7,16.4,0
+OF1057,Oficina Simulada 1057,Vicente Pires,DF,-15.801332,-48.029856,Independente,4.4,279,389.96,16,12.6,0
+OF0930,Oficina Simulada 0930,Santa Maria,DF,-16.000262,-48.003029,Independente,4.3,10,619.18,17,4.0,1
+OF0780,Oficina Simulada 0780,Sobradinho,DF,-15.692247,-47.787407,Independente,4.4,45,710.2,16,5.5,0
+OF0201,Oficina Simulada 0201,São Sebastião,DF,-15.909834,-47.754596,Independente,4.6,14,551.37,6,14.7,0
+OF0135,Oficina Simulada 0135,Guará,DF,-15.843834,-47.989865,Especializada,3.9,13,580.58,12,9.8,0
+OF1052,Oficina Simulada 1052,Samambaia,DF,-15.87575,-48.08582,Centro automotivo,3.5,27,468.51,20,11.8,0
+OF0041,Oficina Simulada 0041,Planaltina,DF,-15.63171,-47.667587,Concessionária,4.3,96,705.71,15,21.8,1
+OF1018,Oficina Simulada 1018,Sobradinho,DF,-15.64878,-47.786152,Independente,3.5,53,403.54,11,28.4,0
+OF0231,Oficina Simulada 0231,Samambaia,DF,-15.909682,-48.115947,Independente,3.9,14,671.75,7,2.8,1
+OF0379,Oficina Simulada 0379,Taguatinga,DF,-15.828735,-48.070967,Concessionária,4.3,71,553.75,15,7.7,1
+OF0289,Oficina Simulada 0289,Gama,DF,-16.020894,-48.041841,Independente,3.7,13,271.5,12,1.1,0
+OF0419,Oficina Simulada 0419,Samambaia,DF,-15.866096,-48.07798,Independente,4.2,8,601.54,12,3.2,1
+OF0392,Oficina Simulada 0392,Samambaia,DF,-15.887311,-48.108557,Centro automotivo,3.6,13,346.75,15,11.3,0
+OF0593,Oficina Simulada 0593,Taguatinga,DF,-15.802221,-48.046438,Centro automotivo,3.9,68,462.36,16,5.8,0
+OF1087,Oficina Simulada 1087,Santa Maria,DF,-16.033658,-48.041464,Especializada,4.3,64,341.48,9,16.9,0
+OF0648,Oficina Simulada 0648,Águas Claras,DF,-15.875529,-48.033358,Independente,4.2,30,431.09,12,7.6,0
+OF0521,Oficina Simulada 0521,Sobradinho,DF,-15.664511,-47.792035,Concessionária,4.2,30,797.85,10,3.8,1
+OF0065,Oficina Simulada 0065,Guará,DF,-15.812928,-47.980303,Especializada,4.6,11,791.7,9,12.7,1
+OF0015,Oficina Simulada 0015,Planaltina,DF,-15.613408,-47.651233,Centro automotivo,4.2,20,,22,7.0,0
+OF1065,Oficina Simulada 1065,Taguatinga,DF,-15.793654,-48.022212,Concessionária,3.8,27,571.57,7,9.7,1
+OF0493,Oficina Simulada 0493,Guará,DF,-15.816007,-47.981098,Independente,4.7,23,580.02,9,12.0,0
+OF0380,Oficina Simulada 0380,Santa Maria,DF,-16.016889,-48.044975,Concessionária,4.6,36,579.02,11,5.8,1
+OF0188,Oficina Simulada 0188,Ceilândia,DF,-15.809379,-48.109948,Independente,4.3,130,483.81,10,14.9,1
+OF0764,Oficina Simulada 0764,Samambaia,DF,-15.89431,-48.079568,Independente,3.9,67,377.21,9,21.0,1
+OF0217,Oficina Simulada 0217,samambaia,DF,-15.853931,-48.10484,Especializada,4.8,57,951.25,6,34.9,0
+OF0792,Oficina Simulada 0792,Planaltina,DF,-15.638442,-47.665977,Independente,4.3,4,508.26,8,30.3,1
+OF1077,Oficina Simulada 1077,Gama,DF,-15.996871,-48.029319,Independente,4.1,3,366.77,12,3.1,0
+OF0879,Oficina Simulada 0879,Guará,DF,-15.788504,-47.975328,Concessionária,4.5,22,886.98,14,3.7,1
+OF0338,Oficina Simulada 0338,Santa Maria,DF,-16.026243,-48.033017,Independente,4.5,41,669.14,9,12.2,1
+OF0720,Oficina Simulada 0720,SIA,DF,-15.798174,-47.962403,Concessionária,4.3,41,794.48,11,9.4,1
+OF0296,Oficina Simulada 0296,Vicente Pires,DF,-15.796568,-48.021903,Concessionária,2.6,4,733.7,20,16.5,0
+OF1017,Oficina Simulada 1017,Recanto das Emas,DF,-15.865819,-48.059935,Concessionária,3.5,5,726.46,17,4.9,0
+OF0456,Oficina Simulada 0456,Samambaia,DF,-15.889683,-48.071823,Independente,4.4,49,503.81,7,10.2,0
+OF0816,Oficina Simulada 0816,Vicente Pires,DF,-15.794204,-48.02316,Especializada,5.0,134,815.69,7,24.7,0
+OF0270,Oficina Simulada 0270,Ceilândia,DF,-15.848938,-48.107904,Concessionária,3.9,73,,18,8.8,0
+OF0996,Oficina Simulada 0996,Planaltina,DF,-15.633389,-47.649019,Independente,4.4,27,392.15,8,13.0,0
+OF0202,Oficina Simulada 0202,SIA,DF,-15.793215,-47.969948,Independente,3.8,18,426.09,9,20.3,1
+OF0162,Oficina Simulada 0162,Vicente Pires,DF,-15.785586,-48.017717,Centro automotivo,3.5,14,554.09,8,2.8,0
+OF0730,Oficina Simulada 0730,Águas Claras,DF,-15.878808,-48.041115,Independente,4.6,88,532.67,10,9.2,0
+OF0402,Oficina Simulada 0402,Vicente Pires,DF,-15.814427,-48.042493,Concessionária,4.5,33,1181.26,11,15.3,1
+OF0703,Oficina Simulada 0703,Samambaia,DF,-15.879763,-48.082383,Independente,3.8,35,487.11,10,7.8,1
+OF1130,Oficina Simulada 1130,SIA,DF,-15.807679,-47.948654,Independente,5.0,3,540.86,10,5.5,1
+OF0566,Oficina Simulada 0566,Guará,DF,-15.822325,-47.98561,Independente,4.7,14,559.98,15,0.9,1
+OF1022,Oficina Simulada 1022,Santa Maria,DF,-16.014688,-48.00533,Independente,4.6,4,487.57,13,7.2,1
+OF1026,Oficina Simulada 1026,Taguatinga,DF,-15.823118,-48.065195,Independente,4.2,15,403.08,7,1.8,0
+OF1105,Oficina Simulada 1105,Samambaia,DF,-15.909234,-48.061421,Independente,4.6,3,333.31,4,7.5,0
+OF0206,Oficina Simulada 0206,Plano Piloto,DF,-15.776727,-47.874052,Independente,3.9,26,,12,11.8,0
+OF0035,Oficina Simulada 0035,Planaltina,DF,-15.593271,-47.663596,Independente,4.7,113,452.21,7,21.9,1
+OF0776,Oficina Simulada 0776,Sobradinho,DF,-15.667429,-47.7565,Independente,3.8,23,592.44,9,5.5,0
+OF0509,Oficina Simulada 0509,Águas Claras,DF,-15.837568,-48.046325,Especializada,4.0,17,385.57,12,6.8,0
+OF1196,Oficina Simulada 1196,Samambaia,DF,-15.847716,-48.101874,Independente,3.8,8,313.12,16,2.6,0
+OF0092,Oficina Simulada 0092,  Recanto das Emas ,DF,-15.915313,-48.062387,Independente,,0,334.57,4,2.6,0
+OF0898,Oficina Simulada 0898,Samambaia,DF,-15.844998,-48.106659,Independente,2.0,12,450.77,8,1.8,0
+OF0565,Oficina Simulada 0565,Guará,DF,-15.821681,-48.004308,Independente,4.1,22,560.51,10,10.5,0
+OF0777,Oficina Simulada 0777,Guará,DF,-15.845943,-47.983406,Concessionária,4.0,58,702.18,18,5.8,0
+OF0242,Oficina Simulada 0242,São Sebastião,DF,-15.890496,-47.791155,Independente,3.7,4,350.03,8,26.7,0
+OF0014,Oficina Simulada 0014,Sobradinho,DF,-15.650325,-47.804582,Especializada,4.1,11,707.62,8,2.4,0
+OF0316,Oficina Simulada 0316,Taguatinga,DF,-15.802295,-48.047828,Independente,4.7,9,374.41,13,6.7,1
+OF0601,Oficina Simulada 0601,Águas Claras,DF,-15.858934,-48.02649,Independente,4.1,38,340.1,11,7.4,1
+OF0388,Oficina Simulada 0388,SIA,DF,-15.813038,-47.960085,Independente,4.2,63,625.86,6,6.8,0
+OF0167,Oficina Simulada 0167,Sobradinho,DF,-15.686804,-47.771331,Independente,4.5,18,355.18,4,15.0,0
+OF0841,Oficina Simulada 0841,Ceilândia,DF,-15.844786,-48.100279,Independente,4.7,27,687.29,5,1.6,0
+OF0021,Oficina Simulada 0021,Santa Maria,DF,-16.015191,-48.000687,Independente,4.6,62,518.09,9,9.7,1
+OF0647,Oficina Simulada 0647,Ceilândia,DF,-15.854651,-48.065524,Centro automotivo,4.2,126,336.24,17,10.3,1
+OF1155,Oficina Simulada 1155,Gama,DF,-15.978781,-48.064774,Independente,4.6,38,481.08,6,16.0,0
+OF0832,Oficina Simulada 0832,Gama,DF,-16.011944,-48.045946,Especializada,5.0,98,553.65,8,9.4,1
+OF0563,Oficina Simulada 0563,Sobradinho,DF,-15.66993,-47.777587,Concessionária,4.6,63,1278.3,18,14.9,1
+OF1182,Oficina Simulada 1182,Samambaia,DF,-15.893456,-48.098683,Especializada,4.3,35,944.03,9,8.5,1
+OF0687,Oficina Simulada 0687,Planaltina,DF,-15.631548,-47.634075,Centro automotivo,4.4,33,578.89,9,8.8,0
+OF0958,Oficina Simulada 0958,Águas Claras,DF,-15.839204,-48.032637,Independente,4.7,13,420.54,13,7.7,1
+OF0190,Oficina Simulada 0190,Plano Piloto,DF,-15.787653,-47.920031,Independente,4.6,40,439.92,15,35.6,1
+OF0976,Oficina Simulada 0976,Guará,DF,-15.800336,-48.009305,Centro automotivo,4.4,36,525.01,18,1.8,0
+OF0700,Oficina Simulada 0700,Taguatinga,DF,-15.814566,-48.052931,Centro automotivo,5.0,30,591.91,22,2.0,0
+OF0511,Oficina Simulada 0511,Ceilândia,DF,-15.823594,-48.105894,Independente,4.5,17,,11,9.5,1
+OF1083,Oficina Simulada 1083,Riacho Fundo,DF,-15.911479,-48.024584,Independente,4.4,103,536.63,8,6.1,0
+OF0475,Oficina Simulada 0475,Plano Piloto,DF,-15.793851,-47.860966,Centro automotivo,3.6,46,712.97,19,15.5,0
+OF0857,Oficina Simulada 0857,Santa Maria,DF,-16.014736,-47.987314,Independente,4.0,30,497.59,9,4.3,0
+OF0748,Oficina Simulada 0748,Planaltina,DF,-15.610823,-47.630121,Independente,4.2,20,455.05,12,4.0,0
+OF0253,Oficina Simulada 0253,Planaltina,DF,-15.579873,-47.652136,Independente,3.2,3,350.28,4,17.8,0
+OF0022,Oficina Simulada 0022,Taguatinga,DF,-15.857775,-48.067054,Concessionária,4.4,160,709.04,11,25.9,1
+OF0460,Oficina Simulada 0460,Guará,DF,-15.801841,-47.998562,Concessionária,3.9,27,485.41,11,8.9,0
+OF1185,Oficina Simulada 1185,Samambaia,DF,-15.848963,-48.100696,Concessionária,4.6,45,931.69,9,44.6,1
+OF0277,Oficina Simulada 0277,Taguatinga,DF,-15.844963,-48.045404,Independente,4.0,2,422.58,10,15.6,0
+OF0956,Oficina Simulada 0956,Vicente Pires,DF,-15.789094,-48.01607,Concessionária,3.7,8,685.8,17,7.7,0
+OF0386,Oficina Simulada 0386,SIA,DF,-15.792881,-47.939504,Concessionária,4.7,31,1385.0,14,13.1,0
+OF0806,Oficina Simulada 0806,samambaia,DF,-15.861662,-48.108391,Concessionária,4.1,2,396.5,11,5.3,0
+OF0344,Oficina Simulada 0344,Guará,DF,-15.823776,-48.031507,Independente,4.1,26,492.9,9,6.1,0
+OF0770,Oficina Simulada 0770,Guará,DF,-15.799717,-47.991225,Independente,4.0,1,267.52,6,7.5,0
+OF0131,Oficina Simulada 0131,Samambaia,DF,-15.871362,-48.067368,Centro automotivo,3.4,45,439.35,19,5.4,0
+OF0872,Oficina Simulada 0872,Ceilândia,DF,-15.806237,-48.098176,Independente,4.6,50,595.86,6,20.7,1
+OF1124,Oficina Simulada 1124,Samambaia,DF,-15.835006,-48.08222,Independente,3.8,9,344.19,7,8.0,0
+OF0088,Oficina Simulada 0088,Planaltina,DF,-15.592698,-47.659257,Especializada,3.9,10,613.1,13,23.4,1
+OF0331,Oficina Simulada 0331,Santa Maria,DF,-16.021365,-47.987816,Independente,3.7,84,258.4,9,15.8,0
+OF0467,Oficina Simulada 0467,Guará,DF,-15.844958,-47.996474,Centro automotivo,4.3,173,692.93,16,9.1,0
+OF0122,Oficina Simulada 0122,Guará,DF,-15.818492,-47.982058,Concessionária,4.2,11,750.95,22,5.2,0
+OF1045,Oficina Simulada 1045,Ceilândia,DF,-15.808505,-48.099118,Concessionária,5.0,31,667.04,12,30.5,1
+OF1096,Oficina Simulada 1096,Planaltina,DF,-15.610083,-47.6381,Independente,4.4,20,783.31,11,4.3,0
+OF1131,Oficina Simulada 1131,SIA,DF,-15.779031,-47.927065,Independente,4.8,30,656.07,9,22.5,1
+OF0861,Oficina Simulada 0861,Santa Maria,DF,-16.039003,-48.008409,Centro automotivo,4.2,180,490.64,13,23.2,0
+OF1127,Oficina Simulada 1127,Águas Claras,DF,-15.83196,-48.048823,Independente,4.6,23,537.6,9,-4.1,0

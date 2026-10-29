@@ -1,0 +1,19 @@
+{
+  "aviso": "DADOS SIMULADOS - não representam oficinas ou clientes reais",
+  "semente": 42,
+  "n_oficinas": 1200,
+  "n_clientes": 2000,
+  "alternativas_por_cliente": 8,
+  "betas_verdadeiros_padronizados": {
+    "nota": 1.1,
+    "distancia_km": -0.85,
+    "log_avaliacoes": 0.45,
+    "garantia_estendida": 0.4,
+    "log_preco": -0.3
+  },
+  "ancoragem": {
+    "nota/avaliacoes/garantia > preco": "IQA/Ipsos (2026): confiança 33%, qualidade 17%, garantia 17%, preço 8%",
+    "tipos de estabelecimento": "IQA/Ipsos (2026): independentes 53%, concessionárias 20%, centros automotivos 17%",
+    "distancia": "SUPOSIÇÃO do protótipo (a pesquisa não mede proximidade)"
+  }
+}
