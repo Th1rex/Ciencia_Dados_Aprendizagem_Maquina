@@ -11,13 +11,19 @@
 
 ## Como rodar
 
-```bash
+Os comandos precisam ser executados **de dentro da pasta `prototipo`**. No Windows (PowerShell), a partir da pasta do repositório clonado:
+
+```powershell
+cd (Get-ChildItem -Directory "Projeto_Ci*").FullName   # entra em Projeto_Ciência_de_Dados (evita digitar o acento)
+cd prototipo
 pip install -r requirements.txt
-python src/executar_tudo.py          # gera dados, trata, modela e grava resultados/
-streamlit run dashboard/app.py       # abre a dashboard em http://localhost:8501
+python src\executar_tudo.py              # gera dados, trata, modela e grava resultados/
+python -m streamlit run dashboard\app.py # abre a dashboard em http://localhost:8501
 ```
 
-Tudo usa a semente `42`, então rodar de novo produz exatamente os mesmos números.
+A dashboard só funciona enquanto o último comando estiver rodando. Fechar o PowerShell (ou apertar Ctrl+C) derruba o `localhost:8501`.
+
+Tudo usa a semente `42`: com as mesmas versões das bibliotecas, rodar de novo produz os mesmos números.
 
 ## Estrutura
 
@@ -63,7 +69,7 @@ prototipo/
 ### Desenho da base simulada
 
 - **1.200 oficinas** em 15 regiões administrativas do DF, com nota, nº de avaliações, preço médio da revisão, nº de serviços, anos de funcionamento, garantia estendida e tipo.
-- **2.000 clientes**. Cada um compara **8 oficinas** sorteadas entre as 30 mais próximas e escolhe 1. São **16.000 linhas** de pares cliente × oficina.
+- **2.000 clientes**. Cada um compara **8 oficinas** sorteadas entre as 30 mais próximas que têm pelo menos 1 avaliação, e escolhe 1. São **16.000 linhas** de pares cliente × oficina.
 - A escolha segue um logit multinomial: `utilidade = 1,10·nota − 0,85·distância + 0,45·log(avaliações) + 0,40·garantia − 0,30·log(preço) + erro`, com as variáveis padronizadas.
 - Uma qualidade latente, que não é observada, gera ao mesmo tempo nota, garantia e tempo de mercado. É isso que cria diferenças reais entre oficinas bem e mal avaliadas para a subpergunta.
 
@@ -118,13 +124,13 @@ Todo tratamento fica registrado em `resultados.json` → `log_tratamento` e apar
 | Preço (log) | −0,29 | −0,30 |
 | Anos / nº de serviços | ≈ 0 (p > 0,2) | 0 |
 
-O método recuperou sinal, ordem e magnitude de todos os parâmetros, e não inventou efeito para as variáveis neutras. **Critério de sucesso atingido.**
+O método recuperou sinal e ordem de todos os parâmetros, e o valor usado na simulação ficou dentro do IC 95% em todas as 7 variáveis, incluindo as duas neutras (anos e nº de serviços), para as quais não inventou efeito. **Critério de sucesso atingido.**
 
 **Modelos supervisionados (teste com 500 clientes):** Regressão Logística ROC-AUC 0,78, acerto top-1 de 43% (acaso: 12,5%). Gradient Boosting 0,78 / 41%. Random Forest 0,77 / 39%. Árvore 0,75 / 37%. O modelo mais simples ganhou, o que faz sentido porque os dados foram gerados por um modelo logístico.
 
 **Ordem do trio:** nota > distância > preço, nos dois métodos.
 
-**Subpergunta:** as oficinas de alta avaliação têm mais avaliações (mediana 56 × 35), mais garantia estendida (61% × 32), mais tempo de mercado (12 × 10 anos) e preço **maior** (R$ 568 × R$ 500). O nº de serviços não difere.
+**Subpergunta:** as oficinas de alta avaliação têm mais avaliações (mediana 56,5 × 35), mais garantia estendida (61% × 32%), mais tempo de mercado (12 × 10 anos) e preço **maior** (R$ 568 × R$ 500). O nº de serviços não difere.
 
 **Clusters:** a melhor silhueta foi k=2, com valor 0,22, que é **fraco**. O K-Means separou basicamente quem oferece garantia de quem não oferece.
 
@@ -159,13 +165,17 @@ A implantação é a dashboard Streamlit em 5 abas: visão geral, comportamento,
 
 ## Como trocar pelos dados reais
 
-Substitua os arquivos de `data/raw/` mantendo as mesmas colunas e rode `python src/preparacao.py` seguido da análise, sem `gerar_dados.py`. Hoje `executar_tudo.py` sempre gera os dados simulados de novo, então para a base real é preciso remover o passo 1. Se a base real não tiver `escolhas_brutas.csv`, a análise da pergunta principal precisa mudar para o alvo substituto (ver Limitações, item 2).
+1. Coloque os arquivos reais em `data/raw/` com as mesmas colunas (`oficinas_brutas.csv`, `clientes_brutos.csv`, `escolhas_brutas.csv`) e apague `parametros_simulacao.json`.
+2. Rode `python src\executar_tudo.py --dados-reais`. Essa opção pula a geração de dados simulados.
+3. Revise os textos da dashboard que falam em "dados simulados" e "valor usado na simulação". Com base real, os losangos de comparação somem do gráfico de coeficientes.
+
+Se a base real não tiver `escolhas_brutas.csv` (escolha observada), a análise da pergunta principal precisa mudar para o alvo substituto (ver Limitações, item 2). Isso exige alterar `analise.py`.
 
 ## Referências
 
 - IQA; IPSOS. *Confiança pesa mais que preço na escolha da oficina mecânica.* Portal da Autopeça, 14 out. 2026. https://portaldaautopeca.com.br/noticias/local/confianca-pesa-mais-que-preco-na-escolha-da-oficina-mecanica-confirma-pesquisa-iqa-ipsos/
 - MAIA, D. A. da et al. Qualidade e valor para o cliente de oficinas mecânicas autorizadas: um estudo de caso na Jeff Car. *Inova+ Cadernos de Graduação*, v. 1, n. 2, p. 108-126, 2021. https://app.fiepr.org.br/revistacientifica/index.php/inovamais/article/download/508/492
-- Avaliação da Qualidade do Serviço em uma Oficina Mecânica Automotiva da Cidade de Muritiba-BA. https://www.researchgate.net/publication/355932639
+- Avaliação da Qualidade do Serviço em uma Oficina Mecânica Automotiva da Cidade de Muritiba-BA. https://www.researchgate.net/publication/355932639 (**referência incompleta:** autores, ano e periódico não verificados, pois o texto não pôde ser acessado)
 - MOYSÉS, C. O papel da qualidade para melhoria da competitividade no setor automotivo nacional. IQA, 2 ago. 2024. https://www.iqa.org.br/imprensa/o-papel-da-qualidade-para-melhoria-da-competitividade-no-setor-automotivo-nacional-por-claudio-moyses/
 - MOYSÉS, C. A qualidade como pilar para a sustentabilidade no setor automotivo. IQA, 1 mar. 2024. https://www.iqa.org.br/imprensa/a-qualidade-como-pilar-para-a-sustentabilidade-no-setor-automotivo-por-claudio-moyses/
 - MOYSÉS, C. A busca pela excelência: a qualidade automotiva no Brasil e o cenário global. IQA, 23 ago. 2023. https://www.iqa.org.br/imprensa/a-busca-pela-excelencia-a-qualidade-automotiva-no-brasil-e-o-cenario-global-por-claudio-moyses/
