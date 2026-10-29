@@ -27,7 +27,7 @@ Vale a pena investir na franquia da pizza hut?
 Estatisca (Analise de Regressão, e Aprendizado Supervisionado e Não Supervisionado) 
 
 
-## Referencia:
+## Referencia: Onde saiu os dados brutos
 
 Entendimento dos Dados: Coleta e exploração inicial para identificar a qualidade e as características das bases.
 Preparação dos Dados: Limpeza, transformação, integração e seleção de variáveis (fase que costuma consumir a maior parte do tempo do projeto).
