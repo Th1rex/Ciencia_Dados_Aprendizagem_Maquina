@@ -121,10 +121,11 @@ def logit_condicional(base, betas_verdadeiros):
         "odds_ratio": np.exp(ajuste.params),
     })
     tabela["peso_absoluto"] = tabela["coeficiente"].abs()
-    tabela["beta_verdadeiro_simulacao"] = tabela["variavel"].map(
-        {"log_avaliacoes": betas_verdadeiros["log_avaliacoes"], "nota": betas_verdadeiros["nota"],
-         "distancia_km": betas_verdadeiros["distancia_km"], "log_preco": betas_verdadeiros["log_preco"],
-         "garantia_estendida": betas_verdadeiros["garantia_estendida"]}).fillna(0.0)
+    # Só existe na base simulada; com dados reais a coluna fica vazia
+    if betas_verdadeiros:
+        tabela["beta_verdadeiro_simulacao"] = tabela["variavel"].map(betas_verdadeiros).fillna(0.0)
+    else:
+        tabela["beta_verdadeiro_simulacao"] = np.nan
 
     # Pseudo-R² de McFadden: compara com o modelo "escolha ao acaso" (1/8)
     ll_nulo = -base["id_cliente"].nunique() * np.log(base.groupby("id_cliente").size().mean())
@@ -319,8 +320,12 @@ def avaliar_hipoteses(logit, grupos):
 
 def executar(oficinas, base, log_tratamento, cortes):
     PASTA_RES.mkdir(parents=True, exist_ok=True)
-    with open(RAIZ / "data" / "raw" / "parametros_simulacao.json", encoding="utf-8") as f:
-        parametros = json.load(f)
+    arquivo_param = RAIZ / "data" / "raw" / "parametros_simulacao.json"
+    if arquivo_param.exists():
+        with open(arquivo_param, encoding="utf-8") as f:
+            parametros = json.load(f)
+    else:   # base real: não há parâmetros "verdadeiros" para comparar
+        parametros = {"aviso": "Base real", "betas_verdadeiros_padronizados": {}}
 
     desc, corr, testes_corr = descritiva(oficinas, base)
     faixas = taxa_por_faixa(base)
