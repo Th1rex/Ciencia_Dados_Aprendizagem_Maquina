@@ -1,5 +1,3 @@
-<img src="assets/logo-udf.jpg" alt="UDF Centro Universitário" width="230">
-
 **Profa. Kadidja Valéria | UDF**  
 Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.2
 
@@ -122,6 +120,3 @@ Para inserir uma imagem salva, use `![Matriz de confusão](assets/minha-matriz.p
 ![Matriz de confusão do teste](assets/lab-matriz-confusao.png)
 
 ![Resíduos da regressão no teste](assets/lab-residuos.png)
-
-[Voltar ao início](README.md).
-
