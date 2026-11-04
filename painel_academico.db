@@ -1,0 +1,218 @@
+-- =====================================================================
+-- DESAFIO | Painel Acadêmico de Matrículas (SQL Server / T-SQL)
+-- Entidades: ALUNO e TURMA | Relacionamento N:N: MATRICULA
+-- =====================================================================
+
+
+-- ---------------------------------------------------------------------
+-- 1) Criação do banco (mesmo nome no CREATE e no USE)
+-- ---------------------------------------------------------------------
+IF DB_ID('PAINEL_ACADEMICO') IS NULL
+    CREATE DATABASE PAINEL_ACADEMICO;
+GO
+
+USE PAINEL_ACADEMICO;
+GO
+
+
+-- ---------------------------------------------------------------------
+-- 2) Tabelas
+-- ---------------------------------------------------------------------
+
+-- Tabela de apoio: a TURMA original já apontava para CURSO,
+-- então ela precisa existir ANTES da TURMA
+CREATE TABLE CURSO
+(  co_curso     int           NOT NULL,
+   nome         varchar(100)  NOT NULL,
+   CONSTRAINT PK_CURSO PRIMARY KEY (co_curso)
+);
+GO
+
+-- ENTIDADE 1: ALUNO
+CREATE TABLE ALUNO
+(  co_aluno       int           NOT NULL,
+   dt_nascimento  date          NULL,      -- date basta, hora não importa
+   sg_sexo        char(1)       NULL,
+   nome           varchar(100)  NOT NULL,  -- 20 caracteres era curto demais
+   CONSTRAINT PK_ALUNO PRIMARY KEY (co_aluno)
+);
+GO
+
+-- ENTIDADE 2: TURMA
+CREATE TABLE TURMA
+(  co_turma     char(11)     NOT NULL,
+   co_curso     int          NOT NULL,  -- coluna que faltava para a FK
+   ano          char(4)      NOT NULL,
+   periodo      char(1)      NOT NULL,
+   descricao    varchar(50)  NULL,      -- varchar não completa com espaços
+   dt_inicial   date         NULL,
+   dt_final     date         NULL,
+   nu_vagas     int          NOT NULL,  -- DENOMINADOR do indicador
+
+   CONSTRAINT PK_TURMA         PRIMARY KEY (co_turma),
+   CONSTRAINT FK_TURMA_CURSO   FOREIGN KEY (co_curso) REFERENCES CURSO(co_curso),
+   CONSTRAINT CK_TURMA_PERIODO CHECK (periodo IN ('1', '2')),
+   CONSTRAINT CK_TURMA_VAGAS   CHECK (nu_vagas > 0),            -- impede denominador zero
+   CONSTRAINT CK_TURMA_DATAS   CHECK (dt_final >= dt_inicial)   -- fim não pode vir antes do início
+);
+GO
+
+-- RELACIONAMENTO N:N: ALUNO "matricula-se em" TURMA
+CREATE TABLE MATRICULA
+(  co_matricula  int IDENTITY(1,1)  NOT NULL,
+   co_aluno      int                NOT NULL,
+   co_turma      char(11)           NOT NULL,
+   dt_matricula  datetime           NOT NULL CONSTRAINT DF_MATRICULA_DATA   DEFAULT GETDATE(),
+   st_matricula  char(1)            NOT NULL CONSTRAINT DF_MATRICULA_STATUS DEFAULT 'A',  -- A = ativa, C = cancelada
+
+   CONSTRAINT PK_MATRICULA        PRIMARY KEY (co_matricula),
+   CONSTRAINT FK_MATRICULA_ALUNO  FOREIGN KEY (co_aluno) REFERENCES ALUNO(co_aluno),
+   CONSTRAINT FK_MATRICULA_TURMA  FOREIGN KEY (co_turma) REFERENCES TURMA(co_turma),
+   CONSTRAINT CK_MATRICULA_STATUS CHECK (st_matricula IN ('A', 'C'))
+);
+GO
+
+-- REGRA DE DUPLICIDADE:
+-- o mesmo aluno não pode ter duas matrículas ATIVAS na mesma turma.
+-- Índice único filtrado: permite rematrícula depois de um cancelamento.
+CREATE UNIQUE INDEX UX_MATRICULA_ATIVA
+    ON MATRICULA (co_aluno, co_turma)
+    WHERE st_matricula = 'A';
+GO
+
+
+-- ---------------------------------------------------------------------
+-- 3) Dados de exemplo
+-- ---------------------------------------------------------------------
+INSERT INTO CURSO (co_curso, nome) VALUES
+(1, 'Sistemas de Informação');
+
+INSERT INTO ALUNO (co_aluno, dt_nascimento, sg_sexo, nome) VALUES
+(1, '2003-05-10', 'M', 'Carlos Souza'),
+(2, '2004-02-21', 'F', 'Ana Lima'),
+(3, '2002-11-03', 'M', 'Bruno Alves'),
+(4, '2005-07-15', 'F', 'Julia Martins'),
+(5, '2003-09-30', 'F', 'Paula Rocha');
+
+INSERT INTO TURMA (co_turma, co_curso, ano, periodo, descricao, dt_inicial, dt_final, nu_vagas) VALUES
+('SI-2026-2-A', 1, '2026', '2', 'Banco de Dados',      '2026-08-03', '2026-12-12', 4),
+('SI-2026-2-B', 1, '2026', '2', 'IHC',                 '2026-08-03', '2026-12-12', 3),
+('SI-2026-2-C', 1, '2026', '2', 'Engenharia de Software', '2026-08-03', '2026-12-12', 5);
+
+INSERT INTO MATRICULA (co_aluno, co_turma, st_matricula) VALUES
+(1, 'SI-2026-2-A', 'A'),
+(2, 'SI-2026-2-A', 'A'),
+(3, 'SI-2026-2-A', 'A'),
+(4, 'SI-2026-2-A', 'A'),
+(1, 'SI-2026-2-B', 'A'),
+(2, 'SI-2026-2-B', 'A'),
+(3, 'SI-2026-2-B', 'C'),  -- cancelada: não entra no indicador
+(5, 'SI-2026-2-C', 'A');
+GO
+
+
+-- ---------------------------------------------------------------------
+-- 4) INDICADOR: taxa de ocupação de vagas (%)
+--    numerador   = matrículas ATIVAS na turma
+--    denominador = vagas ofertadas (nu_vagas)
+-- ---------------------------------------------------------------------
+CREATE VIEW VW_OCUPACAO_TURMA
+AS
+SELECT t.co_turma,
+       t.descricao,
+       t.ano + '/' + t.periodo   AS semestre,
+       COUNT(m.co_matricula)     AS matriculados,
+       t.nu_vagas                AS vagas,
+       CAST(100.0 * COUNT(m.co_matricula) / NULLIF(t.nu_vagas, 0)
+            AS decimal(5, 1))    AS ocupacao_pct
+FROM TURMA t
+-- LEFT JOIN: turma sem nenhum aluno aparece com 0% em vez de sumir
+LEFT JOIN MATRICULA m
+       ON m.co_turma = t.co_turma
+      AND m.st_matricula = 'A'
+GROUP BY t.co_turma, t.descricao, t.ano, t.periodo, t.nu_vagas;
+GO
+
+-- Painel: ocupação de todas as turmas
+SELECT * FROM VW_OCUPACAO_TURMA ORDER BY ocupacao_pct DESC;
+GO
+
+
+-- ---------------------------------------------------------------------
+-- 5) PREVENÇÃO DE ERRO (apoio à interface)
+--    Consulta que alimenta a lista de turmas na tela de matrícula:
+--    só mostra turmas com vaga e onde o aluno ainda NÃO está matriculado.
+-- ---------------------------------------------------------------------
+DECLARE @co_aluno int = 1;
+
+SELECT v.co_turma,
+       v.descricao,
+       v.vagas - v.matriculados AS vagas_restantes
+FROM VW_OCUPACAO_TURMA v
+WHERE v.matriculados < v.vagas
+  AND NOT EXISTS (SELECT 1
+                  FROM MATRICULA m
+                  WHERE m.co_aluno = @co_aluno
+                    AND m.co_turma = v.co_turma
+                    AND m.st_matricula = 'A');
+GO
+
+
+-- ---------------------------------------------------------------------
+-- 6) TESTE DA REGRA DE DUPLICIDADE
+--    Roda dentro de uma transação e desfaz tudo no final,
+--    para não sujar os dados de exemplo.
+-- ---------------------------------------------------------------------
+SET XACT_ABORT OFF;  -- erro de unicidade não derruba a transação inteira
+BEGIN TRANSACTION;
+
+-- CT01: aluno 1 já está ativo na turma A -> deve ser BLOQUEADO
+BEGIN TRY
+    INSERT INTO MATRICULA (co_aluno, co_turma) VALUES (1, 'SI-2026-2-A');
+    PRINT 'CT01 FALHOU: a duplicata foi aceita';
+END TRY
+BEGIN CATCH
+    IF ERROR_NUMBER() IN (2601, 2627)  -- violação de índice/restrição única
+        PRINT 'CT01 PASSOU: duplicata bloqueada pelo banco';
+    ELSE
+        PRINT 'CT01 FALHOU: erro inesperado - ' + ERROR_MESSAGE();
+END CATCH;
+
+-- CT01 (verificação): continua existindo só 1 matrícula ativa
+IF (SELECT COUNT(*) FROM MATRICULA
+    WHERE co_aluno = 1 AND co_turma = 'SI-2026-2-A' AND st_matricula = 'A') = 1
+    PRINT 'CT01 PASSOU: contagem continua 1';
+ELSE
+    PRINT 'CT01 FALHOU: contagem diferente de 1';
+
+-- CT02: mesmo aluno em OUTRA turma -> deve ser ACEITO
+BEGIN TRY
+    INSERT INTO MATRICULA (co_aluno, co_turma) VALUES (1, 'SI-2026-2-C');
+    PRINT 'CT02 PASSOU: mesmo aluno em outra turma foi aceito';
+END TRY
+BEGIN CATCH
+    PRINT 'CT02 FALHOU: ' + ERROR_MESSAGE();
+END CATCH;
+
+-- CT03: OUTRO aluno na mesma turma -> deve ser ACEITO
+BEGIN TRY
+    INSERT INTO MATRICULA (co_aluno, co_turma) VALUES (5, 'SI-2026-2-B');
+    PRINT 'CT03 PASSOU: outro aluno na mesma turma foi aceito';
+END TRY
+BEGIN CATCH
+    PRINT 'CT03 FALHOU: ' + ERROR_MESSAGE();
+END CATCH;
+
+-- CT04: aluno 3 tem matrícula CANCELADA na turma B -> rematrícula deve ser ACEITA
+BEGIN TRY
+    INSERT INTO MATRICULA (co_aluno, co_turma) VALUES (3, 'SI-2026-2-B');
+    PRINT 'CT04 PASSOU: rematrícula após cancelamento foi aceita';
+END TRY
+BEGIN CATCH
+    PRINT 'CT04 FALHOU: ' + ERROR_MESSAGE();
+END CATCH;
+
+ROLLBACK TRANSACTION;  -- desfaz os inserts dos testes
+PRINT 'Testes finalizados (dados de teste desfeitos).';
+GO
+
