@@ -1,5 +1,3 @@
-<img src="assets/logo-udf.jpg" alt="UDF Centro Universitário" width="230">
-
 **Profa. Kadidja Valéria | UDF**  
 Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.2
 
@@ -76,11 +74,6 @@ Se a empresa tem um histórico de transações já marcadas como fraude ou legí
 Sem rótulos, o problema é **não supervisionado**, com detecção de anomalias ou agrupamento: o modelo aprende como é o comportamento normal (valores, horários, locais e frequência habituais) e sinaliza as operações que fogem desse padrão. A vantagem é conseguir apontar golpes novos sem precisar de exemplos anteriores. A limitação é que atípico não é sinônimo de fraude: uma compra alta legítima ou uma viagem ao exterior também são atípicas, o que gera falsos positivos e exige revisão humana.
 
 Na prática, as duas abordagens costumam ser combinadas: a detecção de anomalias gera alertas, analistas revisam esses alertas, e os casos confirmados viram rótulos que depois treinam um classificador supervisionado.
-
-## Entrega
-
-Salve este arquivo preenchido. Critérios: distinção conceitual, pertinência dos dados, justificativa e clareza. [Voltar ao início](README.md).
-
 
 ## Entrega
 
