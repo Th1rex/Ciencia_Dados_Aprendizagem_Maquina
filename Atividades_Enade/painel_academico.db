@@ -1,0 +1,30 @@
+DESAFIO | Painel acadêmico 
+
+
+Equipe: proponha um painel de matrículas. 
+
+1. Defina duas entidades e um relacionamento. 
+
+2. Escolha um indicador com denominador. 
+
+3. Proponha uma prevenção de erro na interface. 
+
+4. Descreva um teste para a regra de duplicidade.  
+
+
+Método C.A.L.M.A.
+
+C- Comando: o que é solicitado?
+A-Assunto: qual conceito?
+
+L - Leitura: quais evidências?
+M - Marcação: quais opções descartar?
+A - Avaliação: minha resposta atende ao comando?
+
+
+Fechamento e estudo autônomo
+
+Revisar modelos relacionais, SQL, indicadores e IHC
+Responder às questões no material do estudante.
+Registrar justificativas pelo C.A.L.M.A.
+Identificar dúvidas para o próximo encontro.
