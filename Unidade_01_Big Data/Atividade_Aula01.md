@@ -29,7 +29,6 @@ Nosso projeto utilizará os dados de avaliações, histórico de serviços e fat
 
 **Versão da equipe:**
 0.1
-________________________________________________________________________________
 
 ## 3. Contexto e definição do problema
 
@@ -46,8 +45,6 @@ Descreva a situação atual, o ambiente em que o problema ocorre e as evidência
 - Por que é importante investigá-lo agora?
    - **A digitalização de serviços tradicionais é uma demanda crescente. Otimizar esse fluxo através da organização dos dados gera lucro para as oficinas e segurança para o consumidor.**
 
-
-________________________________________________________________________________
 
 ### 3.2 Problema central
 
@@ -157,7 +154,6 @@ Registre suposições que serão investigadas, sem apresentá-las como conclusõ
 
 **Cuidados específicos deste projeto:**
  - Senhas criptografadas no banco, e não exposição de dados de contato do cliente abertamente no ranking público das oficinas.
-________________________________________________________________________________
 
 ## 9. Escopo do projeto
 
@@ -169,8 +165,6 @@ ________________________________________________________________________________
 
 
 **Restrições conhecidas:** tempo, acesso a dados, ferramentas, infraestrutura, conhecimento técnico ou normas.
-
-________________________________________________________________________________
 
 ## 10. Resultados e entregáveis previstos
 
@@ -241,10 +235,6 @@ Antes da entrega, confirme:
 | Professor(a) / orientador(a) | | |
 
 ### Ajustes solicitados após a apresentação inicial
-
-________________________________________________________________________________
-
-________________________________________________________________________________
 
 
 Formato sugerido: Markdown, PDF ou documento disponibilizado pelo professor.
