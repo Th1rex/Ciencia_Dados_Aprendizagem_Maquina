@@ -294,9 +294,47 @@ def executar_sql():
 
 
 # ---------------------------------------------------------------------------
-# 7. Hipóteses e conclusão (geradas a partir dos números, não escritas à mão)
+# 8. Hipóteses e conclusão (geradas a partir dos números, não escritas à mão)
 # ---------------------------------------------------------------------------
-def avaliar_hipoteses(logit, grupos):
+# ---------------------------------------------------------------------------
+# 7. Itens do documento de definição do projeto (Unidade III)
+# ---------------------------------------------------------------------------
+def testar_h1_definicao(base, oficinas, corte_nota=4.0, ganho_minimo=0.40):
+    """
+    H1 da definição: oficinas com nota > 4,0 recebem pelo menos 40% mais agendamentos.
+    Proxy de "agendamento": quantas vezes a oficina foi ESCOLHIDA a cada vez que foi
+    comparada (taxa de escolha), para não favorecer quem simplesmente aparece mais.
+    """
+    por_oficina = (base.groupby("id_oficina")
+                       .agg(vezes_comparada=("escolhida", "size"), vezes_escolhida=("escolhida", "sum"))
+                       .join(oficinas.set_index("id_oficina")["nota"]))
+    por_oficina["taxa_escolha"] = por_oficina["vezes_escolhida"] / por_oficina["vezes_comparada"]
+    acima = por_oficina.loc[por_oficina["nota"] > corte_nota, "taxa_escolha"]
+    abaixo = por_oficina.loc[por_oficina["nota"] <= corte_nota, "taxa_escolha"]
+    ganho = acima.mean() / abaixo.mean() - 1
+    _, p = stats.mannwhitneyu(acima, abaixo, alternative="greater")
+    if p >= 0.05:
+        veredito = "Não suportada (diferença não significativa)"
+    elif ganho >= ganho_minimo:
+        veredito = f"Suportada: {ganho:.0%} a mais de escolha (meta: {ganho_minimo:.0%})"
+    else:
+        veredito = f"Parcial: há diferença significativa, mas só {ganho:.0%} (meta: {ganho_minimo:.0%})"
+    return {
+        "taxa_acima": float(acima.mean()), "taxa_abaixo": float(abaixo.mean()),
+        "n_acima": int(len(acima)), "n_abaixo": int(len(abaixo)),
+        "ganho_relativo": float(ganho), "p_valor": float(p), "veredito": veredito,
+    }
+
+
+def ranking_reputacao(oficinas, top=10):
+    """Objetivo específico 2 da definição: ranking das oficinas pela nota ajustada (bayesiana)."""
+    cols = ["id_oficina", "nome_oficina", "regiao", "tipo", "nota", "quantidade_avaliacoes", "nota_ajustada"]
+    return (oficinas.dropna(subset=["nota_ajustada"])
+                    .sort_values(["nota_ajustada", "quantidade_avaliacoes"], ascending=False)
+                    .head(top)[cols].round(3).to_dict("records"))
+
+
+def avaliar_hipoteses(logit, grupos, h1_def):
     c = logit.set_index("variavel")
 
     def veredito(var, sinal_esperado):
@@ -315,6 +353,10 @@ def avaliar_hipoteses(logit, grupos):
          "resultado": veredito("log_avaliacoes", 1)},
         {"id": "H5", "texto": "Oficinas mais bem avaliadas têm características diferentes",
          "resultado": ("Suportada: " + ", ".join(dif)) if dif else "Não suportada"},
+        {"id": "H1-Def", "texto": "(Documento de definição) Nota > 4,0 recebe pelo menos 40% mais agendamentos",
+         "resultado": h1_def["veredito"]},
+        {"id": "H2-Def", "texto": "(Documento de definição) Mostrar o preço antes reduz cancelamentos",
+         "resultado": "Não testável: a base não tem cancelamento nem exibição prévia de preço"},
     ]
 
 
@@ -334,7 +376,9 @@ def executar(oficinas, base, log_tratamento, cortes):
     grupos = comparar_grupos(oficinas)
     clusters = agrupar_oficinas(oficinas)
     sql = executar_sql()
-    hipoteses = avaliar_hipoteses(logit, grupos)
+    h1_def = testar_h1_definicao(base, oficinas)
+    ranking = ranking_reputacao(oficinas)
+    hipoteses = avaliar_hipoteses(logit, grupos, h1_def)
 
     # Ranking do trio da pergunta principal, pelas duas abordagens
     trio_logit = logit[logit["variavel"].isin(TRIO)].sort_values("peso_absoluto", ascending=False)
@@ -360,6 +404,8 @@ def executar(oficinas, base, log_tratamento, cortes):
         "clusters": clusters,
         "sql": sql,
         "hipoteses": hipoteses,
+        "h1_definicao": h1_def,
+        "ranking_reputacao": ranking,
         "resposta_principal": {
             "ordem_logit": ordem_logit, "ordem_permutacao": ordem_perm,
             "concordam": ordem_logit == ordem_perm,

@@ -10362,6 +10362,117 @@
       "id": "H5",
       "texto": "Oficinas mais bem avaliadas têm características diferentes",
       "resultado": "Suportada: Preço médio (R$), Nº de avaliações, Anos de funcionamento, Garantia estendida (%)"
+    },
+    {
+      "id": "H1-Def",
+      "texto": "(Documento de definição) Nota > 4,0 recebe pelo menos 40% mais agendamentos",
+      "resultado": "Suportada: 480% a mais de escolha (meta: 40%)"
+    },
+    {
+      "id": "H2-Def",
+      "texto": "(Documento de definição) Mostrar o preço antes reduz cancelamentos",
+      "resultado": "Não testável: a base não tem cancelamento nem exibição prévia de preço"
+    }
+  ],
+  "h1_definicao": {
+    "taxa_acima": 0.17469060265160313,
+    "taxa_abaixo": 0.030117593292841166,
+    "n_acima": 783,
+    "n_abaixo": 399,
+    "ganho_relativo": 4.8002842708260625,
+    "p_valor": 2.882561356312918e-70,
+    "veredito": "Suportada: 480% a mais de escolha (meta: 40%)"
+  },
+  "ranking_reputacao": [
+    {
+      "id_oficina": "OF1193",
+      "nome_oficina": "Oficina Simulada 1193",
+      "regiao": "Vicente Pires",
+      "tipo": "Centro automotivo",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 392,
+      "nota_ajustada": 4.944
+    },
+    {
+      "id_oficina": "OF0077",
+      "nome_oficina": "Oficina Simulada 0077",
+      "regiao": "Taguatinga",
+      "tipo": "Centro automotivo",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 367,
+      "nota_ajustada": 4.94
+    },
+    {
+      "id_oficina": "OF0032",
+      "nome_oficina": "Oficina Simulada 0032",
+      "regiao": "SIA",
+      "tipo": "Independente",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 249,
+      "nota_ajustada": 4.915
+    },
+    {
+      "id_oficina": "OF0638",
+      "nome_oficina": "Oficina Simulada 0638",
+      "regiao": "Recanto das Emas",
+      "tipo": "Independente",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 241,
+      "nota_ajustada": 4.912
+    },
+    {
+      "id_oficina": "OF0454",
+      "nome_oficina": "Oficina Simulada 0454",
+      "regiao": "Samambaia",
+      "tipo": "Concessionária",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 222,
+      "nota_ajustada": 4.906
+    },
+    {
+      "id_oficina": "OF1162",
+      "nome_oficina": "Oficina Simulada 1162",
+      "regiao": "Guará",
+      "tipo": "Concessionária",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 194,
+      "nota_ajustada": 4.894
+    },
+    {
+      "id_oficina": "OF0550",
+      "nome_oficina": "Oficina Simulada 0550",
+      "regiao": "Planaltina",
+      "tipo": "Centro automotivo",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 189,
+      "nota_ajustada": 4.892
+    },
+    {
+      "id_oficina": "OF0994",
+      "nome_oficina": "Oficina Simulada 0994",
+      "regiao": "Plano Piloto",
+      "tipo": "Independente",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 175,
+      "nota_ajustada": 4.884
+    },
+    {
+      "id_oficina": "OF0447",
+      "nome_oficina": "Oficina Simulada 0447",
+      "regiao": "SIA",
+      "tipo": "Independente",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 173,
+      "nota_ajustada": 4.883
+    },
+    {
+      "id_oficina": "OF0175",
+      "nome_oficina": "Oficina Simulada 0175",
+      "regiao": "Samambaia",
+      "tipo": "Concessionária",
+      "nota": 5.0,
+      "quantidade_avaliacoes": 169,
+      "nota_ajustada": 4.881
     }
   ],
   "resposta_principal": {

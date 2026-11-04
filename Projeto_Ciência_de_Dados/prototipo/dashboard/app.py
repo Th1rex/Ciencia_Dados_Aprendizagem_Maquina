@@ -229,6 +229,19 @@ with aba3:
     fig.update_layout(xaxis_title="%", yaxis_title="", legend_title_text="")
     st.plotly_chart(fig, use_container_width=True)
 
+    st.markdown("**Ranking de reputação** (objetivo específico 2 do documento de definição): top 10 pela "
+                "nota ajustada, que desconta notas altas com poucas avaliações")
+    rk = pd.DataFrame(res["ranking_reputacao"]).rename(columns={
+        "id_oficina": "ID", "nome_oficina": "Oficina", "regiao": "Região", "tipo": "Tipo", "nota": "Nota",
+        "quantidade_avaliacoes": "Avaliações", "nota_ajustada": "Nota ajustada"})
+    rk.insert(0, "Posição", range(1, len(rk) + 1))
+    st.dataframe(rk, hide_index=True, use_container_width=True)
+
+    h1d = res["h1_definicao"]
+    st.markdown(f"**H1 do documento de definição** (nota > 4,0 → pelo menos 40% mais agendamentos): "
+                f"taxa de escolha de {h1d['taxa_acima']:.1%} nas oficinas acima de 4,0 contra ".replace(".", ",")
+                + f"{h1d['taxa_abaixo']:.1%} nas demais → ".replace(".", ",") + f"**{h1d['veredito']}**.")
+
     with st.expander("Regras da árvore de decisão (Alta × demais, sem usar a nota)"):
         st.code(res["grupos"]["arvore_regras"], language="text")
         st.caption(f"ROC-AUC em validação cruzada (5 folds): {res['grupos']['arvore_auc_cv_media']:.2f} "
