@@ -1,5 +1,3 @@
-<img src="assets/logo-udf.jpg" alt="UDF Centro Universitário" width="230">
-
 **Profa. Kadidja Valéria | UDF**  
 Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.2
 
@@ -74,8 +72,3 @@ A primeira etapa é descritiva, com um mapa de calor por dia e hora, e ela prova
 Avaliamos com separação temporal e erro médio em atendimentos por hora, e, na prática, com um piloto medindo o tempo de espera antes e depois.
 
 Respondendo à questão norteadora: trabalhamos com contagens agregadas, sem nome, matrícula ou histórico de leitura, e não usamos idade, gênero ou curso para decidir quem recebe qual serviço. Uma limitação importante é que quem desistiu por causa da fila não aparece nos dados, por isso a proposta inclui uma pesquisa anônima com os estudantes.
-
-## Entrega
-
-Canvas preenchido e síntese para apresentação de dois minutos. Avaliar coerência da pergunta, dados, abordagem, responsabilidade e colaboração. [Voltar ao início](README.md).
-
